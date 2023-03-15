@@ -76,8 +76,7 @@ void populateTable(athlete_t *athlete, int size) {
     athlete[i].injured = rand() % 2;
     if (athlete[i].injured == true) {
       athlete[i].monthsForRecovery = 1 + rand() % 12;
-    }
-    else {
+    } else {
       athlete[i].monthsForRecovery = 0;
     }
   }
@@ -93,7 +92,6 @@ void saveTableInCSV(athlete_t *athlete, int size, const char *arquiveName) {
     for (int i = 0; i < size; i++) {
       fprintf(arquive, "%d, %s, %s, %d, %s, %s, %d, %d, %d, %d, %d, %d, %d, %s, %s, %d\n", athlete[i].id, athlete[i].firstName, athlete[i].lastName, athlete[i].age, athlete[i].team, positions[athlete[i].position], athlete[i].marketValue, athlete[i].overall, athlete[i].strength, athlete[i].speed, athlete[i].resistance, athlete[i].willpower, athlete[i].criativity, athlete[i].leadership ? "Yes" : "No", athlete[i].injured ? "Yes" : "No", athlete[i].monthsForRecovery);
     }
-
     fclose(arquive);
   }
 }
