@@ -4,7 +4,7 @@
 #include <time.h>
 #include <string.h>
 
-#define MAX_DECK 50
+#define MAX_DECK 50 // 1000
 #define MAX_NAME 21
 #define MAX_TEAM 21
 #define QNT_NAME 35
@@ -52,7 +52,7 @@ void populateTable(athlete_t *athlete, int size) {
 
   char teams[QNT_TEAM][MAX_TEAM] = {"América-MG", "Athletico-PR", "Atlético-MG", "Bahia", "Botafogo", "Bragantino", "Corinthians", "Coritiba", "Cruzeiro", "Cuiabá", "Flamengo", "Fluminense", "Fortaleza", "Goiás", "Grêmio", "Internacional", "Palmeiras", "Santos", "São Paulo", "Vasco"};
 
-  char *positions[5] = { "Goalkepper", "Defender", "Midfielder", "Striker", "Sweeper" };
+  char *positions[5] = {"Goalkepper", "Defender", "Midfielder", "Striker", "Sweeper"};
 
   for (int i = 0; i < size; i++) {
     int firstNameIndex = rand() % QNT_NAME;
@@ -74,47 +74,24 @@ void populateTable(athlete_t *athlete, int size) {
     athlete[i].overall = (athlete[i].strength + athlete[i].speed + athlete[i].resistance + athlete[i].willpower + athlete[i].criativity) / 5;
     athlete[i].leadership = rand() % 2;
     athlete[i].injured = rand() % 2;
-    if(athlete[i].injured == true) {
+    if (athlete[i].injured == true) {
       athlete[i].monthsForRecovery = 1 + rand() % 12;
-    } else {
+    }
+    else {
       athlete[i].monthsForRecovery = 0;
     }
-  }
-
-  for (int i = 0; i < size; i++) {
-    printf("ID: %d\n", athlete[i].id);
-    printf("First Name: %s\n", athlete[i].firstName);
-    printf("Last Name: %s\n", athlete[i].lastName);
-    printf("Age: %d\n", athlete[i].age);
-    printf("Team: %s\n", athlete[i].team);
-    printf("Position: %s\n", positions[athlete[i].position]);
-    printf("Market Value: %i\n", athlete[i].marketValue);
-    printf("Overral: %d\n", (athlete[i].strength + athlete[i].speed + athlete[i].resistance + athlete[i].willpower + athlete[i].criativity) / 5);
-    printf("Strength: %d\n", athlete[i].strength);
-    printf("Speed: %d\n", athlete[i].speed);
-    printf("Resistance: %d\n", athlete[i].resistance);
-    printf("Willpower: %d\n", athlete[i].willpower);
-    printf("Criativity: %d\n", athlete[i].criativity);
-    printf("Leadership: %s\n", athlete[i].leadership ? "Yes" : "No");
-    printf("Injured: %s\n", athlete[i].injured ? "Yes" : "No");
-    if(athlete[i].monthsForRecovery < 0) {
-      printf("Months for recovery: %d\n", athlete[i].monthsForRecovery);
-    } else {
-      // TODO: código que cancele o printf caso o jogador não esteja machucado.
-    }
-    
   }
 }
 
 void saveTableInCSV(athlete_t *athlete, int size, const char *arquiveName) {
-  char *positions[5] = { "Goalkepper", "Defender", "Midfielder", "Striker", "Sweeper" };
+  char *positions[5] = {"Goalkepper", "Defender", "Midfielder", "Striker", "Sweeper"};
 
   FILE *arquive = fopen(arquiveName, "w");
-  
-  if(arquive != NULL) {
-    fprintf(arquive, "ID,First Name,Last Name,Age,Team,Position,Market Value,Overall,Strength,Speed,Resistance,WillPower,Criativity,Leadership,Injured,Months For Recovery\n");
+
+  if (arquive != NULL) {
+    fprintf(arquive, "ID, First Name, Last Name, Age, Team, Position, Market Value, Overall, Strength, Speed, Resistance, WillPower, Criativity, Leadership, Injured, Months For Recovery\n");
     for (int i = 0; i < size; i++) {
-      fprintf(arquive, "%d,%s,%s,%d,%s,%s,%d,%d,%d,%d,%d,%d,%d,%s,%s,%d\n", athlete[i].id, athlete[i].firstName, athlete[i].lastName, athlete[i].age, athlete[i].team, positions[athlete[i].position], athlete[i].marketValue, athlete[i].overall, athlete[i].strength, athlete[i].speed, athlete[i].resistance, athlete[i].willpower, athlete[i].criativity, athlete[i].leadership ? "Yes" : "No", athlete[i].injured ? "Yes" : "No", athlete[i].monthsForRecovery);
+      fprintf(arquive, "%d, %s, %s, %d, %s, %s, %d, %d, %d, %d, %d, %d, %d, %s, %s, %d\n", athlete[i].id, athlete[i].firstName, athlete[i].lastName, athlete[i].age, athlete[i].team, positions[athlete[i].position], athlete[i].marketValue, athlete[i].overall, athlete[i].strength, athlete[i].speed, athlete[i].resistance, athlete[i].willpower, athlete[i].criativity, athlete[i].leadership ? "Yes" : "No", athlete[i].injured ? "Yes" : "No", athlete[i].monthsForRecovery);
     }
 
     fclose(arquive);
