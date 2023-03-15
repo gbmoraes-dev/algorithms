@@ -16,8 +16,7 @@
 #define MIN_MARKETVALUE 1000
 #define MAX_MARKETVALUE 10000
 
-typedef enum
-{
+typedef enum {
   Goalkepper,
   Defender,
   Midfielder,
@@ -25,8 +24,7 @@ typedef enum
   Sweeper
 } position_t;
 
-typedef struct
-{
+typedef struct {
   int id;
   char firstName[MAX_NAME];
   char lastName[MAX_NAME];
@@ -45,8 +43,7 @@ typedef struct
   position_t position;
 } athlete_t;
 
-int main()
-{
+void populateTable(athlete_t *athlet, int size) {
   srand(time(NULL));
 
   char firstNames[QNT_NAME][MAX_NAME] = {"Miguel", "Davi", "Gabriel", "Arthur", "Lucas", "Matheus", "Pedro", "Guilherme", "Gustavo", "Rafael", "Felipe", "Bernardo", "Enzo", "Nicolas", "João Pedro", "Cauã", "Vitor", "Eduardo", "Daniel", "Henrique", "Murilo", "Vinicius", "Samuel", "Pietro", "João Vitor", "Leonardo", "Caio", "Heitor", "Lorenzo", "Isaac", "Lucca", "Thiago", "João Gabriel", "João"};
@@ -55,16 +52,13 @@ int main()
 
   char teams[QNT_TEAM][MAX_TEAM] = {"América-MG", "Athletico-PR", "Atlético-MG", "Bahia", "Botafogo", "Bragantino", "Corinthians", "Coritiba", "Cruzeiro", "Cuiabá", "Flamengo", "Fluminense", "Fortaleza", "Goiás", "Grêmio", "Internacional", "Palmeiras", "Santos", "São Paulo", "Vasco"};
 
-  char *positions[5] = {"Goalkepper", "Defender", "Midfielder", "Striker", "Sweeper"};
+  //char *positions[5] = { "Goalkepper", "Defender", "Midfielder", "Striker", "Sweeper" };
 
-  int firstNameIndex = rand() % QNT_NAME;
-  int lastNameIndex = rand() % QNT_NAME;
-  int teamIndex = rand() % QNT_TEAM;
+  for (int i = 0; i < size; i++) {
+    int firstNameIndex = rand() % QNT_NAME;
+    int lastNameIndex = rand() % QNT_NAME;
+    int teamIndex = rand() % QNT_TEAM;
 
-  athlete_t athlet[MAX_DECK];
-
-  for (int i = 0; i < MAX_DECK; i++)
-  {
     athlet[i].id = i + 1;
     strcpy(athlet[i].firstName, firstNames[firstNameIndex]);
     strcpy(athlet[i].lastName, lastNames[lastNameIndex]);
@@ -82,15 +76,15 @@ int main()
     // TODO: athlet[i].daysForRecovery = (rand() % 12) + 1;
   }
 
-  for (int i = 0; i < MAX_DECK; i++)
-  {
+  for (int i = 0; i < size; i++) {
     printf("ID: %d\n", athlet[i].id);
     printf("First Name: %s\n", athlet[i].firstName);
     printf("Last Name: %s\n", athlet[i].lastName);
     printf("Age: %d\n", athlet[i].age);
     printf("Team: %s\n", athlet[i].team);
-    printf("Position: %s\n", positions[athlet[i].position]);
+    //printf("Position: %s\n", positions[athlet[i].position]);
     printf("Market Value: %i\n", athlet[i].marketValue);
+    printf("Overral: %d\n", (athlet[i].strength + athlet[i].speed + athlet[i].resistance + athlet[i].willpower + athlet[i].criativity) / 5);
     printf("Strength: %d\n", athlet[i].strength);
     printf("Speed: %d\n", athlet[i].speed);
     printf("Resistance: %d\n", athlet[i].resistance);
@@ -99,6 +93,12 @@ int main()
     printf("Leadership: %s\n", athlet[i].leadership ? "Yes" : "No");
     printf("Injured: %s\n", athlet[i].injured);
   }
+}
+
+int main() {
+  athlete_t *athlet = malloc(MAX_DECK * sizeof(athlete_t));
+
+  populateTable(athlet, MAX_DECK);
 
   return 0;
 }
