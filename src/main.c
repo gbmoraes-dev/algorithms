@@ -4,7 +4,7 @@
 #include <time.h>
 #include <string.h>
 
-#define MAX_DECK 1
+#define MAX_DECK 5
 #define MAX_NAME 21
 #define MAX_TEAM 21
 #define QNT_NAME 35
@@ -99,7 +99,7 @@ void populateTable(athlete_t *athlete, int size) {
 void saveTableInCSV(athlete_t *athlete, int size, const char *arquiveName) {
   char *positions[5] = { "Goalkepper", "Defender", "Midfielder", "Striker", "Sweeper" };
 
-  FILE *arquive = fopen(arquive, "w");
+  FILE *arquive = fopen(arquiveName, "w");
   
   if(arquive != NULL) {
     fprintf(arquive, "ID,First Name,Last Name,Age,Team,Position,Market Value,Overall,Strength,Speed,Resistance,WillPower,Criativity,Leadership,Injured\n");
