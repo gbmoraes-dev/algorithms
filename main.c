@@ -43,7 +43,7 @@ typedef struct {
   position_t position;
 } athlete_t;
 
-void populateTable(athlete_t *athlet, int size) {
+void populateTable(athlete_t *athlete, int size) {
   srand(time(NULL));
 
   char firstNames[QNT_NAME][MAX_NAME] = {"Miguel", "Davi", "Gabriel", "Arthur", "Lucas", "Matheus", "Pedro", "Guilherme", "Gustavo", "Rafael", "Felipe", "Bernardo", "Enzo", "Nicolas", "João Pedro", "Cauã", "Vitor", "Eduardo", "Daniel", "Henrique", "Murilo", "Vinicius", "Samuel", "Pietro", "João Vitor", "Leonardo", "Caio", "Heitor", "Lorenzo", "Isaac", "Lucca", "Thiago", "João Gabriel", "João"};
@@ -59,46 +59,66 @@ void populateTable(athlete_t *athlet, int size) {
     int lastNameIndex = rand() % QNT_NAME;
     int teamIndex = rand() % QNT_TEAM;
 
-    athlet[i].id = i + 1;
-    strcpy(athlet[i].firstName, firstNames[firstNameIndex]);
-    strcpy(athlet[i].lastName, lastNames[lastNameIndex]);
-    athlet[i].age = (rand() % (MAX_AGE - MIN_AGE + 1)) + MIN_AGE;
-    strcpy(athlet[i].team, teams[teamIndex]);
-    athlet[i].position = rand() % 5;
-    athlet[i].marketValue = (rand() % (MAX_MARKETVALUE - MIN_MARKETVALUE + 1)) + MIN_MARKETVALUE;
-    athlet[i].strength = MIN_POTENTIAL + rand() % MAX_POTENTIAL;
-    athlet[i].speed = MIN_POTENTIAL + rand() % MAX_POTENTIAL;
-    athlet[i].resistance = MIN_POTENTIAL + rand() % MAX_POTENTIAL;
-    athlet[i].willpower = MIN_POTENTIAL + rand() % MAX_POTENTIAL;
-    athlet[i].criativity = MIN_POTENTIAL + rand() % MAX_POTENTIAL;
-    athlet[i].leadership = rand() % 2;
-    athlet[i].injured = rand() % 2 ? "Yes" : "No";
-    // TODO: athlet[i].daysForRecovery = (rand() % 12) + 1;
+    athlete[i].id = i + 1;
+    strcpy(athlete[i].firstName, firstNames[firstNameIndex]);
+    strcpy(athlete[i].lastName, lastNames[lastNameIndex]);
+    athlete[i].age = (rand() % (MAX_AGE - MIN_AGE + 1)) + MIN_AGE;
+    strcpy(athlete[i].team, teams[teamIndex]);
+    athlete[i].position = rand() % 5;
+    athlete[i].marketValue = (rand() % (MAX_MARKETVALUE - MIN_MARKETVALUE + 1)) + MIN_MARKETVALUE;
+    athlete[i].overall = (athlete[i].strength + athlete[i].speed + athlete[i].resistance + athlete[i].willpower + athlete[i].criativity) / 5;
+    athlete[i].strength = MIN_POTENTIAL + rand() % MAX_POTENTIAL;
+    athlete[i].speed = MIN_POTENTIAL + rand() % MAX_POTENTIAL;
+    athlete[i].resistance = MIN_POTENTIAL + rand() % MAX_POTENTIAL;
+    athlete[i].willpower = MIN_POTENTIAL + rand() % MAX_POTENTIAL;
+    athlete[i].criativity = MIN_POTENTIAL + rand() % MAX_POTENTIAL;
+    athlete[i].leadership = rand() % 2;
+    athlete[i].injured = rand() % 2 ? "Yes" : "No";
+    // TODO: athlete[i].daysForRecovery = (rand() % 12) + 1;
   }
 
   for (int i = 0; i < size; i++) {
-    printf("ID: %d\n", athlet[i].id);
-    printf("First Name: %s\n", athlet[i].firstName);
-    printf("Last Name: %s\n", athlet[i].lastName);
-    printf("Age: %d\n", athlet[i].age);
-    printf("Team: %s\n", athlet[i].team);
-    //printf("Position: %s\n", positions[athlet[i].position]);
-    printf("Market Value: %i\n", athlet[i].marketValue);
-    printf("Overral: %d\n", (athlet[i].strength + athlet[i].speed + athlet[i].resistance + athlet[i].willpower + athlet[i].criativity) / 5);
-    printf("Strength: %d\n", athlet[i].strength);
-    printf("Speed: %d\n", athlet[i].speed);
-    printf("Resistance: %d\n", athlet[i].resistance);
-    printf("Willpower: %d\n", athlet[i].willpower);
-    printf("Criativity: %d\n", athlet[i].criativity);
-    printf("Leadership: %s\n", athlet[i].leadership ? "Yes" : "No");
-    printf("Injured: %s\n", athlet[i].injured);
+    printf("ID: %d\n", athlete[i].id);
+    printf("First Name: %s\n", athlete[i].firstName);
+    printf("Last Name: %s\n", athlete[i].lastName);
+    printf("Age: %d\n", athlete[i].age);
+    printf("Team: %s\n", athlete[i].team);
+    //printf("Position: %s\n", positions[athlete[i].position]);
+    printf("Market Value: %i\n", athlete[i].marketValue);
+    printf("Overral: %d\n", (athlete[i].strength + athlete[i].speed + athlete[i].resistance + athlete[i].willpower + athlete[i].criativity) / 5);
+    printf("Strength: %d\n", athlete[i].strength);
+    printf("Speed: %d\n", athlete[i].speed);
+    printf("Resistance: %d\n", athlete[i].resistance);
+    printf("Willpower: %d\n", athlete[i].willpower);
+    printf("Criativity: %d\n", athlete[i].criativity);
+    printf("Leadership: %s\n", athlete[i].leadership ? "Yes" : "No");
+    printf("Injured: %s\n", athlete[i].injured);
+  }
+}
+
+void saveTableInCSV(athlete_t *athlete, int size, const char *arquiveName) {
+  char *positions[5] = { "Goalkepper", "Defender", "Midfielder", "Striker", "Sweeper" };
+
+  FILE *arquive = fopen(arquive, "w");
+  
+  if(arquive != NULL) {
+    fprintf(arquive, "ID,First Name,Last Name,Age,Team,Position,Market Value,Overall,Strength,Speed,Resistance,WillPower,Criativity,Leadership,Injured\n");
+    for (int i = 0; i < size; i++) {
+      fprintf(arquive, "%d,%s,%s,%d,%s,%s,%d,%d,%d,%d,%d,%d,%d,%s,%s\n", athlete[i].id, athlete[i].firstName, athlete[i].lastName, athlete[i].age, athlete[i].team, positions[athlete[i].position], athlete[i].marketValue, athlete[i].overall, athlete[i].strength, athlete[i].speed, athlete[i].resistance, athlete[i].willpower, athlete[i].criativity, athlete[i].leadership ? "Yes" : "No", athlete[i].injured);
+    }
+
+    fclose(arquive);
   }
 }
 
 int main() {
-  athlete_t *athlet = malloc(MAX_DECK * sizeof(athlete_t));
+  athlete_t *athlete = malloc(MAX_DECK * sizeof(athlete_t));
 
-  populateTable(athlet, MAX_DECK);
+  populateTable(athlete, MAX_DECK);
+
+  saveTableInCSV(athlete, MAX_DECK, "PlayersList.csv");
+
+  free(athlete);
 
   return 0;
 }
