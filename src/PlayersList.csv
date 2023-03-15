@@ -1,51 +1,51 @@
-ID,First Name,Last Name,Age,Team,Position,Market Value,Overall,Strength,Speed,Resistance,WillPower,Criativity,Leadership,Injured,Months For Recovery
-1,Felipe,Silva,32,Corinthians,Defender,7907,45,68,3,25,57,74,No,Yes,6
-2,Guilherme,Vieira,35,São Paulo,Goalkepper,7889,49,68,55,27,33,63,Yes,No,0
-3,Guilherme,Oliveira,31,Vasco,Defender,4686,31,1,18,55,11,72,No,Yes,2
-4,Vitor,Martins,33,Vasco,Goalkepper,1170,43,4,36,73,30,76,No,No,0
-5,Arthur,Lopes,24,São Paulo,Sweeper,5453,52,38,94,41,50,37,No,No,0
-6,Cauã,Pereira,36,São Paulo,Defender,4426,42,12,14,35,55,94,Yes,Yes,12
-7,Murilo,Ferreira,30,Flamengo,Defender,1971,38,14,58,11,91,20,Yes,No,0
-8,Felipe,Rocha,25,América-MG,Striker,4186,40,27,33,32,14,98,No,No,0
-9,Lucas,Ribeiro,29,América-MG,Sweeper,5820,50,25,82,59,26,58,Yes,No,0
-10,Nicolas,Machado,36,Fluminense,Midfielder,1851,34,7,52,11,22,82,No,No,0
-11,Guilherme,Martins,37,Atlético-MG,Sweeper,6232,52,90,21,46,64,39,Yes,No,0
-12,João Vitor,Barbosa,21,Grêmio,Striker,2562,30,30,39,25,22,34,No,Yes,9
-13,Leonardo,Gonçalves,24,Goiás,Midfielder,6784,65,70,72,75,96,12,No,Yes,7
-14,Lucca,Ribeiro,23,Goiás,Defender,5591,75,94,80,75,75,51,No,No,0
-15,Cauã,Andrade,40,Atlético-MG,Goalkepper,8842,24,14,48,44,1,15,Yes,Yes,4
-16,Enzo,Gomes,21,Cuiabá,Defender,6727,40,17,67,72,26,18,No,Yes,4
-17,Heitor,Alves,17,Grêmio,Striker,4286,53,85,94,31,10,47,Yes,Yes,5
-18,Bernardo,Ramos,40,Goiás,Goalkepper,1274,42,48,31,64,60,7,No,Yes,5
-19,João Pedro,Nunes,38,Santos,Midfielder,8154,60,46,86,84,38,49,No,No,0
-20,Thiago,Lopes,18,Flamengo,Defender,3209,29,8,79,2,52,6,No,No,0
-21,Pietro,Oliveira,38,Goiás,Sweeper,6804,39,26,8,54,65,45,No,No,0
-22,Guilherme,Dias,35,Coritiba,Midfielder,2063,59,56,62,94,70,17,Yes,Yes,1
-23,Arthur,Nunes,40,Athletico-PR,Midfielder,4724,52,59,58,7,99,37,Yes,Yes,7
-24,Rafael,Lopes,26,Grêmio,Defender,6746,40,44,12,69,60,17,Yes,Yes,1
-25,Caio,Soares,33,Santos,Defender,3102,62,41,20,88,69,96,Yes,No,0
-26,Miguel,Lopes,28,Bragantino,Midfielder,8909,53,50,50,71,93,3,No,No,0
-27,Guilherme,Cardoso,34,Athletico-PR,Defender,3888,56,55,89,22,86,32,No,No,0
-28,João Gabriel,Dias,24,São Paulo,Goalkepper,4291,29,34,11,48,19,36,No,No,0
-29,Cauã,Freitas,16,Fluminense,Midfielder,6231,69,14,59,93,93,87,No,No,0
-30,Thiago,Alves,36,Athletico-PR,Sweeper,9282,55,49,75,15,40,99,Yes,Yes,7
-31,Heitor,Gonçalves,37,Bahia,Goalkepper,4391,44,96,9,43,43,33,No,No,0
-32,Heitor,Rocha,33,Cruzeiro,Sweeper,5875,44,34,62,52,63,9,No,No,0
-33,Felipe,Lopes,35,Santos,Midfielder,2271,51,75,20,24,88,48,Yes,No,0
-34,Enzo,Mendes,39,Atlético-MG,Striker,1300,50,56,18,31,52,97,No,Yes,10
-35,Isaac,Teixeira,23,São Paulo,Defender,7387,67,86,63,57,62,67,No,No,0
-36,Lorenzo,Costa,27,Bahia,Striker,2300,61,59,64,88,23,74,Yes,Yes,2
-37,Pietro,Moreira,36,Fortaleza,Goalkepper,7320,61,56,72,66,82,31,No,No,0
-38,Gabriel,Silva,18,Cuiabá,Goalkepper,2568,52,40,22,54,70,77,No,No,0
-39,Isaac,Machado,19,Vasco,Defender,4444,50,70,87,30,36,27,Yes,Yes,2
-40,Rafael,Santos,38,São Paulo,Defender,2998,52,22,73,80,72,16,Yes,No,0
-41,Lucca,Ramos,16,Internacional,Sweeper,8020,52,11,78,42,51,78,Yes,No,0
-42,Heitor,Fernandes,34,América-MG,Striker,9556,43,52,28,15,68,53,Yes,No,0
-43,Pedro,Ferreira,39,Flamengo,Sweeper,9215,63,43,74,98,49,51,No,Yes,8
-44,Nicolas,Rocha,35,Santos,Defender,6810,53,35,59,37,42,92,No,Yes,10
-45,João Pedro,Almeida,21,Santos,Goalkepper,9618,61,91,46,45,83,41,Yes,Yes,1
-46,Caio,Gomes,22,Corinthians,Striker,5591,49,62,24,97,41,23,No,Yes,5
-47,João Vitor,Andrade,38,Santos,Striker,2663,51,92,12,19,39,95,No,Yes,6
-48,Isaac,Barbosa,23,Bahia,Striker,3806,59,53,7,47,94,97,Yes,No,0
-49,Arthur,Marques,30,América-MG,Midfielder,3848,75,82,96,25,84,89,No,No,0
-50,João Pedro,Soares,23,São Paulo,Goalkepper,2115,56,43,25,63,88,63,Yes,No,0
+ID, First Name, Last Name, Age, Team, Position, Market Value, Overall, Strength, Speed, Resistance, WillPower, Criativity, Leadership, Injured, Months For Recovery
+1, Miguel, Vieira, 17, Athletico-PR, Midfielder, 3897, 53, 72, 48, 38, 69, 42, Yes, No, 0
+2, Isaac, Souza, 39, Fluminense, Midfielder, 2691, 65, 70, 97, 64, 15, 81, Yes, Yes, 8
+3, Miguel, Rodrigues, 19, Vasco, Defender, 1785, 50, 87, 56, 76, 15, 20, Yes, No, 0
+4, Heitor, Fernandes, 27, Botafogo, Midfielder, 2351, 42, 88, 42, 23, 22, 36, Yes, No, 0
+5, Lucca, Dias, 25, Athletico-PR, Defender, 6314, 39, 9, 11, 78, 85, 14, No, No, 0
+6, Davi, Cardoso, 20, Cuiabá, Defender, 2761, 44, 79, 36, 36, 24, 46, No, No, 0
+7, Gustavo, Ribeiro, 28, São Paulo, Striker, 6502, 39, 73, 19, 43, 31, 31, No, Yes, 11
+8, Gabriel, Nascimento, 24, Bragantino, Defender, 4007, 56, 55, 57, 68, 85, 15, No, Yes, 2
+9, Miguel, Pereira, 37, Coritiba, Sweeper, 2674, 57, 77, 55, 32, 32, 92, No, No, 0
+10, Lorenzo, Martins, 35, Internacional, Defender, 1550, 37, 61, 36, 59, 4, 25, No, Yes, 12
+11, Heitor, Gomes, 35, Fluminense, Striker, 1475, 47, 15, 7, 81, 36, 99, No, Yes, 1
+12, Isaac, Oliveira, 35, Coritiba, Defender, 2237, 68, 63, 69, 47, 65, 99, No, Yes, 10
+13, Heitor, Silva, 33, Corinthians, Defender, 8883, 47, 17, 99, 56, 18, 48, No, No, 0
+14, Pietro, Vieira, 36, Cruzeiro, Sweeper, 3349, 51, 66, 78, 8, 27, 80, Yes, No, 0
+15, Gabriel, Machado, 18, Atlético-MG, Defender, 8232, 42, 25, 31, 10, 58, 87, Yes, Yes, 10
+16, João Pedro, Nunes, 39, Fortaleza, Sweeper, 9711, 60, 55, 41, 76, 64, 64, Yes, No, 0
+17, Caio, Lopes, 26, Bragantino, Defender, 2972, 30, 8, 50, 38, 30, 27, No, No, 0
+18, Isaac, Souza, 25, Fluminense, Goalkepper, 5011, 73, 17, 74, 99, 88, 87, No, No, 0
+19, Henrique, Andrade, 30, Goiás, Defender, 9010, 65, 88, 84, 59, 8, 88, No, No, 0
+20, Cauã, Oliveira, 22, Fluminense, Defender, 5811, 39, 80, 8, 59, 47, 1, Yes, Yes, 1
+21, Leonardo, Gonçalves, 37, Palmeiras, Defender, 3589, 63, 2, 81, 58, 79, 99, Yes, No, 0
+22, Daniel, Lima, 31, Fortaleza, Sweeper, 6015, 63, 70, 81, 72, 51, 42, Yes, No, 0
+23, João Vitor, Souza, 33, Flamengo, Striker, 1982, 42, 59, 22, 73, 40, 16, Yes, No, 0
+24, Samuel, Vieira, 30, Athletico-PR, Goalkepper, 3658, 61, 73, 95, 64, 71, 4, Yes, No, 0
+25, João, Nunes, 20, Botafogo, Midfielder, 5733, 33, 13, 51, 85, 3, 16, No, No, 0
+26, Bernardo, Freitas, 23, Cruzeiro, Striker, 5415, 39, 13, 29, 84, 54, 18, No, Yes, 6
+27, Isaac, Gomes, 25, Cruzeiro, Goalkepper, 3435, 32, 33, 20, 7, 47, 54, Yes, Yes, 8
+28, Murilo, Costa, 24, Internacional, Goalkepper, 5384, 55, 67, 71, 47, 47, 44, No, Yes, 6
+29, Lorenzo, Dias, 39, Botafogo, Sweeper, 8975, 50, 52, 47, 27, 80, 44, Yes, Yes, 10
+30, Cauã, Alves, 35, Palmeiras, Defender, 3711, 49, 43, 76, 59, 54, 17, No, Yes, 11
+31, Davi, Santos, 39, Cuiabá, Defender, 5694, 55, 58, 48, 73, 98, 2, Yes, No, 0
+32, Pedro, Alves, 16, Santos, Sweeper, 4736, 47, 48, 42, 40, 75, 34, No, No, 0
+33, João, Alves, 19, Fluminense, Sweeper, 7824, 55, 78, 84, 41, 24, 51, Yes, No, 0
+34, Guilherme, Moreira, 17, Fortaleza, Striker, 2914, 60, 99, 82, 76, 45, 1, No, No, 0
+35, Pedro, Alves, 23, Bragantino, Midfielder, 2184, 44, 7, 65, 90, 34, 24, No, No, 0
+36, Daniel, Gomes, 36, Atlético-MG, Striker, 7885, 59, 12, 39, 67, 94, 86, No, No, 0
+37, Henrique, Pereira, 27, Athletico-PR, Defender, 2734, 47, 88, 51, 33, 37, 27, Yes, Yes, 2
+38, Miguel, Santos, 34, Cuiabá, Midfielder, 9630, 51, 69, 66, 16, 20, 85, Yes, No, 0
+39, Gabriel, Marques, 22, Goiás, Midfielder, 4342, 30, 11, 65, 15, 16, 47, No, Yes, 7
+40, Eduardo, Pereira, 23, Athletico-PR, Defender, 6596, 53, 78, 92, 62, 2, 33, No, No, 0
+41, Pietro, Almeida, 30, Fluminense, Midfielder, 7236, 38, 28, 7, 67, 58, 30, No, Yes, 2
+42, João Gabriel, Ferreira, 36, Bahia, Midfielder, 4951, 50, 38, 23, 71, 39, 80, No, No, 0
+43, Nicolas, Dias, 19, Bragantino, Striker, 5261, 51, 36, 55, 69, 66, 29, Yes, No, 0
+44, Isaac, Almeida, 40, Atlético-MG, Midfielder, 8573, 31, 23, 62, 46, 4, 24, No, Yes, 2
+45, Lorenzo, Ferreira, 28, Vasco, Defender, 6953, 62, 54, 96, 91, 39, 32, Yes, Yes, 8
+46, Nicolas, Rodrigues, 37, Vasco, Goalkepper, 8679, 30, 21, 23, 81, 5, 22, No, Yes, 2
+47, Lucca, Teixeira, 29, Santos, Striker, 1435, 76, 70, 90, 88, 61, 72, Yes, No, 0
+48, João Pedro, Oliveira, 28, Atlético-MG, Striker, 8856, 40, 33, 17, 38, 89, 24, Yes, Yes, 10
+49, Eduardo, Almeida, 40, Coritiba, Sweeper, 1223, 47, 66, 43, 64, 18, 45, No, Yes, 11
+50, Rafael, Rodrigues, 40, Flamengo, Goalkepper, 3770, 68, 2, 91, 92, 82, 73, Yes, No, 0
