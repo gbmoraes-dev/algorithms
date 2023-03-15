@@ -4,7 +4,7 @@
 #include <time.h>
 #include <string.h>
 
-#define MAX_DECK 50 // 1000
+#define MAX_DECK 1000
 #define MAX_NAME 21
 #define MAX_TEAM 21
 #define QNT_NAME 35
