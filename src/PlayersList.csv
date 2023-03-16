@@ -1,1001 +1,1001 @@
 ID, First Name, Last Name, Age, Team, Position, Market Value, Overall, Strength, Speed, Resistance, WillPower, Criativity, Leadership, Injured, Months For Recovery
-1, João Gabriel, Nunes, 29, América-MG, Striker, 1418, 57, 78, 20, 88, 84, 17, Yes, Yes, 8
-2, Cauã, Mendes, 25, Corinthians, Striker, 2142, 42, 35, 36, 3, 44, 96, Yes, No, 0
-3, Matheus, Marques, 20, Athletico-PR, Striker, 9250, 61, 44, 10, 99, 83, 70, No, No, 0
-4, Thiago, Machado, 26, Cuiabá, Defender, 1942, 47, 68, 70, 33, 6, 59, No, No, 0
-5, Lucas, Marques, 39, Bragantino, Sweeper, 3679, 30, 63, 19, 16, 49, 4, No, No, 0
-6, Henrique, Alves, 25, Palmeiras, Goalkepper, 7372, 58, 74, 83, 47, 47, 39, No, Yes, 10
-7, Murilo, Vieira, 31, Atlético-MG, Midfielder, 3461, 32, 66, 2, 7, 61, 28, No, Yes, 5
-8, , Vieira, 29, Botafogo, Goalkepper, 4641, 42, 13, 33, 69, 22, 74, No, Yes, 5
-9, Thiago, Lopes, 39, Palmeiras, Striker, 2781, 50, 88, 7, 81, 42, 32, No, Yes, 10
-10, Henrique, Andrade, 28, Flamengo, Sweeper, 5288, 65, 29, 96, 68, 78, 56, No, Yes, 6
-11, Pietro, Lopes, 17, Bragantino, Defender, 6560, 67, 41, 70, 44, 93, 90, Yes, Yes, 5
-12, Nicolas, Moreira, 39, Palmeiras, Striker, 4298, 49, 28, 77, 32, 32, 80, No, Yes, 1
-13, Vinicius, Nascimento, 21, Santos, Sweeper, 6874, 63, 56, 73, 34, 71, 83, No, No, 0
-14, Pietro, Fernandes, 25, Goiás, Goalkepper, 2340, 80, 72, 96, 89, 63, 81, Yes, Yes, 12
-15, Cauã, Santana, 30, América-MG, Defender, 1886, 54, 29, 81, 19, 75, 67, No, No, 0
-16, Lucca, Martins, 21, Palmeiras, Goalkepper, 8745, 49, 28, 86, 27, 31, 74, Yes, No, 0
-17, Vitor, Nascimento, 29, Coritiba, Midfielder, 1013, 60, 28, 77, 63, 93, 39, Yes, Yes, 5
-18, João Vitor, Silva, 33, São Paulo, Goalkepper, 9663, 48, 37, 66, 15, 94, 32, Yes, Yes, 8
-19, Cauã, Santana, 24, São Paulo, Sweeper, 2693, 52, 58, 63, 33, 18, 92, Yes, No, 0
-20, Caio, Almeida, 39, América-MG, Striker, 4571, 60, 37, 7, 76, 87, 94, No, Yes, 7
-21, Guilherme, Fernandes, 40, Vasco, Sweeper, 3381, 54, 33, 23, 90, 67, 61, Yes, Yes, 2
-22, João Gabriel, Fernandes, 35, Vasco, Defender, 9856, 70, 94, 45, 33, 88, 94, No, Yes, 6
-23, Caio, Santos, 20, Botafogo, Midfielder, 3625, 60, 96, 47, 24, 68, 66, No, No, 0
-24, Gustavo, Teixeira, 23, Palmeiras, Defender, 3812, 37, 20, 28, 79, 2, 56, No, No, 0
-25, João Pedro, Moreira, 33, Cuiabá, Sweeper, 6247, 51, 65, 45, 51, 14, 82, No, Yes, 5
-26, Felipe, Barbosa, 38, Atlético-MG, Midfielder, 2611, 57, 1, 44, 61, 98, 84, Yes, No, 0
-27, Lucca, Martins, 25, Grêmio, Goalkepper, 1745, 61, 73, 45, 52, 52, 83, Yes, Yes, 7
-28, Guilherme, Santos, 20, América-MG, Goalkepper, 8296, 34, 51, 20, 24, 4, 75, Yes, Yes, 9
-29, Felipe, Lopes, 34, Internacional, Defender, 9183, 41, 27, 1, 79, 62, 39, Yes, No, 0
-30, Samuel, Rocha, 32, Goiás, Defender, 4771, 64, 79, 48, 87, 32, 74, Yes, No, 0
-31, Davi, Andrade, 20, Fluminense, Sweeper, 1117, 69, 90, 92, 37, 42, 88, Yes, No, 0
-32, Pietro, Andrade, 34, São Paulo, Sweeper, 3606, 23, 3, 29, 21, 40, 22, Yes, No, 0
-33, Pedro, Teixeira, 38, Bragantino, Defender, 7861, 31, 30, 2, 28, 20, 78, No, Yes, 6
-34, Samuel, Santos, 37, Fluminense, Goalkepper, 4437, 28, 10, 9, 13, 10, 98, No, Yes, 1
-35, Samuel, Martins, 33, Fluminense, Goalkepper, 9486, 64, 67, 86, 36, 55, 78, Yes, Yes, 12
-36, Vitor, Ferreira, 32, Cruzeiro, Defender, 3322, 48, 15, 13, 42, 88, 85, Yes, Yes, 6
-37, Davi, Lopes, 31, Cuiabá, Defender, 3932, 51, 48, 41, 36, 66, 67, No, No, 0
-38, Isaac, Carvalho, 17, Internacional, Striker, 7215, 61, 44, 60, 62, 69, 73, No, Yes, 2
-39, Pietro, Nunes, 22, Coritiba, Striker, 2391, 61, 69, 97, 30, 82, 28, No, Yes, 3
-40, Matheus, Nunes, 37, Bragantino, Defender, 6580, 39, 61, 42, 11, 60, 22, No, Yes, 9
-41, Guilherme, Nascimento, 17, Flamengo, Goalkepper, 4402, 47, 76, 3, 59, 92, 5, No, No, 0
-42, Nicolas, Dias, 18, Corinthians, Sweeper, 8463, 32, 24, 60, 46, 3, 27, Yes, Yes, 1
-43, Arthur, Ferreira, 21, Corinthians, Midfielder, 7006, 71, 78, 28, 80, 93, 76, No, Yes, 2
-44, Isaac, Lima, 35, Bahia, Defender, 8517, 48, 29, 24, 55, 74, 60, Yes, No, 0
-45, , Santana, 26, São Paulo, Sweeper, 9609, 61, 81, 64, 42, 41, 79, Yes, No, 0
-46, Samuel, Barbosa, 39, Bahia, Striker, 4289, 55, 79, 38, 11, 63, 86, No, Yes, 5
-47, Leonardo, Gonçalves, 37, Fluminense, Sweeper, 4689, 61, 28, 44, 74, 86, 73, Yes, No, 0
-48, João, Moreira, 28, Vasco, Goalkepper, 1862, 41, 94, 1, 22, 75, 17, Yes, Yes, 2
-49, Thiago, Lima, 16, Fortaleza, Goalkepper, 6894, 34, 13, 59, 21, 32, 45, Yes, No, 0
-50, Enzo, Costa, 16, Fluminense, Striker, 2494, 41, 32, 66, 69, 20, 22, Yes, No, 0
-51, Enzo, Silva, 24, Atlético-MG, Goalkepper, 8068, 39, 23, 52, 70, 7, 46, No, No, 0
-52, Bernardo, Moreira, 29, Vasco, Striker, 3140, 50, 38, 99, 97, 16, 2, Yes, No, 0
-53, , Martins, 24, Grêmio, Midfielder, 1141, 31, 65, 1, 5, 38, 48, Yes, Yes, 1
-54, Miguel, Moreira, 36, Bahia, Midfielder, 4147, 45, 13, 24, 21, 80, 87, No, No, 0
-55, , Rodrigues, 33, Internacional, Midfielder, 5988, 32, 12, 36, 24, 36, 52, Yes, No, 0
-56, João, Gonçalves, 21, Botafogo, Striker, 4130, 46, 60, 14, 31, 97, 30, No, No, 0
-57, Rafael, Nascimento, 27, Athletico-PR, Defender, 3817, 54, 41, 33, 52, 52, 95, Yes, Yes, 9
-58, Daniel, Cardoso, 25, Goiás, Defender, 6354, 48, 44, 34, 81, 82, 1, No, Yes, 11
-59, Gustavo, Costa, 25, América-MG, Defender, 2186, 46, 27, 47, 59, 72, 29, No, No, 0
-60, Felipe, Moreira, 20, Cruzeiro, Defender, 2739, 40, 49, 62, 16, 17, 60, No, No, 0
-61, Eduardo, Silva, 33, São Paulo, Goalkepper, 7835, 33, 10, 77, 6, 18, 54, Yes, Yes, 11
-62, Lucca, Moreira, 20, Coritiba, Midfielder, 9217, 59, 40, 50, 44, 97, 67, Yes, No, 0
-63, Nicolas, Cardoso, 22, Santos, Striker, 8008, 55, 96, 62, 52, 34, 35, No, Yes, 11
-64, , Gomes, 17, Cruzeiro, Defender, 9960, 50, 83, 9, 12, 88, 59, Yes, Yes, 7
-65, Lucca, Gomes, 34, Goiás, Midfielder, 1819, 62, 73, 32, 84, 44, 79, No, No, 0
-66, Daniel, Nascimento, 37, São Paulo, Goalkepper, 8159, 75, 74, 91, 49, 75, 87, Yes, No, 0
-67, Rafael, Barbosa, 38, Corinthians, Goalkepper, 5463, 65, 64, 99, 76, 49, 40, No, Yes, 2
-68, Murilo, Teixeira, 32, Palmeiras, Defender, 6998, 41, 39, 52, 3, 76, 39, No, No, 0
-69, Guilherme, Ramos, 18, Flamengo, Striker, 1106, 38, 9, 48, 8, 90, 36, Yes, Yes, 5
-70, Gabriel, Alves, 35, América-MG, Striker, 3767, 66, 49, 77, 94, 65, 47, Yes, No, 0
-71, Heitor, Souza, 40, São Paulo, Sweeper, 7572, 35, 65, 8, 39, 25, 38, Yes, Yes, 12
-72, Daniel, Almeida, 30, Atlético-MG, Striker, 9793, 75, 93, 66, 95, 74, 47, Yes, Yes, 3
-73, Cauã, Pereira, 25, Internacional, Striker, 8609, 46, 45, 83, 7, 6, 93, No, No, 0
-74, , Ramos, 28, Goiás, Defender, 9309, 65, 41, 98, 71, 24, 91, Yes, No, 0
-75, Eduardo, Marques, 18, Fluminense, Sweeper, 4459, 44, 22, 97, 2, 3, 97, No, No, 0
-76, Pedro, Cardoso, 21, Athletico-PR, Defender, 3239, 55, 34, 67, 94, 26, 58, No, Yes, 7
-77, Arthur, Cardoso, 20, Fluminense, Striker, 6815, 40, 32, 8, 27, 89, 44, Yes, No, 0
-78, Vitor, Freitas, 40, Goiás, Sweeper, 7561, 42, 9, 28, 86, 6, 82, No, Yes, 4
-79, Guilherme, Pereira, 24, Internacional, Sweeper, 6921, 57, 67, 78, 87, 19, 34, No, No, 0
-80, Isaac, Nunes, 34, Flamengo, Goalkepper, 6030, 66, 43, 95, 82, 31, 79, No, Yes, 9
-81, Lucca, Lima, 18, Corinthians, Defender, 3814, 37, 20, 58, 61, 46, 3, Yes, No, 0
-82, João Gabriel, Carvalho, 28, Cruzeiro, Goalkepper, 4665, 58, 74, 60, 88, 15, 55, Yes, No, 0
-83, João, Andrade, 36, Bahia, Sweeper, 6562, 78, 84, 67, 92, 89, 60, Yes, Yes, 4
-84, Lucas, Silva, 38, Atlético-MG, Striker, 1957, 59, 89, 8, 97, 29, 72, No, Yes, 5
-85, Lucas, Martins, 19, Vasco, Sweeper, 4766, 64, 64, 51, 71, 37, 98, Yes, Yes, 1
-86, Gabriel, Rodrigues, 20, Athletico-PR, Goalkepper, 8589, 61, 98, 82, 11, 56, 62, Yes, Yes, 10
-87, Murilo, Rodrigues, 23, Athletico-PR, Goalkepper, 9552, 72, 76, 97, 69, 64, 56, No, Yes, 1
-88, Henrique, Cardoso, 32, Goiás, Striker, 6082, 55, 49, 54, 75, 74, 25, No, Yes, 7
-89, Guilherme, Moreira, 31, Botafogo, Midfielder, 5004, 54, 54, 44, 21, 67, 88, Yes, No, 0
-90, Isaac, Machado, 21, Flamengo, Sweeper, 7466, 50, 75, 49, 9, 56, 63, Yes, Yes, 7
-91, Rafael, Costa, 18, Botafogo, Defender, 7337, 43, 23, 93, 33, 40, 28, No, Yes, 11
-92, Daniel, Teixeira, 36, Goiás, Sweeper, 1004, 42, 53, 41, 6, 50, 61, Yes, No, 0
-93, Eduardo, Vieira, 26, Fluminense, Goalkepper, 3933, 58, 72, 86, 88, 35, 12, Yes, No, 0
-94, João, Freitas, 21, Fortaleza, Midfielder, 1407, 51, 91, 40, 8, 50, 70, Yes, No, 0
-95, Cauã, Carvalho, 30, América-MG, Striker, 9498, 32, 76, 20, 45, 11, 10, Yes, No, 0
-96, João Vitor, Almeida, 26, Santos, Striker, 2057, 29, 27, 20, 86, 1, 13, Yes, Yes, 11
-97, Samuel, Almeida, 36, Cruzeiro, Goalkepper, 6654, 53, 15, 69, 78, 77, 30, Yes, Yes, 7
-98, Vinicius, Freitas, 30, Bragantino, Defender, 5110, 54, 30, 97, 21, 41, 84, No, No, 0
-99, Daniel, Oliveira, 27, Corinthians, Defender, 1611, 37, 39, 39, 9, 49, 52, Yes, No, 0
-100, Enzo, Rodrigues, 23, Santos, Striker, 1787, 43, 17, 20, 13, 74, 91, Yes, Yes, 4
-101, João Gabriel, Pereira, 39, Santos, Sweeper, 1274, 44, 34, 60, 20, 68, 39, No, Yes, 2
-102, Cauã, Lima, 25, Goiás, Sweeper, 1529, 41, 51, 65, 23, 9, 57, No, Yes, 4
-103, Cauã, Pereira, 34, Corinthians, Midfielder, 7110, 48, 8, 82, 16, 93, 41, No, Yes, 10
-104, João Gabriel, Alves, 31, Internacional, Striker, 7832, 54, 64, 98, 68, 35, 5, Yes, No, 0
-105, Leonardo, Pereira, 36, Botafogo, Defender, 2657, 66, 72, 8, 85, 98, 69, No, Yes, 5
-106, Gustavo, Oliveira, 37, Goiás, Sweeper, 7880, 22, 26, 37, 1, 2, 48, No, No, 0
-107, Pietro, Gomes, 33, Internacional, Defender, 5902, 70, 92, 74, 67, 60, 57, No, Yes, 9
-108, Guilherme, Cardoso, 16, Goiás, Sweeper, 9144, 33, 45, 17, 17, 11, 77, Yes, Yes, 7
-109, Guilherme, Vieira, 19, Vasco, Striker, 8579, 43, 66, 34, 24, 71, 20, Yes, Yes, 11
-110, Gustavo, Nascimento, 30, Grêmio, Goalkepper, 4167, 74, 44, 53, 97, 84, 95, No, No, 0
-111, João Pedro, Martins, 34, Bahia, Sweeper, 4178, 60, 75, 61, 99, 3, 65, Yes, No, 0
-112, João Pedro, Cardoso, 37, Palmeiras, Defender, 4106, 35, 64, 32, 19, 10, 54, Yes, No, 0
-113, João Pedro, Martins, 30, Cuiabá, Defender, 3816, 81, 96, 98, 87, 63, 61, Yes, No, 0
-114, Lucca, Vieira, 40, Atlético-MG, Striker, 2469, 53, 72, 45, 77, 9, 65, No, Yes, 6
-115, Lucas, Rocha, 37, América-MG, Sweeper, 5527, 49, 14, 58, 63, 40, 72, No, Yes, 7
-116, Vinicius, Andrade, 28, Corinthians, Goalkepper, 3718, 49, 97, 33, 57, 16, 43, Yes, No, 0
-117, Pietro, Carvalho, 19, Flamengo, Defender, 4964, 52, 38, 54, 56, 22, 94, No, No, 0
-118, Caio, Freitas, 39, Palmeiras, Goalkepper, 3051, 29, 77, 31, 4, 21, 14, No, No, 0
-119, Rafael, Lopes, 26, Cuiabá, Midfielder, 5531, 44, 5, 32, 70, 71, 46, Yes, No, 0
-120, João Gabriel, Santos, 25, Internacional, Midfielder, 4257, 40, 23, 57, 67, 3, 50, Yes, No, 0
-121, Vinicius, Machado, 35, Fluminense, Sweeper, 1208, 58, 99, 35, 92, 45, 20, No, Yes, 4
-122, Eduardo, Nascimento, 33, Corinthians, Midfielder, 3373, 31, 19, 60, 60, 11, 5, No, No, 0
-123, Gabriel, Moreira, 36, Santos, Striker, 5019, 64, 5, 76, 97, 73, 69, No, No, 0
-124, Guilherme, Soares, 24, São Paulo, Midfielder, 3806, 42, 58, 19, 23, 31, 80, Yes, No, 0
-125, Felipe, Gomes, 22, Bahia, Striker, 3658, 49, 62, 11, 48, 35, 92, No, No, 0
-126, Rafael, Pereira, 31, Palmeiras, Defender, 1186, 41, 32, 28, 80, 44, 22, Yes, Yes, 6
-127, Matheus, Ramos, 17, Cuiabá, Sweeper, 2816, 40, 66, 31, 76, 6, 24, Yes, Yes, 12
-128, Lorenzo, Nascimento, 25, São Paulo, Goalkepper, 6304, 48, 47, 87, 35, 46, 28, Yes, No, 0
-129, Pietro, Gonçalves, 27, Palmeiras, Defender, 8719, 33, 64, 24, 28, 33, 16, No, Yes, 1
-130, Miguel, Pereira, 21, Botafogo, Goalkepper, 4040, 76, 48, 71, 70, 94, 97, Yes, No, 0
-131, Rafael, Alves, 31, América-MG, Striker, 8741, 57, 97, 4, 85, 91, 9, No, Yes, 11
-132, Daniel, Pereira, 36, Internacional, Sweeper, 2918, 47, 38, 76, 58, 7, 59, Yes, Yes, 8
-133, Eduardo, Fernandes, 33, Fluminense, Midfielder, 6759, 45, 6, 22, 42, 83, 75, No, Yes, 7
-134, Heitor, Carvalho, 34, Palmeiras, Midfielder, 2761, 35, 4, 7, 4, 87, 76, No, Yes, 4
-135, Vinicius, Dias, 37, Athletico-PR, Sweeper, 2874, 66, 97, 79, 92, 11, 51, Yes, No, 0
-136, Davi, Andrade, 18, Santos, Sweeper, 8933, 38, 78, 29, 74, 1, 9, Yes, No, 0
-137, Isaac, Santana, 25, Bragantino, Sweeper, 1434, 60, 46, 86, 31, 55, 84, No, Yes, 7
-138, Nicolas, Vieira, 32, Goiás, Striker, 8668, 50, 7, 44, 78, 55, 67, Yes, No, 0
-139, Caio, Oliveira, 27, Bragantino, Sweeper, 3143, 60, 95, 92, 35, 63, 17, No, Yes, 11
-140, Samuel, Nunes, 23, Fluminense, Striker, 6756, 65, 78, 28, 77, 88, 57, No, No, 0
-141, Daniel, Martins, 29, Botafogo, Midfielder, 8074, 67, 50, 23, 95, 73, 98, Yes, Yes, 2
-142, Rafael, Nascimento, 27, Botafogo, Defender, 6915, 42, 33, 70, 10, 23, 78, Yes, Yes, 3
-143, Nicolas, Barbosa, 17, Fluminense, Midfielder, 2021, 46, 49, 63, 33, 84, 3, No, Yes, 8
-144, Bernardo, Rodrigues, 25, Bahia, Sweeper, 2777, 69, 81, 68, 87, 67, 42, No, No, 0
-145, Lucca, Nunes, 19, Cuiabá, Defender, 8965, 36, 47, 6, 70, 41, 17, No, No, 0
-146, Heitor, Souza, 34, Vasco, Defender, 6735, 41, 15, 63, 26, 82, 20, No, No, 0
-147, Enzo, Rocha, 33, Palmeiras, Striker, 3313, 53, 40, 72, 87, 27, 42, No, No, 0
-148, Miguel, Vieira, 30, Palmeiras, Striker, 6792, 70, 85, 83, 28, 87, 70, No, Yes, 3
-149, Davi, Mendes, 24, Santos, Sweeper, 6131, 55, 95, 18, 87, 52, 23, Yes, No, 0
-150, Thiago, Nunes, 21, Flamengo, Defender, 2120, 25, 4, 73, 9, 8, 31, No, No, 0
-151, João, Fernandes, 24, Coritiba, Striker, 7823, 51, 72, 47, 15, 71, 53, Yes, Yes, 1
-152, Eduardo, Rocha, 31, Internacional, Striker, 7161, 45, 29, 5, 28, 66, 98, Yes, Yes, 12
-153, Pedro, Ramos, 25, Flamengo, Sweeper, 9956, 37, 68, 5, 25, 22, 68, Yes, Yes, 1
-154, Felipe, Rocha, 40, Corinthians, Sweeper, 2502, 50, 37, 59, 43, 26, 85, No, Yes, 7
-155, Caio, Andrade, 31, São Paulo, Goalkepper, 8482, 52, 57, 19, 60, 85, 42, No, Yes, 11
-156, Henrique, Nunes, 19, Corinthians, Goalkepper, 2197, 49, 1, 42, 28, 96, 82, Yes, Yes, 2
-157, Isaac, Ferreira, 37, Grêmio, Midfielder, 9020, 55, 84, 78, 55, 15, 43, Yes, Yes, 5
-158, Davi, Rocha, 17, Internacional, Goalkepper, 6131, 42, 38, 78, 21, 3, 73, Yes, Yes, 1
-159, Daniel, Nunes, 18, Corinthians, Midfielder, 5032, 44, 3, 94, 1, 98, 26, Yes, Yes, 12
-160, Lucas, Almeida, 26, Internacional, Goalkepper, 4522, 71, 63, 91, 79, 98, 26, Yes, No, 0
-161, Henrique, Ramos, 34, São Paulo, Midfielder, 2284, 53, 63, 42, 20, 49, 95, No, No, 0
-162, Vitor, Barbosa, 18, América-MG, Defender, 2254, 26, 32, 10, 54, 27, 7, No, No, 0
-163, Nicolas, Almeida, 32, Athletico-PR, Goalkepper, 7208, 46, 3, 8, 80, 78, 61, No, Yes, 7
-164, Guilherme, Vieira, 33, Fluminense, Defender, 4202, 52, 56, 61, 66, 13, 65, Yes, No, 0
-165, Heitor, Nascimento, 34, Atlético-MG, Goalkepper, 2836, 51, 13, 72, 82, 60, 28, No, No, 0
-166, Eduardo, Gomes, 24, Goiás, Sweeper, 6600, 45, 28, 18, 74, 79, 30, No, Yes, 11
-167, Vitor, Almeida, 31, Cuiabá, Midfielder, 7985, 53, 95, 51, 47, 57, 18, No, Yes, 9
-168, Matheus, Ribeiro, 38, Bragantino, Striker, 5891, 70, 62, 70, 88, 88, 43, Yes, Yes, 4
-169, João, Nunes, 21, Fluminense, Sweeper, 7252, 40, 36, 25, 24, 24, 93, No, No, 0
-170, Miguel, Martins, 37, Cruzeiro, Midfielder, 7379, 61, 56, 3, 70, 87, 93, No, No, 0
-171, Nicolas, Ferreira, 40, Botafogo, Striker, 5662, 49, 64, 64, 51, 17, 52, No, No, 0
-172, Vitor, Gonçalves, 33, Bragantino, Goalkepper, 6702, 28, 9, 4, 1, 48, 81, Yes, Yes, 10
-173, Matheus, Barbosa, 21, Grêmio, Defender, 6617, 34, 73, 42, 8, 49, 2, No, Yes, 6
-174, Lorenzo, Fernandes, 22, Fortaleza, Defender, 3408, 55, 25, 88, 37, 33, 94, Yes, No, 0
-175, Isaac, Lopes, 17, Coritiba, Goalkepper, 6271, 26, 2, 41, 19, 29, 43, No, Yes, 10
-176, Arthur, Carvalho, 40, Bragantino, Sweeper, 5654, 77, 79, 96, 91, 89, 30, No, No, 0
-177, Arthur, Ferreira, 27, Coritiba, Midfielder, 2390, 44, 14, 71, 59, 71, 7, No, No, 0
-178, Heitor, Barbosa, 18, Internacional, Goalkepper, 3773, 46, 22, 48, 72, 9, 79, No, No, 0
-179, Samuel, Machado, 18, América-MG, Midfielder, 8569, 62, 84, 54, 86, 83, 7, Yes, No, 0
-180, Pietro, Costa, 38, Flamengo, Sweeper, 8119, 34, 92, 21, 28, 19, 12, Yes, No, 0
-181, , Gonçalves, 23, Corinthians, Striker, 9319, 60, 79, 9, 63, 71, 81, No, Yes, 11
-182, Davi, Mendes, 30, Fortaleza, Midfielder, 4109, 44, 43, 33, 27, 31, 90, No, No, 0
-183, Vitor, Nascimento, 33, Corinthians, Sweeper, 6755, 44, 53, 28, 48, 50, 44, Yes, No, 0
-184, Felipe, Pereira, 34, Coritiba, Striker, 5658, 64, 81, 19, 72, 84, 68, No, No, 0
-185, Lorenzo, Santos, 25, Goiás, Defender, 8609, 38, 23, 74, 4, 87, 6, Yes, Yes, 8
-186, Matheus, Rocha, 27, Fortaleza, Midfielder, 9176, 67, 85, 6, 78, 96, 70, Yes, No, 0
-187, Felipe, Ferreira, 18, São Paulo, Striker, 3034, 53, 57, 77, 42, 65, 26, No, No, 0
-188, João, Oliveira, 34, Fluminense, Sweeper, 6456, 47, 24, 47, 59, 19, 88, Yes, Yes, 3
-189, João Gabriel, Souza, 35, Internacional, Midfielder, 2901, 44, 31, 61, 15, 55, 60, Yes, Yes, 11
-190, Thiago, Lopes, 23, Santos, Defender, 5902, 32, 22, 8, 16, 61, 53, No, Yes, 10
-191, João, Lima, 22, Bahia, Goalkepper, 4948, 65, 61, 43, 73, 64, 86, Yes, Yes, 10
-192, Lucca, Martins, 23, São Paulo, Striker, 3382, 52, 64, 70, 94, 4, 28, Yes, Yes, 6
-193, João Gabriel, Almeida, 30, Vasco, Striker, 7811, 44, 29, 80, 53, 29, 30, No, No, 0
-194, Matheus, Oliveira, 24, Flamengo, Midfielder, 4474, 47, 90, 73, 10, 9, 55, Yes, No, 0
-195, Eduardo, Carvalho, 16, Flamengo, Midfielder, 9785, 61, 8, 45, 95, 79, 82, Yes, Yes, 4
-196, Arthur, Lima, 23, Coritiba, Midfielder, 2905, 52, 34, 80, 34, 76, 39, Yes, Yes, 4
-197, Vitor, Machado, 36, Goiás, Defender, 5742, 33, 10, 14, 30, 69, 44, Yes, No, 0
-198, João Vitor, Soares, 27, Vasco, Defender, 9181, 42, 14, 46, 55, 76, 21, Yes, Yes, 7
-199, Murilo, Gomes, 20, Santos, Goalkepper, 4398, 57, 71, 56, 93, 43, 22, No, Yes, 1
-200, Rafael, Mendes, 38, América-MG, Striker, 9921, 27, 16, 9, 69, 14, 27, No, No, 0
-201, Eduardo, Dias, 25, Palmeiras, Midfielder, 6781, 56, 96, 33, 55, 66, 30, No, Yes, 5
-202, Enzo, Machado, 25, São Paulo, Defender, 6692, 79, 83, 95, 89, 36, 92, Yes, No, 0
-203, Vinicius, Fernandes, 20, Cuiabá, Striker, 3573, 63, 90, 56, 62, 9, 99, Yes, Yes, 7
-204, Vitor, Lopes, 32, Flamengo, Sweeper, 4434, 51, 25, 74, 89, 47, 23, Yes, No, 0
-205, Pedro, Machado, 19, Botafogo, Defender, 2753, 71, 73, 92, 76, 94, 20, No, No, 0
-206, Gustavo, Ribeiro, 37, Vasco, Sweeper, 9593, 71, 78, 99, 76, 87, 15, Yes, No, 0
-207, Cauã, Marques, 22, Cruzeiro, Goalkepper, 5272, 35, 67, 6, 28, 28, 46, Yes, Yes, 5
-208, Gabriel, Gonçalves, 34, Cruzeiro, Sweeper, 1139, 47, 69, 40, 4, 91, 31, Yes, Yes, 2
-209, Henrique, Cardoso, 17, Palmeiras, Defender, 9705, 60, 56, 75, 38, 62, 70, No, Yes, 8
-210, Henrique, Freitas, 21, Botafogo, Striker, 5866, 45, 65, 44, 11, 88, 20, Yes, Yes, 3
-211, Davi, Nunes, 35, São Paulo, Striker, 8560, 37, 23, 63, 57, 28, 15, Yes, Yes, 7
-212, Vitor, Santos, 17, América-MG, Goalkepper, 7161, 30, 21, 5, 11, 98, 18, No, Yes, 12
-213, Murilo, Ferreira, 16, Cruzeiro, Midfielder, 9535, 39, 8, 46, 15, 81, 48, Yes, Yes, 10
-214, Nicolas, Barbosa, 40, Cuiabá, Goalkepper, 7739, 47, 23, 17, 58, 54, 87, Yes, Yes, 5
-215, Murilo, Freitas, 38, Atlético-MG, Defender, 6505, 24, 42, 32, 26, 13, 10, No, No, 0
-216, Heitor, Fernandes, 38, Cuiabá, Sweeper, 2495, 47, 67, 31, 94, 16, 27, No, No, 0
-217, Lorenzo, Oliveira, 30, Botafogo, Sweeper, 4629, 19, 6, 10, 10, 49, 22, No, Yes, 9
-218, João, Marques, 38, Palmeiras, Goalkepper, 7491, 42, 50, 2, 26, 58, 77, Yes, No, 0
-219, Cauã, Alves, 26, Cruzeiro, Goalkepper, 2163, 45, 7, 73, 21, 62, 63, No, No, 0
-220, Cauã, Barbosa, 29, São Paulo, Goalkepper, 1031, 67, 92, 93, 71, 11, 68, Yes, No, 0
-221, Cauã, Martins, 25, Goiás, Midfielder, 9818, 34, 85, 38, 16, 9, 22, Yes, Yes, 3
-222, Gustavo, Santos, 17, Fluminense, Defender, 3613, 62, 54, 82, 16, 80, 79, No, No, 0
-223, Leonardo, Cardoso, 38, Santos, Midfielder, 1138, 54, 17, 97, 51, 13, 92, No, No, 0
-224, João Vitor, Santos, 39, Corinthians, Midfielder, 8046, 45, 28, 99, 13, 29, 57, No, No, 0
-225, Lucca, Cardoso, 37, Bragantino, Sweeper, 7572, 22, 3, 10, 2, 13, 82, Yes, Yes, 2
-226, Eduardo, Barbosa, 32, Cruzeiro, Striker, 1261, 47, 91, 9, 23, 27, 88, No, No, 0
-227, Matheus, Gonçalves, 17, Athletico-PR, Striker, 3321, 75, 94, 68, 89, 96, 29, Yes, No, 0
-228, Daniel, Vieira, 26, Cuiabá, Goalkepper, 1281, 47, 23, 97, 42, 33, 44, Yes, No, 0
-229, Enzo, Marques, 21, Fortaleza, Sweeper, 9696, 29, 15, 19, 30, 58, 25, Yes, Yes, 8
-230, Samuel, Andrade, 21, Atlético-MG, Goalkepper, 6465, 51, 14, 64, 71, 75, 33, No, Yes, 10
-231, Pedro, Oliveira, 25, Bragantino, Striker, 1395, 30, 17, 26, 52, 13, 43, No, No, 0
-232, Cauã, Alves, 24, Bragantino, Goalkepper, 8821, 79, 95, 64, 50, 90, 98, Yes, Yes, 2
-233, Davi, Marques, 19, Fortaleza, Midfielder, 1950, 34, 25, 21, 52, 72, 3, No, No, 0
-234, Leonardo, Freitas, 18, Fortaleza, Defender, 1095, 14, 31, 17, 1, 20, 1, Yes, Yes, 6
-235, Vinicius, Vieira, 23, Corinthians, Sweeper, 8428, 67, 52, 30, 91, 76, 88, Yes, Yes, 9
-236, Thiago, Teixeira, 39, Vasco, Striker, 2409, 60, 80, 11, 62, 97, 50, No, Yes, 4
-237, Matheus, Souza, 21, Palmeiras, Midfielder, 3441, 50, 93, 71, 25, 24, 41, Yes, No, 0
-238, Guilherme, Freitas, 19, Athletico-PR, Midfielder, 5899, 49, 60, 81, 60, 18, 30, Yes, No, 0
-239, Pedro, Rocha, 29, Corinthians, Goalkepper, 8596, 52, 60, 79, 59, 34, 30, No, No, 0
-240, Nicolas, Mendes, 37, Santos, Sweeper, 8348, 41, 34, 8, 30, 56, 77, No, Yes, 2
-241, Lorenzo, Santos, 21, Cruzeiro, Sweeper, 7406, 48, 26, 31, 39, 71, 77, Yes, Yes, 8
-242, João, Fernandes, 21, Bragantino, Striker, 4636, 53, 71, 58, 35, 48, 55, Yes, No, 0
-243, Vitor, Lopes, 28, Fluminense, Midfielder, 5427, 58, 90, 81, 47, 28, 47, Yes, Yes, 3
-244, Thiago, Carvalho, 39, São Paulo, Midfielder, 1605, 33, 13, 44, 20, 11, 80, Yes, No, 0
-245, Nicolas, Nascimento, 34, Bahia, Sweeper, 4949, 33, 17, 95, 27, 26, 4, Yes, Yes, 5
-246, Miguel, Souza, 16, Goiás, Goalkepper, 6256, 69, 92, 95, 77, 82, 3, No, Yes, 8
-247, Gustavo, Rodrigues, 35, Cruzeiro, Striker, 4788, 26, 6, 17, 12, 54, 44, Yes, No, 0
-248, João Gabriel, Gomes, 26, Palmeiras, Midfielder, 7322, 40, 7, 66, 66, 27, 34, No, Yes, 11
-249, Davi, Vieira, 21, Corinthians, Midfielder, 5616, 43, 17, 18, 46, 36, 99, Yes, Yes, 7
-250, Matheus, Alves, 35, São Paulo, Goalkepper, 3109, 57, 59, 73, 98, 35, 21, Yes, Yes, 1
-251, Vitor, Mendes, 17, Grêmio, Defender, 6041, 53, 74, 98, 91, 2, 3, Yes, No, 0
-252, Eduardo, Freitas, 35, Corinthians, Midfielder, 1563, 36, 6, 40, 49, 76, 9, Yes, Yes, 9
-253, Pietro, Nascimento, 19, Corinthians, Striker, 2688, 27, 9, 21, 70, 26, 11, Yes, Yes, 7
-254, Rafael, Ramos, 16, Coritiba, Striker, 1738, 60, 19, 78, 96, 58, 50, Yes, Yes, 9
-255, Caio, Barbosa, 25, Grêmio, Defender, 2654, 49, 71, 75, 86, 5, 9, No, No, 0
-256, João, Andrade, 31, Bahia, Defender, 6703, 69, 82, 61, 92, 27, 87, Yes, Yes, 9
-257, Lucca, Freitas, 31, Goiás, Striker, 1409, 42, 9, 56, 81, 21, 45, No, Yes, 12
-258, Daniel, Andrade, 38, Vasco, Goalkepper, 4725, 55, 59, 96, 96, 13, 13, Yes, No, 0
-259, Enzo, Alves, 31, Corinthians, Defender, 6004, 69, 35, 56, 93, 64, 99, Yes, No, 0
-260, João, Carvalho, 32, Vasco, Sweeper, 3416, 34, 50, 37, 13, 57, 15, No, Yes, 3
-261, João Pedro, Soares, 19, Goiás, Sweeper, 1547, 55, 18, 55, 77, 59, 67, No, No, 0
-262, João Vitor, Fernandes, 40, São Paulo, Midfielder, 3178, 59, 53, 45, 99, 10, 90, No, Yes, 4
-263, Lucas, Almeida, 40, Fortaleza, Defender, 4386, 61, 91, 72, 37, 9, 97, No, No, 0
-264, Heitor, Almeida, 30, Bahia, Striker, 1984, 35, 20, 73, 42, 40, 3, Yes, No, 0
-265, João Vitor, Machado, 40, Botafogo, Striker, 8131, 50, 9, 72, 25, 59, 89, No, Yes, 6
-266, Vitor, Carvalho, 21, Santos, Midfielder, 5482, 33, 10, 69, 5, 65, 18, No, No, 0
-267, Davi, Pereira, 21, Fortaleza, Striker, 3349, 43, 99, 3, 67, 41, 5, No, No, 0
-268, Lorenzo, Soares, 24, Fluminense, Sweeper, 1582, 45, 25, 58, 44, 33, 66, Yes, Yes, 5
-269, Arthur, Andrade, 35, Bahia, Defender, 3711, 27, 30, 52, 36, 11, 7, Yes, Yes, 9
-270, Vitor, Carvalho, 24, Bahia, Sweeper, 5762, 44, 52, 45, 42, 75, 7, No, No, 0
-271, Thiago, Nunes, 24, Goiás, Sweeper, 3513, 40, 7, 38, 41, 65, 51, Yes, No, 0
-272, Isaac, Pereira, 18, Athletico-PR, Goalkepper, 8136, 57, 47, 82, 96, 2, 60, No, No, 0
-273, Felipe, Gonçalves, 27, Atlético-MG, Goalkepper, 2290, 79, 69, 94, 55, 91, 89, No, No, 0
-274, , Mendes, 24, Athletico-PR, Midfielder, 1154, 55, 94, 2, 71, 14, 97, No, No, 0
-275, Murilo, Nunes, 34, Fluminense, Goalkepper, 6612, 56, 41, 8, 59, 76, 98, Yes, Yes, 1
-276, Pietro, Machado, 30, Athletico-PR, Goalkepper, 5044, 80, 88, 68, 78, 81, 88, Yes, Yes, 11
-277, Daniel, Martins, 26, Grêmio, Defender, 5315, 60, 57, 73, 87, 7, 76, Yes, Yes, 9
-278, Davi, Gonçalves, 16, Bragantino, Defender, 2398, 50, 74, 20, 89, 68, 2, Yes, No, 0
-279, João Pedro, Lima, 33, Athletico-PR, Midfielder, 9997, 49, 53, 42, 97, 15, 40, No, No, 0
-280, Caio, Lima, 24, Bragantino, Defender, 2078, 45, 86, 94, 9, 27, 11, No, No, 0
-281, Leonardo, Vieira, 30, Grêmio, Defender, 3034, 47, 66, 13, 42, 38, 77, No, No, 0
-282, Rafael, Rocha, 18, Coritiba, Sweeper, 9029, 56, 81, 56, 4, 64, 77, No, No, 0
-283, João Vitor, Lima, 32, Bragantino, Sweeper, 4011, 63, 99, 26, 63, 94, 33, Yes, Yes, 3
-284, Rafael, Lima, 16, Coritiba, Goalkepper, 3564, 56, 72, 79, 30, 81, 18, No, No, 0
-285, Miguel, Ramos, 16, Fortaleza, Goalkepper, 4147, 69, 70, 52, 81, 77, 67, No, No, 0
-286, Cauã, Silva, 38, Cuiabá, Midfielder, 4813, 42, 20, 88, 16, 13, 76, Yes, No, 0
-287, Heitor, Marques, 30, Flamengo, Goalkepper, 2511, 42, 16, 38, 70, 33, 54, No, Yes, 6
-288, Vitor, Cardoso, 37, Flamengo, Sweeper, 6898, 51, 91, 47, 5, 20, 93, No, No, 0
-289, Daniel, Carvalho, 19, Vasco, Goalkepper, 1125, 57, 96, 53, 25, 16, 96, Yes, Yes, 2
-290, Felipe, Gomes, 36, Cruzeiro, Midfielder, 4824, 40, 20, 80, 41, 58, 5, No, No, 0
-291, Arthur, Soares, 38, Cuiabá, Midfielder, 6554, 55, 14, 99, 21, 71, 72, No, No, 0
-292, Thiago, Carvalho, 25, Fluminense, Goalkepper, 5317, 49, 2, 93, 10, 97, 43, Yes, Yes, 10
-293, Lucas, Silva, 36, Corinthians, Sweeper, 9933, 45, 29, 50, 49, 67, 33, Yes, No, 0
-294, Daniel, Moreira, 17, Bahia, Goalkepper, 4244, 54, 54, 50, 27, 96, 43, Yes, No, 0
-295, João Pedro, Carvalho, 29, Cruzeiro, Goalkepper, 3476, 65, 77, 53, 38, 98, 62, Yes, No, 0
-296, João Gabriel, Moreira, 32, São Paulo, Striker, 6760, 41, 59, 26, 45, 12, 64, No, Yes, 12
-297, Pietro, Santana, 35, Goiás, Sweeper, 4273, 33, 46, 25, 40, 31, 26, No, Yes, 2
-298, Davi, Marques, 40, Cuiabá, Defender, 6948, 42, 36, 13, 44, 86, 33, Yes, Yes, 5
-299, Caio, Fernandes, 40, Flamengo, Midfielder, 2030, 48, 76, 80, 30, 46, 10, No, Yes, 5
-300, Arthur, Moreira, 17, Cuiabá, Midfielder, 3925, 25, 15, 45, 21, 33, 15, No, Yes, 2
-301, Cauã, Vieira, 25, Coritiba, Goalkepper, 6604, 46, 21, 3, 56, 64, 87, Yes, No, 0
-302, Pietro, Mendes, 26, Botafogo, Midfielder, 4342, 43, 33, 47, 73, 39, 24, No, No, 0
-303, Arthur, Santana, 24, Grêmio, Midfielder, 6234, 39, 84, 2, 34, 75, 1, Yes, No, 0
-304, Samuel, Ribeiro, 39, São Paulo, Defender, 6276, 40, 16, 88, 13, 34, 50, No, Yes, 5
-305, Bernardo, Dias, 19, Corinthians, Striker, 3707, 73, 90, 68, 32, 94, 82, Yes, No, 0
-306, Eduardo, Martins, 34, Atlético-MG, Midfielder, 1539, 41, 50, 3, 53, 78, 24, Yes, Yes, 2
-307, João Pedro, Barbosa, 18, Coritiba, Striker, 2032, 44, 33, 80, 16, 81, 10, Yes, Yes, 12
-308, João Pedro, Lima, 23, Cuiabá, Defender, 1216, 62, 93, 22, 47, 69, 83, No, Yes, 12
-309, Cauã, Fernandes, 28, Goiás, Sweeper, 7565, 66, 51, 96, 84, 87, 15, No, No, 0
-310, João Gabriel, Santos, 20, Cuiabá, Defender, 1152, 51, 65, 53, 19, 78, 44, Yes, Yes, 5
-311, Rafael, Santos, 23, Atlético-MG, Sweeper, 5179, 44, 27, 2, 99, 12, 80, Yes, Yes, 11
-312, Miguel, Nunes, 24, Grêmio, Midfielder, 7672, 63, 28, 43, 94, 80, 70, Yes, No, 0
-313, Pedro, Rocha, 19, Atlético-MG, Sweeper, 4011, 45, 37, 50, 23, 87, 28, Yes, No, 0
-314, Rafael, Andrade, 27, Santos, Sweeper, 1371, 45, 16, 93, 35, 8, 74, No, No, 0
-315, Arthur, Freitas, 25, Cuiabá, Defender, 4548, 56, 15, 71, 60, 48, 88, Yes, No, 0
-316, Daniel, Alves, 34, Cruzeiro, Striker, 6629, 49, 9, 65, 65, 89, 20, Yes, No, 0
-317, , Freitas, 19, Cruzeiro, Striker, 6089, 34, 48, 27, 35, 52, 11, Yes, No, 0
-318, Thiago, Dias, 17, Cuiabá, Sweeper, 1499, 60, 95, 51, 56, 74, 26, No, No, 0
-319, Isaac, Marques, 40, Palmeiras, Striker, 5848, 72, 90, 92, 59, 29, 93, No, Yes, 5
-320, Leonardo, Santana, 34, Bragantino, Midfielder, 2854, 54, 47, 51, 80, 26, 67, No, Yes, 5
-321, Henrique, Lima, 17, Vasco, Midfielder, 4516, 57, 86, 78, 23, 58, 41, No, No, 0
-322, Cauã, Machado, 33, Bahia, Striker, 8125, 41, 20, 11, 41, 47, 86, No, No, 0
-323, Vitor, Carvalho, 40, Bragantino, Striker, 1451, 59, 32, 81, 52, 80, 53, No, Yes, 3
-324, Guilherme, Santana, 28, Coritiba, Sweeper, 2236, 47, 50, 11, 88, 59, 31, No, Yes, 4
-325, Guilherme, Teixeira, 20, Atlético-MG, Goalkepper, 7450, 61, 63, 69, 23, 99, 53, No, Yes, 10
-326, Lucas, Freitas, 16, Athletico-PR, Sweeper, 2259, 58, 77, 41, 37, 51, 85, No, Yes, 12
-327, Samuel, Pereira, 35, Bahia, Goalkepper, 5787, 35, 4, 51, 69, 7, 44, No, Yes, 4
-328, Miguel, Freitas, 23, Santos, Defender, 5955, 58, 75, 26, 72, 23, 97, No, No, 0
-329, Henrique, Vieira, 20, Botafogo, Striker, 1803, 59, 63, 78, 29, 86, 41, No, No, 0
-330, Pedro, Ramos, 26, Vasco, Striker, 7246, 58, 66, 85, 68, 4, 67, No, No, 0
-331, Bernardo, Ribeiro, 31, Grêmio, Defender, 1207, 70, 98, 72, 70, 20, 93, No, Yes, 11
-332, Gabriel, Santos, 33, Corinthians, Goalkepper, 8891, 53, 57, 58, 5, 84, 61, Yes, Yes, 3
-333, Heitor, Lima, 34, América-MG, Midfielder, 3117, 35, 30, 64, 22, 43, 19, Yes, No, 0
-334, Heitor, Machado, 20, Flamengo, Sweeper, 7061, 59, 84, 68, 32, 79, 36, Yes, Yes, 6
-335, Eduardo, Moreira, 24, Cruzeiro, Defender, 3695, 30, 58, 28, 52, 10, 5, Yes, No, 0
-336, Gabriel, Vieira, 32, Bahia, Goalkepper, 2624, 63, 63, 47, 88, 65, 56, No, Yes, 8
-337, Lucas, Cardoso, 32, Athletico-PR, Defender, 1700, 52, 31, 10, 75, 86, 58, No, No, 0
-338, Miguel, Alves, 25, Bahia, Goalkepper, 9938, 56, 68, 59, 22, 68, 65, Yes, No, 0
-339, Vitor, Lima, 26, Fortaleza, Defender, 3458, 56, 51, 48, 63, 22, 99, Yes, No, 0
-340, Murilo, Alves, 33, São Paulo, Defender, 3790, 53, 11, 72, 38, 58, 86, Yes, No, 0
-341, Enzo, Cardoso, 35, Internacional, Striker, 2713, 52, 98, 35, 28, 5, 97, No, No, 0
-342, Enzo, Almeida, 39, América-MG, Defender, 5987, 71, 97, 99, 44, 94, 24, Yes, No, 0
-343, Rafael, Gomes, 22, Atlético-MG, Striker, 2068, 35, 49, 39, 18, 39, 33, Yes, Yes, 10
-344, Caio, Souza, 36, Corinthians, Striker, 3548, 49, 28, 43, 73, 68, 35, No, No, 0
-345, Murilo, Carvalho, 17, Fortaleza, Sweeper, 5452, 47, 85, 16, 15, 65, 55, Yes, No, 0
-346, Felipe, Nunes, 26, Bahia, Goalkepper, 5633, 51, 73, 44, 18, 69, 52, Yes, Yes, 9
-347, Eduardo, Souza, 31, Fluminense, Sweeper, 4613, 62, 72, 50, 78, 41, 70, Yes, Yes, 9
-348, Miguel, Lima, 28, Botafogo, Midfielder, 5560, 42, 37, 26, 30, 82, 37, No, Yes, 8
-349, João Pedro, Santos, 29, Internacional, Midfielder, 4737, 53, 28, 38, 23, 87, 91, No, No, 0
-350, João, Alves, 28, Athletico-PR, Midfielder, 4905, 54, 32, 85, 58, 12, 84, Yes, Yes, 8
-351, Miguel, Ferreira, 25, Fortaleza, Sweeper, 8794, 58, 62, 37, 79, 98, 16, Yes, No, 0
-352, Guilherme, Pereira, 37, São Paulo, Midfielder, 3275, 70, 93, 84, 19, 95, 61, No, No, 0
-353, Isaac, Fernandes, 26, Corinthians, Goalkepper, 5073, 48, 92, 2, 43, 40, 67, No, Yes, 7
-354, Lucas, Andrade, 25, Athletico-PR, Sweeper, 8483, 37, 84, 33, 9, 57, 3, No, Yes, 11
-355, Samuel, Vieira, 18, Fluminense, Striker, 2108, 63, 76, 59, 69, 34, 80, Yes, No, 0
-356, Pietro, Martins, 36, Flamengo, Midfielder, 6546, 44, 97, 30, 43, 22, 29, Yes, Yes, 6
-357, Miguel, Costa, 17, Atlético-MG, Defender, 5406, 68, 61, 30, 70, 90, 89, Yes, Yes, 4
-358, Cauã, Moreira, 20, Grêmio, Striker, 2562, 32, 81, 11, 52, 10, 9, No, Yes, 9
-359, Eduardo, Fernandes, 21, Athletico-PR, Defender, 5091, 49, 52, 81, 10, 64, 41, Yes, Yes, 9
-360, Daniel, Machado, 32, Vasco, Midfielder, 4316, 80, 99, 95, 48, 87, 75, No, No, 0
-361, João Vitor, Gonçalves, 36, Botafogo, Defender, 8341, 57, 56, 89, 33, 79, 29, Yes, Yes, 1
-362, Cauã, Carvalho, 38, Athletico-PR, Goalkepper, 4428, 44, 8, 93, 19, 91, 9, Yes, Yes, 11
-363, Cauã, Dias, 31, Goiás, Defender, 4243, 55, 74, 20, 42, 65, 78, Yes, No, 0
-364, Felipe, Santos, 22, São Paulo, Defender, 5112, 70, 89, 58, 67, 73, 63, Yes, Yes, 2
-365, Miguel, Lima, 38, Flamengo, Midfielder, 5738, 56, 58, 34, 31, 85, 74, Yes, No, 0
-366, , Mendes, 20, Atlético-MG, Goalkepper, 8445, 56, 36, 64, 80, 5, 96, No, Yes, 3
-367, Bernardo, Nunes, 35, Fortaleza, Striker, 8437, 67, 53, 82, 65, 68, 68, No, Yes, 10
-368, Lucas, Oliveira, 40, Athletico-PR, Defender, 5851, 30, 45, 2, 72, 20, 11, No, No, 0
-369, Bernardo, Souza, 34, Botafogo, Defender, 2081, 57, 91, 24, 54, 62, 56, Yes, Yes, 12
-370, João, Moreira, 37, Cruzeiro, Defender, 6638, 40, 69, 5, 25, 27, 76, Yes, Yes, 12
-371, Thiago, Andrade, 22, Fluminense, Sweeper, 2880, 67, 91, 90, 85, 2, 70, Yes, Yes, 11
-372, João Pedro, Ribeiro, 29, Grêmio, Striker, 4542, 28, 20, 65, 3, 42, 14, No, Yes, 3
-373, João Pedro, Teixeira, 16, Grêmio, Midfielder, 6973, 42, 60, 20, 18, 75, 38, No, Yes, 6
-374, João Pedro, Almeida, 32, Atlético-MG, Sweeper, 1366, 53, 20, 77, 51, 88, 32, Yes, Yes, 6
-375, Guilherme, Santos, 30, Vasco, Striker, 5511, 38, 98, 57, 5, 2, 29, No, Yes, 7
-376, Matheus, Pereira, 32, Bahia, Midfielder, 5969, 51, 46, 1, 55, 91, 62, Yes, No, 0
-377, Thiago, Nascimento, 39, Fluminense, Sweeper, 1507, 18, 1, 44, 35, 3, 9, No, No, 0
-378, Pietro, Freitas, 35, Coritiba, Midfielder, 6209, 56, 23, 81, 79, 32, 69, No, No, 0
-379, João Vitor, Lima, 33, São Paulo, Sweeper, 7317, 45, 18, 95, 42, 68, 2, Yes, No, 0
-380, Lorenzo, Lopes, 26, Atlético-MG, Goalkepper, 4535, 62, 51, 49, 89, 67, 58, No, No, 0
-381, Rafael, Moreira, 24, Internacional, Goalkepper, 3568, 24, 44, 14, 25, 23, 17, No, No, 0
-382, João Vitor, Pereira, 35, Cuiabá, Goalkepper, 2326, 71, 94, 77, 28, 75, 84, No, No, 0
-383, Eduardo, Soares, 17, Bragantino, Sweeper, 9383, 61, 34, 88, 58, 95, 32, No, Yes, 12
-384, Gabriel, Marques, 39, Bahia, Midfielder, 4498, 63, 53, 91, 41, 31, 99, No, Yes, 10
-385, João Gabriel, Rocha, 26, Bragantino, Sweeper, 4328, 54, 77, 26, 87, 12, 71, Yes, No, 0
-386, Guilherme, Barbosa, 17, Internacional, Sweeper, 1672, 25, 2, 9, 73, 32, 10, No, No, 0
-387, Gabriel, Souza, 23, Bragantino, Midfielder, 8523, 62, 28, 70, 95, 97, 20, No, Yes, 6
-388, Vitor, Lima, 17, São Paulo, Midfielder, 4617, 51, 26, 90, 15, 50, 78, Yes, Yes, 6
-389, Miguel, Ramos, 23, Athletico-PR, Midfielder, 1663, 45, 39, 90, 4, 51, 42, Yes, No, 0
-390, Vinicius, Lima, 19, São Paulo, Defender, 6248, 55, 49, 76, 84, 12, 55, No, No, 0
-391, Pietro, Machado, 29, Cuiabá, Goalkepper, 4834, 36, 80, 4, 21, 54, 22, No, No, 0
-392, Samuel, Carvalho, 29, São Paulo, Goalkepper, 4603, 57, 68, 12, 93, 30, 84, No, No, 0
-393, Leonardo, Dias, 39, Coritiba, Sweeper, 8418, 68, 93, 99, 49, 69, 34, Yes, Yes, 4
-394, Guilherme, Machado, 19, Corinthians, Sweeper, 3601, 34, 29, 3, 6, 98, 35, Yes, No, 0
-395, Caio, Santos, 22, Cruzeiro, Goalkepper, 5717, 46, 91, 1, 22, 98, 19, Yes, No, 0
-396, Caio, Souza, 18, Goiás, Sweeper, 6939, 35, 72, 36, 31, 1, 37, No, No, 0
-397, Davi, Ferreira, 39, Internacional, Striker, 1345, 27, 21, 7, 20, 67, 21, Yes, No, 0
-398, João Pedro, Gomes, 23, América-MG, Midfielder, 8037, 47, 60, 46, 25, 14, 93, Yes, Yes, 2
-399, Miguel, Souza, 18, Bragantino, Sweeper, 7378, 55, 84, 78, 24, 16, 76, Yes, Yes, 3
-400, Daniel, Andrade, 35, São Paulo, Defender, 9853, 52, 46, 23, 75, 58, 61, Yes, No, 0
-401, Pedro, Lima, 21, Bahia, Midfielder, 2451, 65, 86, 25, 94, 24, 96, Yes, No, 0
-402, Gustavo, Lima, 21, Coritiba, Striker, 6071, 65, 47, 90, 68, 68, 56, Yes, No, 0
-403, Miguel, Silva, 19, São Paulo, Striker, 7387, 54, 70, 76, 44, 12, 68, Yes, Yes, 6
-404, Daniel, Marques, 36, Coritiba, Goalkepper, 2392, 52, 13, 61, 53, 86, 51, No, No, 0
-405, Isaac, Cardoso, 39, Corinthians, Striker, 9821, 28, 32, 23, 47, 32, 6, No, No, 0
-406, Arthur, Machado, 24, Internacional, Sweeper, 4875, 56, 95, 45, 82, 25, 36, No, No, 0
-407, Davi, Freitas, 25, Vasco, Striker, 3561, 35, 15, 5, 65, 13, 78, Yes, Yes, 9
-408, Lorenzo, Carvalho, 33, Fortaleza, Defender, 2092, 44, 83, 28, 15, 90, 7, No, No, 0
-409, João Pedro, Almeida, 36, Botafogo, Goalkepper, 3274, 51, 48, 88, 16, 35, 71, No, Yes, 3
-410, Davi, Mendes, 23, Bragantino, Goalkepper, 7964, 38, 17, 18, 77, 32, 46, No, Yes, 4
-411, Cauã, Lima, 40, Grêmio, Midfielder, 9118, 47, 70, 78, 25, 48, 17, No, No, 0
-412, Lucas, Pereira, 19, Cuiabá, Sweeper, 6206, 71, 38, 76, 70, 94, 77, Yes, No, 0
-413, Guilherme, Nunes, 20, Botafogo, Goalkepper, 9788, 84, 77, 74, 74, 98, 98, Yes, No, 0
-414, João Vitor, Souza, 31, Palmeiras, Sweeper, 5683, 61, 90, 27, 97, 74, 18, Yes, No, 0
-415, Gustavo, Moreira, 38, Botafogo, Striker, 5906, 45, 87, 57, 31, 45, 6, No, Yes, 6
-416, Samuel, Soares, 22, Atlético-MG, Midfielder, 1414, 55, 66, 16, 84, 61, 52, No, Yes, 8
-417, Henrique, Soares, 37, Atlético-MG, Striker, 3486, 50, 67, 45, 97, 40, 4, No, No, 0
-418, Felipe, Nascimento, 40, Corinthians, Striker, 6343, 53, 24, 46, 75, 47, 77, Yes, No, 0
-419, Daniel, Carvalho, 26, Santos, Goalkepper, 8767, 69, 87, 49, 52, 91, 67, No, No, 0
-420, Enzo, Ferreira, 40, Cuiabá, Striker, 6097, 44, 57, 27, 79, 16, 44, Yes, Yes, 8
-421, Miguel, Nunes, 27, Botafogo, Striker, 5770, 38, 48, 28, 24, 44, 49, No, Yes, 3
-422, João, Dias, 21, Grêmio, Goalkepper, 3906, 72, 35, 92, 40, 97, 99, Yes, No, 0
-423, João Pedro, Ramos, 36, Palmeiras, Goalkepper, 5517, 54, 63, 79, 38, 68, 23, No, No, 0
-424, Murilo, Oliveira, 17, Bahia, Goalkepper, 9241, 55, 21, 73, 94, 43, 44, Yes, Yes, 8
-425, Pedro, Martins, 17, Santos, Striker, 4236, 49, 63, 80, 69, 11, 24, Yes, Yes, 11
-426, Thiago, Machado, 40, Corinthians, Striker, 6846, 58, 96, 88, 9, 30, 67, No, No, 0
-427, Rafael, Dias, 25, Cruzeiro, Sweeper, 4493, 38, 78, 56, 32, 9, 17, Yes, Yes, 1
-428, Eduardo, Dias, 22, Cruzeiro, Midfielder, 6712, 61, 27, 16, 82, 87, 95, Yes, Yes, 8
-429, Daniel, Machado, 17, Goiás, Midfielder, 5634, 42, 5, 2, 23, 97, 85, No, Yes, 5
-430, Davi, Pereira, 36, Goiás, Striker, 3003, 53, 53, 31, 96, 20, 67, No, No, 0
-431, Lucca, Santos, 40, Palmeiras, Midfielder, 9064, 49, 95, 83, 6, 48, 17, No, Yes, 9
-432, Eduardo, Moreira, 40, Atlético-MG, Striker, 8260, 40, 39, 10, 95, 49, 10, Yes, No, 0
-433, Lucca, Silva, 27, Santos, Midfielder, 4242, 61, 89, 41, 89, 26, 60, No, Yes, 3
-434, Heitor, Gomes, 39, Corinthians, Goalkepper, 1366, 47, 59, 64, 77, 31, 6, No, Yes, 10
-435, Eduardo, Soares, 33, Botafogo, Defender, 8663, 65, 84, 94, 86, 47, 16, No, No, 0
-436, João Vitor, Nunes, 38, Bragantino, Sweeper, 9086, 61, 64, 83, 38, 84, 37, No, No, 0
-437, Nicolas, Alves, 18, Fortaleza, Midfielder, 7849, 53, 87, 36, 48, 22, 76, Yes, No, 0
-438, Cauã, Lopes, 40, Bragantino, Defender, 6711, 21, 3, 51, 4, 46, 4, No, No, 0
-439, Vinicius, Almeida, 30, Atlético-MG, Goalkepper, 1289, 50, 86, 5, 69, 74, 20, No, No, 0
-440, Vinicius, Alves, 16, Goiás, Striker, 3529, 43, 45, 29, 30, 46, 65, No, Yes, 12
-441, Henrique, Pereira, 16, Grêmio, Striker, 9763, 27, 15, 13, 98, 9, 2, Yes, No, 0
-442, Bernardo, Marques, 20, Palmeiras, Defender, 2582, 66, 47, 72, 66, 54, 93, No, No, 0
-443, Leonardo, Gomes, 18, Bragantino, Midfielder, 9543, 61, 81, 64, 85, 19, 57, Yes, Yes, 5
-444, Arthur, Oliveira, 18, Corinthians, Defender, 6005, 37, 45, 74, 51, 5, 11, Yes, No, 0
-445, Miguel, Santos, 33, Internacional, Midfielder, 6887, 36, 33, 35, 41, 36, 35, Yes, Yes, 1
-446, , Santana, 32, Corinthians, Striker, 6085, 61, 20, 93, 87, 40, 68, No, No, 0
-447, Miguel, Santana, 29, Vasco, Defender, 9182, 32, 95, 15, 1, 10, 41, Yes, No, 0
-448, Pietro, Moreira, 34, Cruzeiro, Striker, 2774, 31, 77, 27, 14, 10, 30, Yes, No, 0
-449, Pietro, Santana, 37, Goiás, Defender, 5323, 62, 30, 77, 58, 67, 78, No, Yes, 3
-450, Lucas, Freitas, 31, Athletico-PR, Sweeper, 8162, 51, 30, 53, 48, 38, 90, Yes, No, 0
-451, Matheus, Silva, 31, América-MG, Midfielder, 1615, 55, 74, 76, 52, 9, 67, No, Yes, 7
-452, Heitor, Santos, 40, Vasco, Goalkepper, 9509, 57, 79, 7, 52, 73, 74, No, No, 0
-453, Miguel, Nascimento, 28, Goiás, Midfielder, 7952, 38, 61, 98, 9, 6, 16, No, No, 0
-454, Felipe, Vieira, 16, Fortaleza, Goalkepper, 4550, 70, 93, 80, 52, 70, 59, No, Yes, 3
-455, Arthur, Ferreira, 31, Coritiba, Striker, 5743, 16, 7, 18, 9, 6, 41, Yes, No, 0
-456, João Gabriel, Alves, 23, Bragantino, Defender, 4401, 61, 72, 95, 84, 7, 50, No, No, 0
-457, Nicolas, Ribeiro, 30, Bahia, Sweeper, 2681, 38, 69, 22, 8, 32, 60, Yes, No, 0
-458, João Vitor, Mendes, 34, Fortaleza, Goalkepper, 3236, 34, 38, 63, 6, 43, 22, No, No, 0
-459, Gabriel, Gonçalves, 31, Cruzeiro, Sweeper, 4330, 58, 39, 69, 50, 81, 52, Yes, Yes, 8
-460, Caio, Machado, 38, Fortaleza, Defender, 1179, 57, 94, 5, 58, 60, 68, Yes, Yes, 2
-461, João Pedro, Dias, 33, Vasco, Sweeper, 1375, 43, 29, 29, 60, 63, 35, No, Yes, 8
-462, João Gabriel, Teixeira, 18, Goiás, Sweeper, 1393, 60, 40, 69, 13, 90, 89, Yes, No, 0
-463, Enzo, Oliveira, 29, Athletico-PR, Striker, 2688, 43, 52, 47, 24, 17, 77, No, Yes, 5
-464, Lucas, Andrade, 33, Fortaleza, Striker, 6073, 41, 44, 10, 19, 98, 35, Yes, Yes, 5
-465, João Vitor, Costa, 29, Flamengo, Striker, 3913, 62, 67, 39, 78, 31, 95, No, Yes, 6
-466, João, Santos, 40, Cruzeiro, Sweeper, 8076, 59, 99, 51, 31, 39, 79, No, Yes, 9
-467, Arthur, Lopes, 16, Vasco, Defender, 3108, 38, 24, 80, 32, 37, 20, No, No, 0
-468, Rafael, Mendes, 17, Internacional, Midfielder, 3755, 42, 79, 32, 49, 8, 43, No, Yes, 2
-469, Arthur, Almeida, 40, São Paulo, Striker, 2131, 68, 94, 85, 76, 8, 79, Yes, Yes, 8
-470, Guilherme, Andrade, 30, Corinthians, Goalkepper, 2799, 62, 68, 70, 87, 21, 65, No, No, 0
-471, Cauã, Fernandes, 20, Athletico-PR, Goalkepper, 5238, 67, 72, 50, 82, 66, 65, Yes, No, 0
-472, Miguel, Lima, 25, Coritiba, Midfielder, 7496, 59, 98, 31, 8, 87, 74, No, Yes, 6
-473, , Gomes, 25, Coritiba, Defender, 3713, 27, 17, 18, 45, 47, 11, Yes, Yes, 1
-474, Caio, Ferreira, 40, Flamengo, Goalkepper, 2668, 41, 50, 56, 10, 32, 59, No, Yes, 9
-475, Henrique, Carvalho, 31, Goiás, Sweeper, 7267, 47, 41, 10, 97, 28, 61, Yes, No, 0
-476, Heitor, Moreira, 25, Palmeiras, Defender, 9721, 36, 24, 18, 78, 61, 1, No, No, 0
-477, Vinicius, Santana, 29, Flamengo, Sweeper, 2084, 36, 36, 20, 3, 23, 99, No, Yes, 2
-478, Cauã, Barbosa, 37, Palmeiras, Defender, 2938, 49, 37, 78, 57, 52, 25, No, Yes, 6
-479, Gabriel, Rodrigues, 30, Corinthians, Sweeper, 1852, 55, 96, 43, 52, 5, 82, Yes, No, 0
-480, Lorenzo, Lima, 27, Bahia, Defender, 1542, 60, 42, 80, 12, 85, 81, No, No, 0
-481, Bernardo, Silva, 23, Grêmio, Striker, 4246, 69, 56, 97, 91, 86, 17, No, No, 0
-482, Gabriel, Freitas, 27, América-MG, Goalkepper, 9503, 61, 86, 45, 36, 42, 99, Yes, Yes, 5
-483, Lorenzo, Moreira, 18, Cruzeiro, Defender, 4939, 62, 32, 98, 91, 55, 36, Yes, No, 0
-484, Gustavo, Santana, 23, Cuiabá, Defender, 6132, 48, 75, 3, 99, 62, 4, No, Yes, 11
-485, Lorenzo, Martins, 20, Atlético-MG, Sweeper, 1854, 65, 72, 94, 7, 92, 60, Yes, No, 0
-486, Guilherme, Ramos, 39, Flamengo, Sweeper, 2351, 52, 33, 43, 53, 80, 51, No, No, 0
-487, João Gabriel, Dias, 28, Botafogo, Midfielder, 6979, 32, 7, 17, 38, 8, 91, No, No, 0
-488, Cauã, Costa, 36, Athletico-PR, Striker, 2441, 49, 62, 8, 95, 36, 48, No, Yes, 7
-489, Felipe, Santos, 26, Coritiba, Defender, 2259, 25, 60, 22, 12, 6, 26, Yes, Yes, 1
-490, Enzo, Nascimento, 18, Bragantino, Defender, 4082, 42, 57, 24, 56, 4, 71, No, No, 0
-491, Eduardo, Carvalho, 16, Corinthians, Defender, 2133, 39, 45, 2, 4, 67, 77, No, No, 0
-492, Eduardo, Pereira, 29, Vasco, Sweeper, 6467, 59, 75, 43, 61, 79, 41, Yes, No, 0
-493, João, Ferreira, 21, Athletico-PR, Midfielder, 9828, 42, 87, 74, 21, 3, 26, No, Yes, 11
-494, João Gabriel, Martins, 40, Grêmio, Midfielder, 2118, 54, 87, 40, 27, 98, 21, Yes, No, 0
-495, Gustavo, Almeida, 39, Goiás, Defender, 6595, 65, 91, 91, 68, 61, 18, No, Yes, 5
-496, Lucas, Lima, 31, Flamengo, Midfielder, 4137, 36, 22, 5, 82, 58, 15, No, Yes, 3
-497, Davi, Oliveira, 26, Athletico-PR, Sweeper, 3470, 53, 17, 22, 95, 37, 96, No, No, 0
-498, João Vitor, Alves, 27, São Paulo, Goalkepper, 8653, 36, 74, 5, 36, 6, 61, No, No, 0
-499, Vinicius, Gonçalves, 26, Santos, Midfielder, 7050, 60, 79, 25, 94, 42, 60, No, Yes, 5
-500, Nicolas, Santos, 35, São Paulo, Defender, 7430, 68, 75, 33, 94, 64, 77, No, No, 0
-501, Gustavo, Nunes, 28, Fluminense, Midfielder, 1320, 52, 71, 21, 94, 15, 59, Yes, No, 0
-502, Enzo, Freitas, 24, Bragantino, Midfielder, 8273, 77, 94, 55, 65, 79, 93, Yes, No, 0
-503, Vitor, Teixeira, 16, Athletico-PR, Goalkepper, 4811, 61, 77, 82, 67, 50, 31, Yes, Yes, 2
-504, Lorenzo, Nascimento, 35, Internacional, Striker, 7454, 51, 63, 49, 16, 79, 48, Yes, No, 0
-505, Cauã, Marques, 17, Fortaleza, Sweeper, 3894, 48, 78, 20, 45, 39, 61, No, Yes, 9
-506, Henrique, Teixeira, 30, Santos, Sweeper, 4599, 78, 64, 96, 98, 70, 63, No, No, 0
-507, João Gabriel, Andrade, 40, Cuiabá, Striker, 8309, 50, 50, 50, 31, 64, 55, No, Yes, 9
-508, Miguel, Ribeiro, 24, Corinthians, Goalkepper, 4410, 38, 23, 41, 47, 20, 62, No, No, 0
-509, João, Lima, 18, São Paulo, Midfielder, 6217, 55, 68, 66, 52, 9, 80, Yes, Yes, 1
-510, Lorenzo, Santana, 26, Santos, Defender, 3838, 50, 95, 75, 8, 30, 42, No, No, 0
-511, Felipe, Marques, 21, Grêmio, Goalkepper, 8335, 80, 49, 95, 72, 87, 99, No, No, 0
-512, Arthur, Souza, 24, Cuiabá, Goalkepper, 5500, 55, 68, 74, 44, 59, 34, Yes, Yes, 6
-513, Pedro, Nunes, 33, Coritiba, Sweeper, 1430, 45, 86, 33, 97, 3, 8, Yes, Yes, 2
-514, Arthur, Nascimento, 31, Fluminense, Sweeper, 7016, 66, 93, 89, 49, 28, 73, No, Yes, 6
-515, Lucca, Nascimento, 34, América-MG, Sweeper, 7601, 87, 99, 82, 99, 87, 70, Yes, No, 0
-516, Felipe, Ferreira, 22, Botafogo, Striker, 9133, 60, 57, 91, 41, 91, 20, Yes, No, 0
-517, Felipe, Nascimento, 19, América-MG, Defender, 9051, 32, 9, 42, 77, 23, 13, No, Yes, 12
-518, Gabriel, Alves, 38, Bragantino, Sweeper, 6276, 42, 58, 51, 8, 56, 37, No, Yes, 12
-519, Nicolas, Oliveira, 38, Palmeiras, Sweeper, 3291, 57, 68, 79, 66, 42, 34, Yes, Yes, 5
-520, Arthur, Nascimento, 22, Corinthians, Goalkepper, 6036, 61, 14, 6, 99, 93, 93, Yes, Yes, 1
-521, Vinicius, Vieira, 38, São Paulo, Goalkepper, 6559, 46, 6, 79, 30, 76, 40, Yes, Yes, 2
-522, Murilo, Lopes, 30, Goiás, Midfielder, 1551, 68, 11, 61, 83, 94, 92, Yes, Yes, 6
-523, Gustavo, Santos, 28, Botafogo, Striker, 3889, 61, 72, 3, 90, 70, 74, Yes, Yes, 3
-524, Matheus, Ferreira, 32, Fortaleza, Striker, 4874, 44, 46, 30, 93, 38, 14, Yes, No, 0
-525, Nicolas, Gonçalves, 21, Palmeiras, Striker, 8894, 60, 83, 63, 27, 95, 35, No, No, 0
-526, Davi, Cardoso, 35, Bragantino, Midfielder, 7542, 53, 79, 71, 46, 4, 65, Yes, Yes, 3
-527, Henrique, Cardoso, 38, Grêmio, Defender, 4670, 65, 81, 91, 53, 44, 56, Yes, Yes, 12
-528, Felipe, Pereira, 23, Atlético-MG, Goalkepper, 3023, 65, 46, 60, 95, 91, 37, Yes, No, 0
-529, Rafael, Pereira, 34, Athletico-PR, Midfielder, 5499, 59, 24, 99, 72, 85, 17, No, Yes, 12
-530, Rafael, Fernandes, 18, Fluminense, Sweeper, 4055, 41, 43, 2, 98, 44, 19, Yes, Yes, 2
-531, Vinicius, Silva, 32, Cuiabá, Midfielder, 1159, 46, 48, 32, 24, 84, 42, Yes, No, 0
-532, Murilo, Gomes, 37, Corinthians, Defender, 3686, 36, 21, 54, 49, 37, 23, No, Yes, 2
-533, Davi, Silva, 19, Cruzeiro, Goalkepper, 1559, 58, 34, 91, 84, 52, 31, Yes, Yes, 11
-534, Vitor, Gonçalves, 36, Cruzeiro, Defender, 4114, 48, 74, 62, 75, 27, 3, No, Yes, 11
-535, João Vitor, Lopes, 27, Bahia, Defender, 3827, 28, 29, 20, 8, 15, 71, No, Yes, 1
-536, Daniel, Marques, 28, Flamengo, Striker, 6481, 53, 12, 96, 80, 49, 29, Yes, No, 0
-537, Davi, Martins, 28, Bahia, Striker, 4906, 55, 64, 11, 68, 45, 91, No, No, 0
-538, Caio, Santos, 38, Athletico-PR, Striker, 3052, 39, 46, 14, 26, 60, 50, Yes, Yes, 1
-539, , Dias, 17, Bragantino, Sweeper, 9602, 50, 36, 51, 41, 92, 32, No, Yes, 1
-540, Gabriel, Silva, 26, Santos, Defender, 2390, 50, 92, 75, 2, 64, 18, Yes, No, 0
-541, Samuel, Fernandes, 37, Fortaleza, Midfielder, 2207, 23, 43, 38, 8, 19, 11, Yes, No, 0
-542, Murilo, Fernandes, 39, Cuiabá, Sweeper, 6468, 76, 52, 98, 51, 93, 88, No, Yes, 2
-543, Gustavo, Pereira, 29, Cruzeiro, Midfielder, 5282, 49, 78, 42, 7, 90, 31, Yes, No, 0
-544, Daniel, Soares, 19, Botafogo, Sweeper, 5267, 51, 87, 27, 34, 58, 51, No, Yes, 9
-545, Vinicius, Andrade, 34, Flamengo, Defender, 9400, 59, 95, 18, 93, 78, 15, Yes, No, 0
-546, Vitor, Costa, 39, Bahia, Midfielder, 6592, 45, 52, 14, 36, 27, 98, Yes, Yes, 5
-547, Matheus, Vieira, 21, Corinthians, Midfielder, 3842, 46, 87, 16, 52, 56, 19, Yes, No, 0
-548, Pedro, Ferreira, 32, Bragantino, Defender, 8071, 52, 42, 8, 96, 75, 40, Yes, No, 0
-549, Felipe, Gomes, 18, Grêmio, Sweeper, 8276, 63, 44, 31, 53, 98, 93, No, No, 0
-550, Samuel, Cardoso, 40, Cruzeiro, Goalkepper, 6764, 59, 31, 64, 24, 82, 95, No, No, 0
-551, Rafael, Dias, 40, Cuiabá, Defender, 6427, 58, 28, 39, 68, 99, 57, Yes, Yes, 9
-552, Murilo, Ferreira, 28, Santos, Sweeper, 5042, 54, 87, 73, 6, 26, 78, Yes, No, 0
-553, Lucca, Rodrigues, 35, Vasco, Sweeper, 4138, 22, 22, 17, 19, 52, 2, No, No, 0
-554, Lorenzo, Silva, 22, Botafogo, Defender, 1937, 52, 69, 37, 90, 19, 47, No, Yes, 3
-555, Heitor, Lima, 19, Fortaleza, Defender, 8234, 44, 4, 78, 45, 49, 47, No, No, 0
-556, Arthur, Ferreira, 16, América-MG, Sweeper, 4535, 55, 93, 29, 24, 59, 70, Yes, Yes, 8
-557, Vitor, Cardoso, 34, Cuiabá, Midfielder, 1390, 53, 70, 1, 85, 98, 15, No, No, 0
-558, Lorenzo, Santos, 34, Vasco, Striker, 9173, 64, 41, 60, 91, 40, 91, Yes, Yes, 1
-559, Enzo, Barbosa, 24, Fluminense, Striker, 5749, 64, 50, 97, 95, 48, 32, Yes, Yes, 9
-560, Henrique, Soares, 17, Cuiabá, Sweeper, 6138, 40, 3, 42, 16, 82, 58, Yes, No, 0
-561, Nicolas, Vieira, 25, Fluminense, Sweeper, 4900, 46, 1, 37, 91, 20, 85, Yes, Yes, 11
-562, Enzo, Soares, 36, Atlético-MG, Striker, 1591, 43, 77, 89, 7, 10, 35, No, Yes, 10
-563, Nicolas, Lima, 27, Cruzeiro, Midfielder, 2934, 47, 29, 7, 22, 91, 89, No, No, 0
-564, Pedro, Marques, 29, Atlético-MG, Striker, 8187, 62, 81, 8, 93, 61, 71, Yes, Yes, 9
-565, Caio, Lopes, 38, Fortaleza, Midfielder, 1930, 57, 90, 2, 47, 98, 49, Yes, Yes, 5
-566, Bernardo, Soares, 25, Athletico-PR, Midfielder, 9361, 47, 83, 65, 76, 6, 5, Yes, Yes, 4
-567, João Vitor, Rocha, 19, São Paulo, Striker, 9588, 42, 25, 29, 12, 65, 79, No, No, 0
-568, Gustavo, Gomes, 16, Cuiabá, Goalkepper, 5159, 42, 29, 58, 34, 32, 58, No, Yes, 9
-569, Arthur, Carvalho, 35, Vasco, Midfielder, 5471, 46, 73, 15, 83, 10, 49, No, Yes, 5
-570, Guilherme, Nunes, 39, América-MG, Goalkepper, 7342, 67, 93, 87, 46, 63, 48, No, Yes, 10
-571, Vinicius, Vieira, 31, Fortaleza, Striker, 6389, 37, 60, 34, 22, 16, 54, Yes, Yes, 1
-572, Pietro, Souza, 16, Bragantino, Midfielder, 5901, 41, 20, 53, 66, 7, 60, No, No, 0
-573, Thiago, Santana, 16, Botafogo, Defender, 9132, 65, 85, 75, 86, 1, 81, No, Yes, 7
-574, Rafael, Machado, 20, América-MG, Midfielder, 5518, 50, 41, 27, 93, 25, 65, Yes, No, 0
-575, , Moreira, 22, Fluminense, Midfielder, 2202, 49, 13, 82, 43, 16, 94, No, No, 0
-576, Cauã, Marques, 23, Internacional, Defender, 9321, 65, 14, 84, 97, 85, 48, Yes, Yes, 9
-577, Gabriel, Costa, 23, São Paulo, Defender, 6431, 30, 28, 41, 36, 17, 31, No, No, 0
-578, Caio, Barbosa, 20, Fortaleza, Midfielder, 3707, 63, 46, 75, 57, 58, 79, No, No, 0
-579, Isaac, Nascimento, 24, Grêmio, Goalkepper, 1229, 42, 14, 35, 53, 35, 73, Yes, Yes, 3
-580, Gustavo, Dias, 17, Goiás, Striker, 6340, 44, 68, 73, 25, 39, 19, No, Yes, 6
-581, Lucca, Nunes, 20, América-MG, Defender, 6427, 27, 11, 23, 62, 30, 9, No, Yes, 6
-582, Vinicius, Carvalho, 17, Athletico-PR, Striker, 2234, 51, 32, 43, 67, 69, 48, No, No, 0
-583, Vinicius, Nascimento, 40, Fluminense, Goalkepper, 3564, 58, 30, 50, 37, 88, 85, Yes, No, 0
-584, Gabriel, Santos, 27, São Paulo, Defender, 3230, 68, 82, 42, 67, 70, 79, Yes, No, 0
-585, Caio, Santos, 39, Botafogo, Defender, 3766, 40, 78, 94, 6, 23, 1, No, No, 0
-586, Leonardo, Freitas, 16, Cuiabá, Goalkepper, 1132, 45, 25, 52, 63, 81, 5, Yes, Yes, 5
-587, Lucas, Vieira, 37, Fortaleza, Midfielder, 4393, 55, 45, 59, 82, 53, 37, Yes, No, 0
-588, Lorenzo, Ramos, 30, Bragantino, Defender, 4667, 43, 13, 69, 45, 41, 51, Yes, Yes, 8
-589, Caio, Gonçalves, 37, Fortaleza, Striker, 6058, 62, 56, 98, 54, 99, 6, No, No, 0
-590, Arthur, Ferreira, 20, Fluminense, Midfielder, 3855, 65, 15, 92, 84, 70, 64, No, Yes, 8
-591, Matheus, Teixeira, 32, Coritiba, Goalkepper, 2945, 47, 86, 22, 96, 33, 1, No, Yes, 6
-592, Caio, Costa, 20, Botafogo, Midfielder, 5521, 30, 10, 4, 81, 13, 46, No, Yes, 11
-593, Daniel, Rocha, 24, América-MG, Striker, 7404, 49, 50, 35, 48, 60, 52, No, No, 0
-594, Daniel, Costa, 21, Bragantino, Midfielder, 4909, 46, 34, 35, 70, 57, 34, No, No, 0
-595, Heitor, Soares, 23, Bahia, Midfielder, 3609, 46, 55, 8, 72, 77, 21, No, Yes, 5
-596, Gustavo, Gonçalves, 31, Flamengo, Striker, 8497, 55, 37, 76, 34, 41, 89, No, Yes, 4
-597, Nicolas, Carvalho, 20, Palmeiras, Striker, 1920, 59, 21, 91, 50, 63, 74, Yes, No, 0
-598, , Ribeiro, 39, América-MG, Sweeper, 5770, 60, 2, 90, 42, 83, 84, Yes, Yes, 3
-599, Davi, Martins, 33, Goiás, Striker, 1792, 50, 97, 24, 75, 10, 46, Yes, No, 0
-600, Lucca, Cardoso, 38, Vasco, Defender, 8294, 76, 98, 90, 55, 99, 40, No, No, 0
-601, Davi, Carvalho, 23, Cuiabá, Striker, 1582, 64, 19, 67, 52, 88, 94, No, No, 0
-602, Enzo, Barbosa, 20, América-MG, Goalkepper, 4723, 42, 71, 35, 3, 4, 97, Yes, No, 0
-603, Caio, Machado, 38, Internacional, Striker, 1143, 63, 80, 25, 96, 41, 73, Yes, Yes, 6
-604, Nicolas, Lima, 18, Fortaleza, Striker, 4525, 89, 94, 96, 95, 62, 98, Yes, Yes, 10
-605, Gustavo, Mendes, 22, São Paulo, Striker, 1801, 25, 4, 19, 26, 30, 48, No, Yes, 9
-606, João, Santana, 34, Flamengo, Sweeper, 1709, 51, 15, 34, 86, 68, 53, No, Yes, 7
-607, Felipe, Andrade, 24, Flamengo, Goalkepper, 9546, 27, 17, 28, 22, 60, 8, No, Yes, 2
-608, Arthur, Soares, 31, São Paulo, Striker, 3867, 79, 89, 37, 95, 97, 78, Yes, No, 0
-609, João Gabriel, Nascimento, 31, Cruzeiro, Defender, 8385, 37, 18, 8, 32, 72, 57, Yes, No, 0
-610, Davi, Santana, 31, Bahia, Goalkepper, 5695, 42, 42, 69, 50, 33, 19, Yes, No, 0
-611, Samuel, Santos, 20, Goiás, Goalkepper, 5696, 32, 8, 48, 16, 41, 50, Yes, Yes, 8
-612, Miguel, Costa, 19, Goiás, Midfielder, 4345, 54, 62, 74, 1, 38, 98, Yes, Yes, 9
-613, João Gabriel, Rocha, 20, Santos, Sweeper, 4748, 29, 29, 17, 31, 13, 58, Yes, No, 0
-614, Caio, Machado, 23, Fortaleza, Striker, 2703, 36, 20, 63, 55, 21, 24, Yes, No, 0
-615, Gabriel, Fernandes, 22, Grêmio, Goalkepper, 4046, 47, 5, 70, 48, 56, 58, Yes, No, 0
-616, Leonardo, Marques, 37, Bahia, Midfielder, 5828, 62, 65, 52, 97, 10, 87, Yes, Yes, 11
-617, Gabriel, Almeida, 25, Fortaleza, Sweeper, 4986, 61, 21, 58, 94, 44, 90, Yes, No, 0
-618, Samuel, Martins, 20, Fortaleza, Midfielder, 3821, 76, 56, 94, 90, 42, 99, Yes, Yes, 11
-619, Leonardo, Fernandes, 38, Corinthians, Sweeper, 4810, 76, 60, 74, 84, 99, 63, No, Yes, 7
-620, João Gabriel, Soares, 37, Corinthians, Striker, 7344, 37, 82, 54, 20, 28, 1, No, Yes, 6
-621, Arthur, Vieira, 22, São Paulo, Defender, 4695, 42, 17, 26, 32, 98, 40, No, Yes, 11
-622, , Teixeira, 29, Atlético-MG, Striker, 8127, 54, 58, 86, 45, 14, 71, No, Yes, 5
-623, Gabriel, Ramos, 20, Atlético-MG, Striker, 3287, 39, 10, 10, 21, 86, 69, Yes, Yes, 2
-624, , Fernandes, 24, Santos, Midfielder, 3314, 53, 42, 5, 76, 66, 76, Yes, No, 0
-625, Thiago, Fernandes, 23, Cuiabá, Sweeper, 1492, 49, 92, 63, 58, 23, 13, Yes, Yes, 6
-626, Davi, Dias, 16, Atlético-MG, Striker, 4241, 62, 99, 6, 70, 63, 75, No, No, 0
-627, Pietro, Lopes, 36, Bahia, Midfielder, 7426, 56, 64, 52, 93, 19, 52, No, Yes, 9
-628, Felipe, Rodrigues, 36, Fluminense, Striker, 7802, 57, 7, 89, 74, 64, 52, Yes, Yes, 3
-629, Lorenzo, Fernandes, 17, Goiás, Goalkepper, 1259, 59, 91, 69, 8, 79, 48, No, Yes, 12
-630, Bernardo, Barbosa, 28, Atlético-MG, Midfielder, 2309, 41, 84, 19, 8, 54, 42, No, Yes, 11
-631, Henrique, Vieira, 33, Athletico-PR, Defender, 5078, 60, 89, 35, 3, 93, 83, Yes, Yes, 5
-632, Samuel, Oliveira, 22, Cuiabá, Defender, 5323, 44, 68, 3, 94, 34, 21, No, No, 0
-633, Lucas, Nascimento, 34, Atlético-MG, Midfielder, 5391, 35, 52, 56, 23, 16, 30, No, Yes, 5
-634, Guilherme, Andrade, 24, Fluminense, Midfielder, 6873, 67, 97, 75, 34, 78, 54, Yes, No, 0
-635, João Vitor, Santos, 31, Cruzeiro, Midfielder, 4662, 49, 50, 31, 61, 68, 37, Yes, Yes, 5
-636, Vinicius, Freitas, 17, Fluminense, Defender, 3894, 44, 35, 62, 31, 91, 1, No, No, 0
-637, Isaac, Oliveira, 24, América-MG, Midfielder, 9489, 34, 30, 18, 20, 13, 93, No, No, 0
-638, Guilherme, Carvalho, 23, Fluminense, Goalkepper, 6026, 59, 68, 55, 58, 47, 67, Yes, No, 0
-639, Gabriel, Santana, 22, São Paulo, Defender, 3226, 33, 5, 63, 91, 5, 2, Yes, Yes, 9
-640, Henrique, Souza, 28, Cruzeiro, Goalkepper, 6034, 41, 38, 76, 2, 51, 38, No, Yes, 9
-641, Leonardo, Almeida, 36, América-MG, Striker, 3736, 38, 52, 29, 20, 3, 89, Yes, Yes, 1
-642, Gabriel, Almeida, 32, Vasco, Midfielder, 4313, 59, 11, 76, 89, 97, 24, Yes, Yes, 4
-643, Murilo, Dias, 34, Flamengo, Defender, 8793, 62, 79, 98, 56, 69, 11, Yes, No, 0
-644, Lucas, Nunes, 20, Fluminense, Midfielder, 1944, 63, 58, 55, 62, 79, 61, Yes, Yes, 12
-645, João Gabriel, Alves, 40, Coritiba, Sweeper, 5078, 56, 33, 94, 35, 96, 25, Yes, Yes, 1
-646, Lucas, Freitas, 16, Vasco, Defender, 1610, 48, 20, 89, 30, 5, 97, No, Yes, 3
-647, Guilherme, Oliveira, 23, Goiás, Goalkepper, 8939, 69, 75, 91, 85, 48, 47, Yes, No, 0
-648, Arthur, Gonçalves, 31, Palmeiras, Sweeper, 1573, 59, 85, 76, 44, 21, 72, No, Yes, 10
-649, Guilherme, Vieira, 38, Goiás, Midfielder, 6645, 34, 7, 74, 30, 20, 39, Yes, No, 0
-650, Cauã, Teixeira, 17, Fortaleza, Sweeper, 5782, 70, 88, 63, 78, 86, 38, No, No, 0
-651, Vinicius, Freitas, 18, Cuiabá, Sweeper, 2024, 56, 86, 61, 22, 82, 33, Yes, No, 0
-652, Henrique, Lopes, 35, Bahia, Goalkepper, 6260, 41, 33, 46, 74, 11, 43, Yes, Yes, 11
-653, Cauã, Oliveira, 33, Corinthians, Midfielder, 3699, 36, 25, 51, 14, 30, 63, No, Yes, 2
-654, Pietro, Marques, 17, Athletico-PR, Defender, 4738, 42, 56, 43, 34, 35, 44, No, Yes, 2
-655, Vitor, Lima, 17, Palmeiras, Goalkepper, 9469, 65, 82, 62, 2, 94, 85, Yes, Yes, 5
-656, João Gabriel, Freitas, 25, América-MG, Striker, 3850, 43, 85, 7, 88, 32, 3, Yes, Yes, 8
-657, João Pedro, Rocha, 40, Cruzeiro, Defender, 6240, 55, 83, 92, 56, 37, 10, No, Yes, 4
-658, Gabriel, Rocha, 33, Fortaleza, Sweeper, 3448, 50, 55, 45, 48, 94, 12, No, Yes, 7
-659, Rafael, Dias, 25, Fluminense, Sweeper, 8229, 53, 92, 29, 44, 22, 82, No, No, 0
-660, Lucca, Soares, 20, Atlético-MG, Striker, 1617, 40, 20, 48, 28, 81, 26, No, No, 0
-661, Caio, Dias, 32, Atlético-MG, Striker, 5809, 53, 38, 46, 68, 19, 94, Yes, Yes, 4
-662, Leonardo, Santos, 31, Goiás, Midfielder, 6101, 62, 17, 71, 72, 91, 61, No, Yes, 6
-663, Murilo, Pereira, 30, Cuiabá, Midfielder, 2312, 37, 17, 82, 28, 5, 53, No, No, 0
-664, Lucas, Nunes, 33, Cuiabá, Sweeper, 6702, 51, 41, 29, 53, 94, 38, No, No, 0
-665, João Gabriel, Martins, 16, Botafogo, Goalkepper, 6331, 39, 64, 9, 42, 40, 40, Yes, Yes, 4
-666, João Vitor, Rocha, 20, Santos, Goalkepper, 8829, 56, 85, 28, 49, 93, 27, No, No, 0
-667, Thiago, Pereira, 37, Grêmio, Midfielder, 5566, 34, 4, 97, 12, 11, 47, Yes, No, 0
-668, Matheus, Lima, 38, Athletico-PR, Striker, 4245, 54, 36, 50, 23, 63, 99, Yes, No, 0
-669, Heitor, Santos, 20, Corinthians, Striker, 5501, 60, 76, 35, 73, 97, 19, Yes, No, 0
-670, Heitor, Souza, 34, Corinthians, Defender, 1208, 28, 17, 80, 20, 17, 7, Yes, Yes, 5
-671, Cauã, Vieira, 38, Goiás, Defender, 9698, 48, 89, 52, 36, 52, 13, Yes, No, 0
-672, Felipe, Andrade, 23, São Paulo, Goalkepper, 3492, 36, 28, 54, 24, 16, 60, Yes, No, 0
-673, Leonardo, Barbosa, 19, Botafogo, Midfielder, 8212, 35, 64, 9, 44, 18, 44, No, No, 0
-674, Enzo, Silva, 27, Atlético-MG, Defender, 1938, 36, 19, 59, 92, 10, 3, No, No, 0
-675, Pedro, Lopes, 27, Flamengo, Defender, 7417, 54, 42, 72, 47, 89, 24, No, Yes, 12
-676, Nicolas, Lima, 25, Grêmio, Goalkepper, 7800, 54, 80, 39, 85, 5, 61, Yes, No, 0
-677, Nicolas, Alves, 38, Grêmio, Goalkepper, 1912, 63, 3, 91, 44, 95, 85, Yes, Yes, 8
-678, Leonardo, Moreira, 24, Corinthians, Sweeper, 2940, 43, 32, 62, 77, 41, 3, Yes, Yes, 5
-679, Murilo, Martins, 28, Fluminense, Defender, 7551, 59, 23, 25, 99, 77, 74, No, No, 0
-680, Thiago, Nascimento, 35, Atlético-MG, Striker, 3581, 25, 34, 16, 2, 36, 38, No, Yes, 12
-681, Murilo, Santos, 35, América-MG, Midfielder, 8582, 63, 66, 71, 34, 56, 89, No, No, 0
-682, Thiago, Costa, 21, Fortaleza, Defender, 2419, 36, 9, 50, 46, 43, 34, Yes, No, 0
-683, Murilo, Machado, 23, Grêmio, Midfielder, 8061, 36, 50, 7, 75, 12, 39, No, No, 0
-684, Guilherme, Vieira, 32, Cruzeiro, Striker, 5592, 51, 92, 62, 4, 26, 74, No, No, 0
-685, Bernardo, Alves, 33, Bahia, Goalkepper, 9342, 49, 95, 13, 34, 75, 28, No, No, 0
-686, Lucas, Ferreira, 31, América-MG, Midfielder, 4559, 44, 63, 79, 20, 21, 37, Yes, No, 0
-687, Lucas, Mendes, 32, Goiás, Midfielder, 9291, 20, 30, 25, 27, 7, 15, No, Yes, 10
-688, Pietro, Lopes, 30, Cruzeiro, Defender, 9642, 49, 19, 79, 43, 68, 40, Yes, Yes, 7
-689, Isaac, Vieira, 22, Internacional, Midfielder, 2863, 48, 34, 88, 49, 46, 23, Yes, Yes, 1
-690, João, Marques, 38, Cuiabá, Striker, 4451, 44, 2, 58, 52, 90, 22, No, Yes, 1
-691, Daniel, Silva, 25, Coritiba, Sweeper, 6596, 68, 90, 4, 89, 72, 88, No, Yes, 8
-692, Gabriel, Oliveira, 23, Bahia, Defender, 1394, 38, 76, 5, 55, 38, 19, Yes, Yes, 4
-693, , Rodrigues, 38, Bahia, Sweeper, 9742, 40, 49, 22, 14, 60, 56, Yes, No, 0
-694, Vitor, Teixeira, 35, Athletico-PR, Sweeper, 9640, 62, 85, 85, 80, 23, 37, Yes, Yes, 10
-695, Enzo, Ramos, 28, Cuiabá, Defender, 7977, 60, 24, 59, 34, 97, 87, Yes, No, 0
-696, Murilo, Mendes, 36, Santos, Goalkepper, 6584, 51, 19, 23, 72, 59, 82, Yes, No, 0
-697, João Vitor, Rodrigues, 17, Internacional, Goalkepper, 9184, 52, 74, 67, 1, 31, 88, No, No, 0
-698, João, Martins, 30, Goiás, Goalkepper, 4381, 36, 8, 58, 17, 66, 32, Yes, Yes, 3
-699, Murilo, Cardoso, 30, Goiás, Defender, 7886, 58, 58, 49, 76, 33, 77, Yes, Yes, 10
-700, Miguel, Ribeiro, 25, Flamengo, Striker, 4557, 37, 88, 74, 11, 3, 10, Yes, Yes, 1
-701, Pedro, Martins, 22, Cuiabá, Striker, 1391, 41, 97, 25, 29, 45, 13, No, No, 0
-702, Gabriel, Barbosa, 16, Grêmio, Striker, 4355, 58, 75, 40, 48, 43, 85, No, Yes, 11
-703, Eduardo, Silva, 37, Atlético-MG, Defender, 6969, 42, 29, 99, 38, 31, 16, No, No, 0
-704, Pedro, Costa, 28, Cuiabá, Sweeper, 1444, 64, 45, 27, 98, 63, 91, No, Yes, 12
-705, Leonardo, Oliveira, 29, Vasco, Sweeper, 3796, 40, 12, 81, 38, 44, 28, Yes, No, 0
-706, Caio, Moreira, 29, Goiás, Sweeper, 6638, 61, 30, 98, 87, 10, 82, Yes, Yes, 1
-707, Bernardo, Santos, 32, Corinthians, Sweeper, 8129, 57, 77, 82, 55, 53, 20, Yes, Yes, 5
-708, Samuel, Lopes, 22, Athletico-PR, Sweeper, 7677, 59, 56, 77, 53, 44, 69, No, No, 0
-709, Enzo, Machado, 21, Vasco, Defender, 5996, 63, 50, 65, 90, 81, 29, Yes, Yes, 2
-710, Matheus, Gonçalves, 38, São Paulo, Midfielder, 6679, 37, 8, 15, 70, 81, 15, No, Yes, 4
-711, Arthur, Marques, 32, Bragantino, Midfielder, 5444, 49, 52, 34, 54, 98, 9, No, Yes, 4
-712, Lucas, Martins, 39, Cuiabá, Goalkepper, 3079, 52, 2, 4, 85, 72, 97, Yes, Yes, 11
-713, Vitor, Rocha, 31, Corinthians, Sweeper, 6562, 41, 70, 51, 25, 34, 29, No, No, 0
-714, Miguel, Rodrigues, 26, Fortaleza, Defender, 4277, 33, 20, 55, 14, 25, 52, No, Yes, 12
-715, Daniel, Nunes, 20, Athletico-PR, Sweeper, 9780, 29, 6, 14, 58, 1, 69, Yes, Yes, 6
-716, Miguel, Nunes, 20, São Paulo, Sweeper, 3524, 44, 23, 35, 48, 69, 49, No, Yes, 11
-717, Rafael, Soares, 27, Internacional, Midfielder, 4962, 63, 73, 84, 20, 45, 97, No, Yes, 9
-718, Lucca, Ramos, 19, Fortaleza, Defender, 2773, 29, 55, 74, 6, 8, 3, No, Yes, 11
-719, Bernardo, Vieira, 36, Bragantino, Goalkepper, 7274, 54, 23, 96, 56, 48, 51, No, No, 0
-720, Davi, Cardoso, 21, São Paulo, Midfielder, 1266, 33, 53, 17, 3, 65, 30, No, Yes, 3
-721, João Pedro, Mendes, 40, Goiás, Goalkepper, 3451, 28, 43, 56, 33, 4, 4, Yes, Yes, 2
-722, João Pedro, Nascimento, 27, Bragantino, Midfielder, 5205, 50, 62, 94, 51, 9, 34, No, Yes, 8
-723, João Pedro, Freitas, 31, América-MG, Midfielder, 2178, 51, 40, 73, 19, 95, 29, Yes, No, 0
-724, Samuel, Cardoso, 37, Corinthians, Midfielder, 8000, 50, 41, 51, 43, 78, 37, No, No, 0
-725, Daniel, Teixeira, 28, Fortaleza, Goalkepper, 7982, 46, 12, 26, 86, 29, 78, No, No, 0
-726, Vinicius, Soares, 33, Fluminense, Midfielder, 2730, 53, 95, 48, 27, 22, 74, No, Yes, 6
-727, Gabriel, Ramos, 28, Bahia, Midfielder, 8240, 64, 31, 90, 90, 62, 51, No, No, 0
-728, Gustavo, Souza, 31, Bragantino, Goalkepper, 6536, 55, 45, 77, 74, 37, 46, No, No, 0
-729, Davi, Rocha, 32, Coritiba, Sweeper, 6211, 61, 98, 5, 22, 88, 92, No, No, 0
-730, Cauã, Teixeira, 20, Fluminense, Midfielder, 1338, 30, 39, 51, 17, 38, 9, Yes, No, 0
-731, , Rodrigues, 40, Atlético-MG, Goalkepper, 1555, 35, 74, 24, 38, 36, 3, No, No, 0
-732, Bernardo, Santos, 38, Botafogo, Midfielder, 1541, 47, 55, 89, 10, 15, 68, No, Yes, 12
-733, Nicolas, Rodrigues, 17, Palmeiras, Defender, 6361, 58, 18, 57, 86, 35, 94, No, Yes, 9
-734, Lorenzo, Fernandes, 28, Corinthians, Defender, 7016, 52, 6, 46, 38, 90, 81, No, No, 0
-735, João Gabriel, Soares, 37, Bahia, Midfielder, 2395, 50, 45, 70, 84, 25, 30, Yes, Yes, 3
-736, Isaac, Lopes, 30, América-MG, Goalkepper, 4645, 56, 2, 50, 96, 76, 59, Yes, No, 0
-737, Isaac, Vieira, 40, Bahia, Sweeper, 1487, 38, 19, 55, 81, 4, 32, No, No, 0
-738, Leonardo, Andrade, 30, América-MG, Defender, 3968, 56, 29, 12, 86, 88, 65, Yes, Yes, 4
-739, Daniel, Alves, 21, Goiás, Sweeper, 9648, 65, 96, 78, 16, 80, 59, No, No, 0
-740, Davi, Gonçalves, 19, Internacional, Defender, 9584, 53, 79, 98, 23, 17, 52, Yes, No, 0
-741, Gustavo, Lopes, 33, Corinthians, Goalkepper, 4211, 47, 12, 38, 85, 46, 56, Yes, Yes, 9
-742, Bernardo, Rodrigues, 34, Coritiba, Defender, 4550, 47, 50, 33, 43, 32, 79, No, Yes, 12
-743, Vitor, Lima, 28, Coritiba, Midfielder, 1356, 43, 32, 33, 88, 18, 47, Yes, Yes, 3
-744, Enzo, Santana, 20, Palmeiras, Striker, 5490, 66, 81, 63, 98, 66, 25, No, No, 0
-745, Thiago, Soares, 39, Cruzeiro, Striker, 5948, 47, 74, 72, 24, 26, 43, No, Yes, 3
-746, Arthur, Mendes, 32, Athletico-PR, Goalkepper, 8888, 38, 1, 78, 10, 84, 21, No, Yes, 12
-747, Bernardo, Ribeiro, 32, São Paulo, Goalkepper, 7070, 51, 50, 95, 13, 82, 15, Yes, Yes, 10
-748, Davi, Freitas, 24, Corinthians, Defender, 3988, 41, 19, 32, 85, 67, 3, Yes, Yes, 12
-749, Henrique, Mendes, 39, Internacional, Midfielder, 1144, 48, 32, 73, 40, 97, 2, No, No, 0
-750, Murilo, Fernandes, 33, Atlético-MG, Midfielder, 8891, 55, 43, 42, 59, 46, 87, No, Yes, 6
-751, , Carvalho, 20, Flamengo, Midfielder, 6951, 37, 30, 92, 5, 28, 30, No, Yes, 6
-752, Daniel, Fernandes, 21, Athletico-PR, Midfielder, 9197, 40, 80, 32, 7, 71, 10, No, Yes, 4
-753, Felipe, Santos, 21, Fortaleza, Defender, 8408, 55, 51, 71, 47, 9, 97, Yes, Yes, 9
-754, João Vitor, Ribeiro, 38, Grêmio, Goalkepper, 7233, 41, 20, 21, 79, 26, 60, Yes, No, 0
-755, João Gabriel, Machado, 18, São Paulo, Sweeper, 9900, 35, 90, 10, 21, 6, 52, Yes, Yes, 3
-756, Bernardo, Ferreira, 30, Bragantino, Midfielder, 4519, 63, 60, 26, 57, 81, 93, Yes, Yes, 7
-757, Eduardo, Machado, 19, Flamengo, Defender, 7742, 75, 55, 67, 91, 74, 88, No, No, 0
-758, Vinicius, Andrade, 23, Palmeiras, Sweeper, 9974, 71, 65, 47, 73, 88, 84, No, No, 0
-759, Heitor, Cardoso, 38, São Paulo, Striker, 4371, 32, 42, 3, 10, 41, 65, Yes, Yes, 10
-760, , Fernandes, 16, Fluminense, Midfielder, 3451, 52, 57, 27, 52, 75, 53, Yes, Yes, 8
-761, Isaac, Martins, 17, Cruzeiro, Striker, 3183, 63, 3, 76, 67, 78, 95, No, No, 0
-762, Cauã, Oliveira, 33, Botafogo, Sweeper, 2162, 56, 66, 58, 26, 64, 68, Yes, Yes, 9
-763, Rafael, Nascimento, 38, Internacional, Goalkepper, 5320, 52, 52, 56, 8, 77, 68, Yes, No, 0
-764, , Dias, 32, Bragantino, Striker, 3035, 29, 5, 39, 14, 20, 68, No, Yes, 1
-765, João Vitor, Dias, 33, Grêmio, Midfielder, 3741, 62, 96, 13, 77, 76, 51, Yes, No, 0
-766, Felipe, Freitas, 18, Internacional, Midfielder, 7255, 59, 86, 98, 14, 61, 36, Yes, No, 0
-767, Bernardo, Oliveira, 36, Corinthians, Striker, 2723, 55, 69, 17, 34, 65, 93, Yes, No, 0
-768, Vinicius, Gonçalves, 36, São Paulo, Defender, 7675, 35, 62, 2, 68, 9, 38, No, No, 0
-769, Murilo, Nunes, 32, Grêmio, Midfielder, 8062, 42, 2, 87, 18, 41, 62, No, Yes, 5
-770, Caio, Dias, 17, Goiás, Midfielder, 9925, 61, 90, 78, 90, 32, 19, Yes, No, 0
-771, Heitor, Nunes, 28, Bahia, Sweeper, 6043, 52, 27, 52, 98, 34, 49, No, Yes, 10
-772, Nicolas, Ramos, 24, Flamengo, Defender, 3788, 69, 86, 24, 54, 90, 94, Yes, No, 0
-773, Pietro, Barbosa, 33, Athletico-PR, Sweeper, 4050, 35, 50, 59, 30, 15, 21, Yes, No, 0
-774, Guilherme, Marques, 17, Botafogo, Striker, 4867, 81, 91, 74, 86, 84, 72, Yes, No, 0
-775, Isaac, Santos, 25, Vasco, Goalkepper, 2196, 48, 93, 25, 78, 19, 27, No, Yes, 2
-776, Samuel, Lima, 19, Atlético-MG, Midfielder, 8014, 39, 69, 8, 46, 18, 54, No, No, 0
-777, Murilo, Silva, 27, Bahia, Goalkepper, 1933, 44, 28, 48, 18, 77, 52, No, Yes, 2
-778, Henrique, Santana, 36, São Paulo, Sweeper, 5652, 52, 90, 87, 82, 3, 2, No, No, 0
-779, Cauã, Vieira, 18, Fluminense, Sweeper, 5128, 36, 6, 22, 72, 57, 27, No, Yes, 4
-780, Bernardo, Freitas, 26, Goiás, Sweeper, 1549, 58, 20, 87, 76, 29, 80, Yes, Yes, 10
-781, Davi, Machado, 33, Atlético-MG, Midfielder, 6192, 70, 59, 39, 95, 81, 76, No, Yes, 7
-782, Vinicius, Carvalho, 19, Bragantino, Sweeper, 3246, 48, 21, 45, 30, 60, 88, No, No, 0
-783, , Andrade, 19, América-MG, Goalkepper, 1189, 37, 7, 93, 36, 23, 30, No, Yes, 6
-784, Caio, Carvalho, 30, Fluminense, Goalkepper, 3653, 58, 81, 76, 61, 53, 20, No, No, 0
-785, Lucas, Machado, 34, Vasco, Defender, 6943, 65, 56, 83, 84, 49, 55, Yes, Yes, 2
-786, Vitor, Lima, 23, Bahia, Sweeper, 2472, 39, 30, 76, 20, 48, 22, No, Yes, 7
-787, Lorenzo, Mendes, 21, Coritiba, Goalkepper, 7277, 54, 82, 22, 52, 31, 86, Yes, Yes, 1
-788, Cauã, Lopes, 22, Coritiba, Sweeper, 8649, 63, 45, 61, 76, 50, 87, Yes, No, 0
-789, João, Costa, 27, São Paulo, Goalkepper, 7796, 29, 7, 75, 2, 21, 44, Yes, No, 0
-790, Samuel, Martins, 26, Goiás, Goalkepper, 3809, 54, 41, 20, 92, 35, 83, Yes, Yes, 4
-791, , Souza, 35, Atlético-MG, Sweeper, 2831, 50, 25, 51, 82, 92, 4, Yes, Yes, 9
-792, Thiago, Lopes, 25, Bragantino, Defender, 8903, 70, 70, 96, 64, 49, 75, No, No, 0
-793, Isaac, Ferreira, 38, Palmeiras, Sweeper, 1634, 58, 29, 43, 88, 41, 92, No, No, 0
-794, , Ramos, 18, Atlético-MG, Goalkepper, 6473, 50, 73, 15, 72, 65, 29, No, Yes, 4
-795, Nicolas, Mendes, 17, Santos, Defender, 6856, 49, 12, 81, 68, 67, 17, No, Yes, 10
-796, Lorenzo, Soares, 31, Palmeiras, Goalkepper, 8199, 36, 39, 74, 28, 8, 35, Yes, No, 0
-797, Daniel, Santana, 40, Palmeiras, Defender, 4954, 44, 66, 72, 67, 13, 3, Yes, No, 0
-798, Rafael, Mendes, 36, Bragantino, Defender, 9529, 55, 44, 51, 96, 59, 28, Yes, Yes, 1
-799, Lorenzo, Moreira, 26, Coritiba, Defender, 6608, 40, 54, 6, 6, 50, 87, Yes, Yes, 4
-800, Heitor, Martins, 23, Corinthians, Sweeper, 3683, 20, 50, 27, 3, 5, 18, No, No, 0
-801, Vitor, Santana, 34, Botafogo, Midfielder, 8411, 38, 43, 77, 31, 34, 8, No, Yes, 12
-802, Heitor, Gonçalves, 16, Palmeiras, Sweeper, 3182, 60, 26, 41, 55, 94, 84, Yes, No, 0
-803, Vitor, Soares, 37, Botafogo, Striker, 5033, 55, 48, 72, 31, 94, 32, No, Yes, 4
-804, Miguel, Souza, 28, Athletico-PR, Defender, 3117, 32, 61, 54, 35, 10, 3, Yes, Yes, 3
-805, Daniel, Moreira, 40, Palmeiras, Defender, 2297, 47, 45, 47, 88, 49, 6, Yes, Yes, 7
-806, Lorenzo, Souza, 30, Cruzeiro, Defender, 2702, 42, 21, 88, 18, 12, 74, Yes, No, 0
-807, Cauã, Ribeiro, 29, Athletico-PR, Striker, 9142, 61, 87, 63, 35, 78, 42, Yes, Yes, 1
-808, Isaac, Lima, 24, Athletico-PR, Midfielder, 3659, 63, 77, 92, 68, 47, 32, Yes, Yes, 5
-809, Lorenzo, Pereira, 32, Corinthians, Midfielder, 2226, 45, 2, 64, 47, 49, 67, Yes, No, 0
-810, Heitor, Teixeira, 24, Grêmio, Striker, 3454, 46, 76, 29, 37, 63, 28, Yes, Yes, 1
-811, Vitor, Ramos, 19, Atlético-MG, Goalkepper, 4641, 41, 43, 23, 17, 97, 25, No, Yes, 6
-812, Gabriel, Santana, 33, Athletico-PR, Midfielder, 6141, 56, 26, 76, 52, 83, 46, No, Yes, 4
-813, Pietro, Andrade, 27, Santos, Goalkepper, 4680, 48, 70, 26, 44, 97, 4, Yes, No, 0
-814, Samuel, Cardoso, 26, Fluminense, Sweeper, 7175, 59, 72, 82, 3, 46, 95, Yes, Yes, 6
-815, Vitor, Pereira, 30, Flamengo, Midfielder, 9498, 34, 62, 27, 33, 28, 22, No, No, 0
-816, Gabriel, Teixeira, 24, Athletico-PR, Goalkepper, 1992, 31, 25, 68, 43, 5, 16, Yes, No, 0
-817, Isaac, Martins, 33, Fortaleza, Defender, 1648, 64, 23, 81, 94, 75, 47, Yes, No, 0
-818, Heitor, Costa, 28, Palmeiras, Striker, 1068, 39, 33, 70, 10, 39, 45, No, No, 0
-819, Isaac, Martins, 30, Corinthians, Goalkepper, 3703, 52, 1, 33, 93, 93, 44, Yes, Yes, 3
-820, Samuel, Gonçalves, 28, Cruzeiro, Striker, 4077, 70, 56, 99, 19, 91, 87, No, No, 0
-821, Guilherme, Martins, 32, Internacional, Midfielder, 8379, 36, 53, 30, 17, 13, 69, Yes, Yes, 7
-822, Matheus, Martins, 40, Grêmio, Midfielder, 4356, 62, 97, 41, 43, 84, 49, No, Yes, 11
-823, Lorenzo, Freitas, 30, Palmeiras, Midfielder, 6126, 43, 86, 58, 34, 19, 19, Yes, No, 0
-824, Caio, Oliveira, 35, Flamengo, Goalkepper, 5362, 72, 97, 80, 59, 86, 38, Yes, No, 0
-825, Nicolas, Soares, 21, Cuiabá, Midfielder, 8758, 24, 1, 47, 34, 31, 9, Yes, Yes, 7
-826, Lucca, Lopes, 35, Palmeiras, Defender, 7192, 50, 12, 76, 91, 32, 39, Yes, Yes, 7
-827, João Gabriel, Almeida, 21, Atlético-MG, Sweeper, 4470, 44, 20, 62, 30, 34, 75, Yes, No, 0
-828, João Gabriel, Cardoso, 16, Bahia, Striker, 2540, 69, 89, 73, 48, 50, 86, No, No, 0
-829, Pedro, Lima, 30, Bahia, Goalkepper, 9197, 43, 55, 42, 29, 35, 57, Yes, Yes, 3
-830, João, Santana, 31, Cruzeiro, Midfielder, 9563, 44, 44, 64, 39, 25, 52, No, Yes, 6
-831, Rafael, Ramos, 31, Santos, Goalkepper, 5684, 50, 22, 64, 43, 78, 44, Yes, No, 0
-832, Enzo, Santana, 33, São Paulo, Goalkepper, 9767, 62, 40, 44, 55, 90, 85, No, Yes, 4
-833, João Vitor, Silva, 30, Corinthians, Goalkepper, 3783, 52, 35, 69, 68, 64, 24, Yes, Yes, 6
-834, Enzo, Andrade, 17, Botafogo, Goalkepper, 1755, 61, 63, 72, 99, 11, 61, No, Yes, 4
-835, Pietro, Lopes, 27, Grêmio, Defender, 9989, 54, 44, 84, 22, 30, 91, Yes, No, 0
-836, Guilherme, Souza, 30, Bahia, Midfielder, 6469, 58, 31, 89, 57, 52, 62, Yes, No, 0
-837, Vitor, Barbosa, 28, Bragantino, Striker, 7680, 45, 64, 2, 88, 14, 58, No, No, 0
-838, Cauã, Mendes, 19, Atlético-MG, Defender, 5114, 62, 55, 48, 63, 77, 70, No, Yes, 6
-839, Heitor, Vieira, 29, Botafogo, Defender, 3465, 59, 74, 42, 65, 66, 50, No, No, 0
-840, Arthur, Rocha, 35, Botafogo, Defender, 8488, 56, 93, 62, 12, 64, 51, Yes, No, 0
-841, Lorenzo, Rodrigues, 36, Fortaleza, Striker, 1326, 55, 41, 95, 17, 89, 35, Yes, No, 0
-842, Davi, Mendes, 16, Fluminense, Defender, 6280, 56, 14, 97, 64, 79, 26, No, No, 0
-843, Henrique, Barbosa, 18, América-MG, Midfielder, 9120, 66, 68, 41, 88, 66, 71, No, No, 0
-844, Lucca, Ramos, 29, Goiás, Striker, 3885, 55, 59, 80, 45, 21, 74, No, No, 0
-845, Vitor, Nunes, 23, Cruzeiro, Sweeper, 1087, 16, 43, 2, 9, 8, 18, Yes, Yes, 8
-846, João Gabriel, Martins, 16, Internacional, Midfielder, 1690, 74, 43, 98, 90, 62, 78, No, Yes, 12
-847, Lucca, Machado, 25, América-MG, Goalkepper, 6195, 54, 33, 34, 97, 40, 68, No, Yes, 3
-848, Guilherme, Alves, 20, Coritiba, Defender, 8099, 46, 11, 67, 68, 3, 84, No, Yes, 5
-849, Lucas, Lopes, 23, Coritiba, Sweeper, 3182, 49, 56, 13, 28, 87, 62, No, Yes, 7
-850, Isaac, Soares, 33, Bragantino, Sweeper, 4977, 58, 17, 95, 93, 33, 53, No, Yes, 3
-851, Samuel, Teixeira, 39, Flamengo, Striker, 4678, 55, 38, 63, 91, 48, 39, No, No, 0
-852, Thiago, Machado, 29, Cruzeiro, Striker, 5858, 62, 89, 60, 53, 15, 95, No, No, 0
-853, Thiago, Teixeira, 25, Palmeiras, Sweeper, 7021, 47, 29, 46, 56, 87, 18, No, Yes, 2
-854, Matheus, Nunes, 30, Internacional, Sweeper, 2194, 58, 66, 64, 74, 29, 58, No, No, 0
-855, Lorenzo, Souza, 24, Grêmio, Sweeper, 7583, 62, 79, 63, 73, 54, 43, No, No, 0
-856, Rafael, Ferreira, 36, Atlético-MG, Goalkepper, 4937, 44, 38, 67, 48, 9, 59, Yes, No, 0
-857, João Vitor, Andrade, 28, Corinthians, Goalkepper, 2961, 31, 82, 54, 4, 14, 3, Yes, No, 0
-858, Murilo, Rodrigues, 40, São Paulo, Goalkepper, 9266, 39, 32, 23, 45, 15, 81, No, Yes, 9
-859, Gabriel, Fernandes, 31, Goiás, Striker, 2537, 31, 15, 83, 16, 19, 22, No, No, 0
-860, Henrique, Alves, 34, Goiás, Goalkepper, 9709, 63, 51, 48, 94, 42, 80, Yes, Yes, 1
-861, Enzo, Gomes, 19, Fortaleza, Defender, 6175, 52, 45, 56, 66, 24, 69, No, Yes, 3
-862, Thiago, Mendes, 35, Fluminense, Sweeper, 4413, 44, 13, 97, 4, 45, 61, Yes, Yes, 10
-863, Guilherme, Alves, 35, Santos, Defender, 6217, 41, 18, 64, 80, 5, 39, Yes, No, 0
-864, Henrique, Alves, 27, Athletico-PR, Striker, 9085, 42, 40, 69, 43, 58, 2, Yes, No, 0
-865, Caio, Nunes, 29, Internacional, Midfielder, 8039, 57, 20, 91, 8, 81, 89, Yes, Yes, 3
-866, Murilo, Ribeiro, 26, Goiás, Striker, 6700, 52, 72, 25, 59, 91, 16, Yes, No, 0
-867, Heitor, Vieira, 25, Fortaleza, Midfielder, 1018, 42, 27, 45, 41, 6, 94, Yes, Yes, 8
-868, Pedro, Oliveira, 21, Bragantino, Midfielder, 1831, 41, 65, 7, 71, 22, 44, Yes, Yes, 7
-869, João Vitor, Almeida, 36, Bragantino, Defender, 4879, 67, 96, 8, 90, 84, 61, Yes, No, 0
-870, João Gabriel, Nascimento, 20, Goiás, Goalkepper, 2249, 37, 4, 38, 86, 34, 26, Yes, No, 0
-871, João Vitor, Oliveira, 39, Coritiba, Midfielder, 3300, 79, 97, 76, 46, 94, 84, No, Yes, 3
-872, Vinicius, Ribeiro, 39, Bahia, Defender, 1162, 42, 24, 49, 66, 34, 37, No, Yes, 11
-873, Leonardo, Nascimento, 19, Cruzeiro, Striker, 9168, 58, 69, 69, 1, 65, 87, No, No, 0
-874, Heitor, Rodrigues, 32, São Paulo, Goalkepper, 5820, 62, 48, 64, 84, 58, 58, Yes, Yes, 2
-875, Enzo, Teixeira, 35, Coritiba, Goalkepper, 3194, 47, 20, 38, 38, 66, 74, Yes, Yes, 12
-876, Murilo, Pereira, 28, Internacional, Defender, 3221, 56, 99, 33, 61, 8, 83, No, Yes, 3
-877, João Vitor, Ribeiro, 23, Santos, Sweeper, 4563, 37, 74, 23, 10, 42, 40, No, Yes, 8
-878, Matheus, Andrade, 28, Atlético-MG, Midfielder, 8994, 46, 70, 33, 79, 42, 8, No, Yes, 2
-879, Enzo, Dias, 24, Botafogo, Striker, 9420, 48, 92, 96, 3, 36, 13, Yes, Yes, 12
-880, Heitor, Freitas, 37, Santos, Sweeper, 8482, 53, 84, 62, 71, 18, 32, Yes, No, 0
-881, João Pedro, Nascimento, 33, Corinthians, Defender, 2018, 35, 97, 11, 4, 64, 2, No, No, 0
-882, Murilo, Gonçalves, 40, Grêmio, Defender, 9782, 50, 86, 42, 3, 74, 48, No, No, 0
-883, Guilherme, Teixeira, 26, Cruzeiro, Goalkepper, 7449, 47, 54, 71, 16, 2, 95, No, Yes, 10
-884, Davi, Martins, 26, Corinthians, Sweeper, 7576, 37, 26, 18, 69, 3, 70, No, Yes, 12
-885, Vitor, Costa, 27, São Paulo, Defender, 6883, 41, 8, 1, 69, 41, 86, Yes, No, 0
-886, Gustavo, Lima, 17, Palmeiras, Goalkepper, 4425, 66, 80, 77, 57, 83, 36, Yes, No, 0
-887, Nicolas, Pereira, 37, Fortaleza, Defender, 7919, 57, 59, 66, 84, 64, 13, Yes, Yes, 4
-888, Bernardo, Teixeira, 40, Bragantino, Defender, 3519, 59, 23, 69, 54, 61, 89, No, No, 0
-889, Caio, Souza, 36, Vasco, Sweeper, 5603, 52, 62, 5, 54, 57, 86, Yes, Yes, 7
-890, Guilherme, Fernandes, 26, Corinthians, Striker, 8438, 60, 30, 60, 16, 95, 99, No, Yes, 4
-891, Caio, Martins, 38, Palmeiras, Goalkepper, 6755, 52, 75, 56, 17, 58, 54, No, Yes, 10
-892, Gabriel, Nascimento, 22, Flamengo, Defender, 9877, 53, 68, 4, 41, 60, 93, No, Yes, 6
-893, Vitor, Soares, 37, Atlético-MG, Midfielder, 8196, 71, 33, 62, 98, 87, 78, Yes, Yes, 7
-894, Gabriel, Lopes, 32, América-MG, Striker, 3919, 51, 94, 20, 16, 40, 89, No, No, 0
-895, Rafael, Nunes, 32, Botafogo, Goalkepper, 9206, 52, 52, 6, 97, 69, 38, Yes, Yes, 11
-896, Vitor, Santos, 30, Bahia, Sweeper, 3632, 60, 62, 85, 23, 98, 33, Yes, Yes, 1
-897, Lorenzo, Soares, 35, Coritiba, Striker, 8528, 55, 28, 96, 7, 76, 71, No, No, 0
-898, João Gabriel, Silva, 38, Goiás, Midfielder, 8380, 54, 90, 38, 47, 76, 19, No, No, 0
-899, Lorenzo, Rocha, 20, Fluminense, Defender, 4187, 47, 8, 7, 95, 85, 42, Yes, No, 0
-900, Heitor, Lopes, 36, Internacional, Striker, 8340, 50, 3, 87, 74, 69, 18, Yes, Yes, 8
-901, Davi, Pereira, 16, Corinthians, Defender, 2143, 37, 75, 6, 34, 44, 27, Yes, Yes, 6
-902, Vitor, Moreira, 19, Flamengo, Striker, 8295, 48, 59, 57, 31, 28, 66, No, Yes, 12
-903, Heitor, Oliveira, 21, Palmeiras, Sweeper, 4494, 47, 12, 33, 89, 39, 65, No, No, 0
-904, Gustavo, Soares, 25, Coritiba, Sweeper, 6039, 67, 99, 66, 53, 51, 70, No, Yes, 5
-905, Bernardo, Martins, 26, Atlético-MG, Striker, 7531, 40, 10, 25, 54, 88, 24, No, Yes, 8
-906, , Freitas, 31, Santos, Sweeper, 4846, 72, 38, 97, 87, 54, 87, Yes, No, 0
-907, Henrique, Ferreira, 19, Santos, Midfielder, 4591, 67, 95, 76, 14, 89, 65, Yes, Yes, 6
-908, João Vitor, Andrade, 39, Corinthians, Defender, 2463, 61, 82, 96, 31, 46, 53, Yes, Yes, 4
-909, Eduardo, Nascimento, 27, Bahia, Defender, 3878, 69, 45, 71, 75, 74, 81, No, No, 0
-910, Vinicius, Ribeiro, 37, Bragantino, Midfielder, 6697, 41, 63, 57, 7, 21, 60, Yes, No, 0
-911, Matheus, Machado, 27, Botafogo, Goalkepper, 6562, 66, 61, 90, 55, 42, 82, Yes, Yes, 1
-912, Gustavo, Fernandes, 31, Botafogo, Striker, 9261, 42, 68, 62, 48, 25, 11, No, Yes, 10
-913, Vinicius, Silva, 23, Palmeiras, Sweeper, 1586, 58, 81, 58, 29, 41, 83, Yes, No, 0
-914, Gabriel, Soares, 32, Grêmio, Defender, 8702, 26, 28, 2, 67, 36, 1, Yes, No, 0
-915, Caio, Rodrigues, 20, Grêmio, Goalkepper, 4744, 42, 71, 23, 66, 24, 27, Yes, No, 0
-916, Felipe, Rocha, 18, América-MG, Sweeper, 4758, 72, 28, 81, 84, 89, 82, Yes, Yes, 11
-917, Cauã, Barbosa, 29, Palmeiras, Goalkepper, 3128, 62, 83, 86, 17, 69, 57, No, No, 0
-918, Arthur, Teixeira, 32, Athletico-PR, Sweeper, 4270, 36, 47, 44, 65, 20, 8, Yes, Yes, 2
-919, João, Teixeira, 33, Fluminense, Midfielder, 9140, 51, 72, 61, 25, 49, 52, No, No, 0
-920, Davi, Ferreira, 27, Coritiba, Goalkepper, 9022, 52, 84, 20, 13, 80, 63, No, No, 0
-921, João Gabriel, Rodrigues, 29, Grêmio, Defender, 7879, 64, 75, 33, 78, 62, 73, No, Yes, 1
-922, Arthur, Santos, 26, Palmeiras, Sweeper, 6762, 77, 89, 77, 63, 81, 78, Yes, Yes, 3
-923, , Lima, 36, América-MG, Defender, 4584, 68, 77, 53, 84, 43, 86, Yes, Yes, 2
-924, João Pedro, Nunes, 32, Coritiba, Sweeper, 6373, 40, 75, 75, 41, 7, 5, Yes, Yes, 8
-925, Miguel, Andrade, 31, Corinthians, Midfielder, 8960, 52, 10, 78, 33, 84, 57, No, Yes, 12
-926, Lucas, Barbosa, 26, Goiás, Sweeper, 5257, 57, 93, 33, 34, 76, 49, No, Yes, 1
-927, Eduardo, Machado, 37, Fortaleza, Goalkepper, 3871, 64, 75, 72, 40, 34, 99, No, Yes, 11
-928, Eduardo, Lima, 16, Palmeiras, Sweeper, 5005, 55, 23, 79, 68, 91, 15, Yes, Yes, 5
-929, Davi, Barbosa, 19, Internacional, Striker, 3074, 54, 27, 14, 97, 68, 68, Yes, Yes, 10
-930, Miguel, Freitas, 40, Atlético-MG, Sweeper, 2820, 57, 80, 13, 73, 58, 63, Yes, No, 0
-931, Davi, Souza, 39, Corinthians, Striker, 1002, 68, 80, 99, 65, 90, 8, Yes, No, 0
-932, Isaac, Pereira, 34, Fortaleza, Midfielder, 8122, 48, 76, 84, 31, 16, 33, Yes, Yes, 2
-933, Pedro, Silva, 17, Grêmio, Defender, 3363, 43, 80, 43, 17, 5, 73, No, Yes, 11
-934, João Gabriel, Marques, 40, América-MG, Midfielder, 3251, 51, 72, 84, 14, 35, 50, No, No, 0
-935, Gustavo, Dias, 28, Santos, Defender, 2746, 68, 95, 76, 72, 32, 67, No, No, 0
-936, Pedro, Oliveira, 25, Atlético-MG, Midfielder, 1431, 55, 67, 33, 90, 64, 22, Yes, No, 0
-937, Cauã, Vieira, 24, Santos, Sweeper, 6755, 41, 97, 4, 22, 75, 9, Yes, Yes, 11
-938, Murilo, Barbosa, 25, Cuiabá, Defender, 3316, 62, 53, 98, 72, 56, 34, Yes, Yes, 8
-939, Leonardo, Pereira, 38, Fortaleza, Sweeper, 9973, 39, 55, 8, 10, 46, 79, Yes, Yes, 5
-940, Pietro, Ramos, 28, Internacional, Striker, 5757, 40, 13, 12, 79, 39, 58, Yes, No, 0
-941, Rafael, Marques, 26, Botafogo, Sweeper, 8646, 50, 31, 41, 71, 84, 26, Yes, No, 0
-942, Vitor, Dias, 23, América-MG, Sweeper, 4957, 72, 91, 87, 80, 38, 65, Yes, Yes, 5
-943, Guilherme, Santana, 26, Fluminense, Goalkepper, 3246, 54, 71, 65, 74, 28, 32, Yes, No, 0
-944, Murilo, Ribeiro, 24, Cuiabá, Striker, 8058, 56, 89, 39, 60, 53, 42, No, Yes, 12
-945, Felipe, Mendes, 20, Santos, Defender, 8658, 29, 6, 45, 26, 65, 3, Yes, No, 0
-946, Nicolas, Marques, 31, Bahia, Goalkepper, 2839, 37, 41, 31, 51, 7, 59, Yes, Yes, 2
-947, Pedro, Almeida, 18, Goiás, Sweeper, 4535, 42, 67, 40, 52, 40, 12, No, Yes, 1
-948, Vinicius, Teixeira, 25, Santos, Midfielder, 1715, 25, 12, 59, 4, 37, 14, No, Yes, 10
-949, Lucca, Mendes, 30, Palmeiras, Striker, 5848, 41, 96, 34, 28, 30, 21, No, No, 0
-950, Pietro, Santana, 40, Corinthians, Goalkepper, 1189, 54, 81, 27, 17, 88, 60, Yes, Yes, 1
-951, Lorenzo, Moreira, 21, Fortaleza, Sweeper, 3460, 57, 69, 44, 53, 92, 30, Yes, No, 0
-952, Bernardo, Souza, 31, Corinthians, Midfielder, 2222, 39, 64, 3, 87, 38, 4, No, No, 0
-953, Vitor, Nascimento, 31, Flamengo, Striker, 5833, 51, 7, 55, 98, 67, 31, No, No, 0
-954, Miguel, Rodrigues, 38, Corinthians, Midfielder, 3239, 49, 98, 25, 29, 89, 6, Yes, No, 0
-955, Arthur, Barbosa, 16, Cruzeiro, Goalkepper, 1477, 29, 48, 43, 31, 10, 17, Yes, No, 0
-956, Davi, Lopes, 32, Fortaleza, Goalkepper, 6012, 53, 63, 74, 96, 26, 8, No, No, 0
-957, João, Ribeiro, 25, Cuiabá, Defender, 8592, 56, 79, 27, 73, 52, 49, No, No, 0
-958, Daniel, Lima, 29, Cruzeiro, Striker, 4233, 63, 60, 69, 76, 26, 86, Yes, No, 0
-959, João Pedro, Nunes, 19, Internacional, Sweeper, 3071, 39, 22, 47, 52, 57, 21, No, Yes, 1
-960, Eduardo, Soares, 31, Atlético-MG, Striker, 9377, 58, 38, 53, 61, 89, 51, Yes, Yes, 10
-961, João Gabriel, Carvalho, 27, Goiás, Midfielder, 1703, 30, 3, 3, 41, 56, 50, Yes, Yes, 6
-962, Guilherme, Ferreira, 17, Corinthians, Sweeper, 8210, 37, 86, 10, 49, 25, 16, Yes, Yes, 4
-963, Davi, Marques, 32, Santos, Striker, 4884, 35, 59, 40, 63, 11, 2, No, Yes, 8
-964, João Gabriel, Soares, 28, Botafogo, Defender, 2037, 50, 19, 79, 45, 31, 78, No, Yes, 9
-965, Thiago, Dias, 24, Goiás, Goalkepper, 8763, 66, 64, 32, 63, 80, 92, Yes, No, 0
-966, Miguel, Carvalho, 20, Coritiba, Striker, 9191, 38, 28, 35, 33, 46, 48, No, No, 0
-967, Arthur, Nascimento, 28, Coritiba, Goalkepper, 6757, 36, 21, 42, 62, 5, 50, Yes, Yes, 3
-968, Caio, Lima, 24, Corinthians, Defender, 6316, 67, 46, 25, 96, 79, 90, Yes, No, 0
-969, Gustavo, Freitas, 34, Cruzeiro, Midfielder, 2967, 54, 22, 96, 79, 5, 70, No, Yes, 7
-970, João Pedro, Oliveira, 26, Internacional, Goalkepper, 4132, 24, 6, 36, 77, 2, 1, Yes, No, 0
-971, Cauã, Rocha, 17, Coritiba, Defender, 8968, 36, 15, 49, 31, 30, 56, Yes, Yes, 8
-972, Eduardo, Vieira, 34, Cruzeiro, Sweeper, 8451, 54, 71, 30, 15, 93, 63, No, Yes, 5
-973, Felipe, Santos, 20, Botafogo, Sweeper, 5262, 53, 77, 64, 45, 35, 48, No, Yes, 4
-974, Matheus, Rodrigues, 28, Vasco, Sweeper, 5447, 36, 42, 33, 16, 2, 88, No, No, 0
-975, Rafael, Rodrigues, 20, Grêmio, Goalkepper, 3836, 50, 23, 64, 35, 43, 87, Yes, No, 0
-976, Pedro, Costa, 20, Cruzeiro, Midfielder, 7500, 54, 12, 25, 99, 75, 63, No, Yes, 4
-977, Nicolas, Almeida, 25, Fortaleza, Goalkepper, 8738, 58, 30, 94, 15, 90, 62, Yes, No, 0
-978, Lucca, Martins, 35, Grêmio, Striker, 6047, 44, 37, 61, 35, 37, 53, Yes, No, 0
-979, Nicolas, Andrade, 21, Palmeiras, Goalkepper, 7193, 45, 5, 81, 35, 8, 96, No, No, 0
-980, Daniel, Dias, 17, Bahia, Goalkepper, 5738, 51, 62, 81, 54, 28, 33, No, No, 0
-981, Leonardo, Fernandes, 22, Flamengo, Striker, 9063, 51, 54, 6, 93, 78, 26, Yes, No, 0
-982, Rafael, Alves, 31, Vasco, Goalkepper, 8993, 44, 22, 80, 73, 8, 38, No, Yes, 3
-983, Heitor, Rocha, 19, Palmeiras, Defender, 1568, 48, 79, 9, 66, 43, 47, No, Yes, 3
-984, Isaac, Silva, 24, Cuiabá, Midfielder, 4518, 47, 62, 76, 63, 8, 28, Yes, No, 0
-985, Guilherme, Andrade, 33, Bahia, Goalkepper, 9672, 48, 21, 46, 89, 18, 69, Yes, Yes, 10
-986, Caio, Marques, 24, Bahia, Sweeper, 8859, 63, 82, 92, 42, 57, 44, No, No, 0
-987, João Vitor, Barbosa, 40, Corinthians, Midfielder, 3677, 80, 34, 85, 86, 99, 99, No, Yes, 1
-988, , Mendes, 36, Fluminense, Midfielder, 6126, 61, 82, 80, 12, 92, 41, Yes, No, 0
-989, João Vitor, Almeida, 27, Fortaleza, Defender, 9237, 37, 47, 58, 67, 1, 15, No, Yes, 5
-990, Murilo, Gonçalves, 26, Atlético-MG, Midfielder, 2359, 59, 82, 87, 41, 21, 68, Yes, Yes, 8
-991, , Costa, 22, São Paulo, Striker, 7818, 56, 2, 93, 98, 5, 83, No, No, 0
-992, Miguel, Santana, 38, Botafogo, Defender, 1649, 48, 30, 69, 67, 38, 40, No, No, 0
-993, Eduardo, Ramos, 27, Flamengo, Goalkepper, 2372, 34, 14, 20, 59, 21, 57, Yes, No, 0
-994, Nicolas, Ramos, 18, Cruzeiro, Midfielder, 4956, 57, 7, 89, 85, 27, 77, No, No, 0
-995, Thiago, Lopes, 34, Palmeiras, Defender, 9637, 50, 40, 35, 53, 78, 47, Yes, Yes, 7
-996, Isaac, Costa, 35, São Paulo, Striker, 2315, 41, 18, 61, 57, 21, 49, No, Yes, 5
-997, Isaac, Lima, 29, Goiás, Goalkepper, 2826, 52, 66, 41, 68, 46, 39, No, No, 0
-998, Pietro, Oliveira, 27, Athletico-PR, Goalkepper, 9459, 21, 22, 1, 8, 60, 16, No, Yes, 5
-999, Bernardo, Alves, 31, Flamengo, Defender, 1698, 43, 61, 47, 64, 11, 34, No, No, 0
-1000, Pedro, Rodrigues, 31, Cuiabá, Goalkepper, 5215, 42, 4, 49, 36, 27, 95, Yes, No, 0
+1, João, Lopes, 26, Fluminense, Defender, 5363, 39, 39, 56, 37, 53, 11, Yes, Yes, 5
+2, Matheus, Santana, 28, Athletico-PR, Goalkepper, 1953, 53, 32, 45, 92, 49, 50, Yes, Yes, 1
+3, Davi, Gomes, 21, Botafogo, Goalkepper, 2237, 23, 4, 25, 2, 17, 67, Yes, No, 0
+4, Leonardo, Soares, 32, Fortaleza, Goalkepper, 8771, 66, 75, 34, 83, 93, 46, No, Yes, 7
+5, João, Teixeira, 23, São Paulo, Defender, 3397, 57, 18, 81, 88, 18, 83, No, Yes, 4
+6, Leonardo, Lopes, 37, Athletico-PR, Midfielder, 4746, 47, 55, 75, 34, 67, 8, No, No, 0
+7, Thiago, Fernandes, 40, Fortaleza, Defender, 1926, 65, 70, 92, 35, 57, 75, No, Yes, 4
+8, João, Andrade, 22, Palmeiras, Midfielder, 3009, 56, 39, 16, 43, 93, 93, Yes, No, 0
+9, Miguel, Lima, 28, Internacional, Goalkepper, 9961, 49, 95, 58, 60, 14, 21, No, Yes, 1
+10, Vinicius, Ribeiro, 28, Palmeiras, Goalkepper, 2457, 66, 19, 69, 86, 78, 79, Yes, Yes, 9
+11, Pedro, Ribeiro, 23, São Paulo, Goalkepper, 1429, 69, 36, 72, 66, 81, 90, Yes, No, 0
+12, Pietro, Nunes, 27, Athletico-PR, Striker, 1418, 47, 36, 87, 4, 34, 75, Yes, No, 0
+13, Lucas, Fernandes, 29, Athletico-PR, Sweeper, 7426, 40, 33, 79, 6, 36, 47, Yes, Yes, 5
+14, Gustavo, Lima, 31, Cuiabá, Sweeper, 4045, 56, 3, 65, 96, 36, 80, Yes, No, 0
+15, Miguel, Soares, 33, Botafogo, Midfielder, 2920, 63, 23, 99, 70, 38, 88, Yes, No, 0
+16, João, Mendes, 26, São Paulo, Striker, 5526, 61, 44, 67, 23, 93, 81, Yes, Yes, 4
+17, Davi, Martins, 36, São Paulo, Midfielder, 4805, 62, 77, 69, 7, 93, 66, Yes, Yes, 7
+18, Lucca, Vieira, 20, Athletico-PR, Goalkepper, 1215, 48, 97, 46, 40, 34, 24, No, Yes, 10
+19, Eduardo, Machado, 16, Goiás, Striker, 9325, 17, 10, 36, 19, 10, 10, No, No, 0
+20, Nicolas, Barbosa, 40, Flamengo, Midfielder, 7607, 67, 79, 68, 82, 44, 63, No, No, 0
+21, João, Mendes, 25, Grêmio, Sweeper, 2503, 65, 57, 90, 39, 63, 80, No, Yes, 2
+22, Isaac, Nascimento, 25, Palmeiras, Goalkepper, 4784, 61, 72, 81, 91, 43, 21, No, No, 0
+23, Pedro, Fernandes, 37, Santos, Midfielder, 3597, 53, 81, 61, 37, 71, 16, No, No, 0
+24, Miguel, Gonçalves, 32, Fluminense, Sweeper, 9271, 47, 7, 17, 64, 89, 61, Yes, Yes, 6
+25, Henrique, Rodrigues, 34, Botafogo, Midfielder, 4938, 62, 61, 55, 92, 33, 71, No, Yes, 3
+26, Murilo, Soares, 31, Internacional, Midfielder, 5938, 60, 78, 5, 55, 98, 65, No, No, 0
+27, Eduardo, Freitas, 40, Corinthians, Sweeper, 1077, 34, 6, 30, 99, 10, 27, Yes, No, 0
+28, João Pedro, Souza, 32, Flamengo, Defender, 8776, 43, 14, 59, 79, 32, 34, No, No, 0
+29, Rafael, Ramos, 21, Cruzeiro, Defender, 1093, 58, 58, 50, 39, 71, 75, No, Yes, 12
+30, João, Mendes, 24, São Paulo, Striker, 7766, 34, 2, 41, 51, 46, 34, Yes, No, 0
+31, Matheus, Barbosa, 27, Internacional, Defender, 6956, 20, 38, 21, 15, 13, 17, Yes, No, 0
+32, Diego, Ferreira, 25, América-MG, Midfielder, 2549, 42, 13, 29, 81, 20, 67, No, No, 0
+33, Pietro, Marques, 37, Goiás, Striker, 4922, 26, 19, 7, 30, 50, 25, No, Yes, 8
+34, Samuel, Oliveira, 23, Santos, Sweeper, 4056, 41, 31, 34, 47, 24, 73, No, No, 0
+35, Guilherme, Ribeiro, 33, Fortaleza, Striker, 3923, 47, 20, 91, 29, 23, 75, Yes, Yes, 5
+36, Cauã, Ramos, 25, Bragantino, Defender, 7729, 36, 46, 35, 31, 10, 62, No, Yes, 10
+37, Eduardo, Ramos, 24, Vasco, Midfielder, 4703, 61, 89, 29, 48, 52, 90, No, Yes, 5
+38, Leonardo, Souza, 17, Flamengo, Sweeper, 9717, 73, 89, 55, 76, 49, 98, No, No, 0
+39, Vinicius, Fernandes, 31, Palmeiras, Defender, 9862, 17, 10, 11, 3, 29, 34, Yes, No, 0
+40, Davi, Carvalho, 34, Internacional, Midfielder, 5217, 61, 87, 67, 32, 90, 30, Yes, No, 0
+41, Diego, Andrade, 30, América-MG, Defender, 9252, 35, 38, 27, 14, 18, 82, Yes, Yes, 3
+42, Pedro, Soares, 23, Vasco, Midfielder, 4523, 40, 80, 36, 5, 20, 63, No, No, 0
+43, Samuel, Dias, 38, Fluminense, Goalkepper, 6588, 24, 42, 21, 16, 36, 9, Yes, No, 0
+44, Lucca, Gonçalves, 39, Palmeiras, Goalkepper, 6012, 62, 34, 89, 27, 92, 69, No, Yes, 1
+45, Matheus, Soares, 32, Santos, Sweeper, 2872, 37, 29, 18, 12, 66, 62, Yes, No, 0
+46, Matheus, Freitas, 24, Fortaleza, Midfielder, 1184, 46, 68, 23, 44, 14, 85, No, No, 0
+47, Leonardo, Gonçalves, 23, Bragantino, Defender, 5591, 41, 22, 32, 96, 4, 54, No, Yes, 11
+48, João Pedro, Nascimento, 16, Palmeiras, Goalkepper, 3884, 41, 19, 52, 50, 41, 45, Yes, No, 0
+49, Samuel, Ribeiro, 35, Grêmio, Striker, 5637, 46, 64, 53, 64, 26, 25, No, No, 0
+50, Nicolas, Marques, 39, Corinthians, Midfielder, 1031, 55, 82, 16, 83, 24, 74, Yes, No, 0
+51, Davi, Dias, 32, Cruzeiro, Goalkepper, 1662, 43, 27, 68, 29, 49, 45, Yes, Yes, 3
+52, Lorenzo, Marques, 31, Fluminense, Goalkepper, 8967, 59, 73, 40, 14, 86, 86, Yes, Yes, 4
+53, Nicolas, Costa, 19, Athletico-PR, Defender, 3965, 35, 7, 26, 25, 41, 76, Yes, No, 0
+54, Samuel, Lima, 40, Cuiabá, Defender, 6117, 54, 37, 30, 58, 66, 83, Yes, No, 0
+55, Miguel, Ramos, 23, Vasco, Defender, 8758, 46, 38, 3, 96, 7, 87, Yes, No, 0
+56, Bernardo, Silva, 33, Goiás, Midfielder, 6811, 51, 29, 58, 97, 15, 56, Yes, No, 0
+57, Lucas, Marques, 36, Palmeiras, Defender, 2300, 45, 7, 77, 13, 82, 48, No, No, 0
+58, Vitor, Carvalho, 20, Coritiba, Sweeper, 2553, 59, 86, 39, 30, 42, 98, Yes, Yes, 4
+59, Guilherme, Martins, 32, Fluminense, Midfielder, 4783, 56, 4, 69, 99, 48, 64, Yes, No, 0
+60, Vitor, Gonçalves, 25, Corinthians, Midfielder, 4164, 46, 45, 2, 79, 81, 24, No, No, 0
+61, Heitor, Cardoso, 40, Goiás, Goalkepper, 9558, 63, 97, 27, 98, 58, 35, No, Yes, 5
+62, Enzo, Freitas, 24, Internacional, Midfielder, 8584, 44, 90, 54, 1, 29, 47, No, Yes, 9
+63, Isaac, Souza, 23, Cuiabá, Goalkepper, 4315, 41, 3, 36, 81, 48, 41, No, No, 0
+64, Arthur, Carvalho, 21, Botafogo, Sweeper, 1913, 50, 31, 26, 67, 31, 98, No, Yes, 10
+65, Cauã, Nunes, 38, Botafogo, Sweeper, 9688, 62, 74, 94, 4, 50, 92, No, No, 0
+66, Samuel, Lima, 30, Cruzeiro, Defender, 6685, 48, 98, 45, 45, 21, 31, Yes, Yes, 10
+67, Murilo, Lima, 27, Fluminense, Goalkepper, 4934, 52, 60, 30, 76, 89, 6, Yes, Yes, 3
+68, Guilherme, Mendes, 32, Flamengo, Defender, 1793, 44, 22, 36, 56, 33, 77, Yes, Yes, 5
+69, Eduardo, Nunes, 31, Grêmio, Sweeper, 3541, 61, 61, 87, 23, 82, 54, Yes, No, 0
+70, João, Souza, 38, Coritiba, Sweeper, 1617, 60, 55, 90, 70, 83, 6, No, No, 0
+71, Vitor, Alves, 18, Coritiba, Striker, 2996, 44, 4, 74, 76, 11, 59, No, Yes, 3
+72, Felipe, Martins, 19, Vasco, Midfielder, 8828, 62, 87, 33, 92, 34, 68, No, No, 0
+73, João, Nunes, 33, Corinthians, Midfielder, 7666, 25, 6, 36, 34, 32, 17, No, No, 0
+74, Isaac, Santana, 35, Santos, Defender, 7951, 25, 27, 5, 7, 9, 79, No, Yes, 7
+75, Vinicius, Gomes, 33, Santos, Sweeper, 4160, 39, 17, 64, 43, 8, 67, Yes, Yes, 10
+76, Leonardo, Lopes, 20, Athletico-PR, Midfielder, 9806, 52, 45, 86, 16, 23, 90, Yes, No, 0
+77, João, Pereira, 20, Athletico-PR, Defender, 4930, 69, 83, 98, 68, 12, 88, Yes, No, 0
+78, Nicolas, Rocha, 29, Internacional, Midfielder, 6819, 62, 93, 82, 91, 12, 33, Yes, No, 0
+79, Vitor, Vieira, 20, Grêmio, Goalkepper, 4310, 33, 88, 5, 14, 34, 27, Yes, No, 0
+80, Lorenzo, Lima, 28, Internacional, Striker, 3679, 66, 52, 79, 77, 50, 75, No, No, 0
+81, João Pedro, Barbosa, 37, Cuiabá, Sweeper, 5798, 32, 21, 60, 30, 7, 45, Yes, Yes, 9
+82, Murilo, Soares, 24, Internacional, Goalkepper, 1570, 53, 17, 63, 48, 47, 90, No, No, 0
+83, Rafael, Lima, 37, Goiás, Goalkepper, 5238, 57, 33, 76, 96, 62, 19, Yes, Yes, 7
+84, Guilherme, Ribeiro, 20, Grêmio, Striker, 5281, 55, 38, 38, 76, 81, 42, Yes, Yes, 4
+85, Rafael, Andrade, 31, Santos, Goalkepper, 5842, 39, 89, 10, 32, 59, 6, Yes, No, 0
+86, Nicolas, Barbosa, 20, Internacional, Goalkepper, 2651, 52, 82, 31, 92, 51, 8, Yes, Yes, 9
+87, Thiago, Nunes, 31, Athletico-PR, Striker, 7004, 39, 62, 15, 50, 23, 45, Yes, No, 0
+88, Diego, Barbosa, 23, Fluminense, Striker, 6385, 57, 54, 42, 86, 61, 43, No, Yes, 12
+89, Lucca, Soares, 36, Cuiabá, Midfielder, 6279, 24, 7, 16, 6, 74, 19, No, No, 0
+90, Enzo, Dias, 30, América-MG, Striker, 5180, 32, 93, 10, 6, 16, 37, Yes, Yes, 1
+91, Guilherme, Nunes, 18, Bahia, Midfielder, 2260, 62, 34, 60, 99, 21, 98, No, No, 0
+92, Lucca, Souza, 34, São Paulo, Midfielder, 9419, 52, 62, 93, 36, 69, 3, No, No, 0
+93, Vinicius, Ribeiro, 19, Corinthians, Defender, 4451, 50, 68, 3, 73, 90, 20, No, No, 0
+94, Pietro, Mendes, 35, Athletico-PR, Defender, 7197, 53, 98, 28, 28, 43, 68, Yes, Yes, 10
+95, Vitor, Santana, 28, Goiás, Sweeper, 1568, 62, 60, 65, 63, 46, 77, No, No, 0
+96, Vitor, Fernandes, 20, América-MG, Goalkepper, 6048, 55, 58, 11, 92, 61, 53, Yes, No, 0
+97, Diego, Souza, 35, Palmeiras, Goalkepper, 1637, 37, 68, 17, 2, 81, 17, No, Yes, 5
+98, Diego, Marques, 27, Goiás, Striker, 9351, 49, 27, 16, 43, 78, 85, Yes, Yes, 2
+99, João Vitor, Moreira, 20, Goiás, Defender, 8893, 71, 81, 47, 99, 45, 87, No, Yes, 10
+100, Caio, Rocha, 36, São Paulo, Sweeper, 9557, 64, 79, 92, 38, 28, 85, Yes, No, 0
+101, Daniel, Costa, 25, Atlético-MG, Goalkepper, 8360, 44, 45, 83, 21, 17, 55, No, No, 0
+102, Pedro, Freitas, 31, Fluminense, Goalkepper, 4509, 67, 88, 75, 1, 95, 76, No, Yes, 9
+103, Henrique, Silva, 25, Goiás, Goalkepper, 1290, 47, 27, 79, 11, 36, 85, No, No, 0
+104, Lucas, Andrade, 31, Internacional, Midfielder, 8427, 63, 13, 99, 52, 69, 84, No, Yes, 3
+105, João Gabriel, Carvalho, 21, Goiás, Striker, 2155, 45, 76, 60, 16, 33, 44, No, Yes, 8
+106, Gustavo, Oliveira, 37, Atlético-MG, Striker, 1005, 30, 3, 28, 42, 42, 38, Yes, Yes, 7
+107, Enzo, Oliveira, 30, Cuiabá, Striker, 4658, 37, 17, 44, 73, 33, 19, Yes, Yes, 9
+108, Miguel, Lopes, 20, Bragantino, Sweeper, 6372, 67, 46, 98, 77, 42, 72, Yes, Yes, 9
+109, Thiago, Oliveira, 34, Atlético-MG, Goalkepper, 1140, 32, 2, 47, 28, 1, 85, No, Yes, 2
+110, Murilo, Rocha, 27, Athletico-PR, Sweeper, 3758, 55, 46, 96, 55, 75, 5, Yes, Yes, 3
+111, Caio, Barbosa, 17, Vasco, Midfielder, 6099, 58, 72, 57, 10, 97, 55, No, Yes, 12
+112, Lucas, Rodrigues, 22, Corinthians, Striker, 1734, 44, 68, 80, 6, 6, 61, No, No, 0
+113, Pedro, Vieira, 19, Goiás, Striker, 1042, 72, 56, 46, 96, 82, 82, No, Yes, 4
+114, Arthur, Silva, 32, São Paulo, Striker, 6483, 49, 54, 71, 32, 38, 50, No, No, 0
+115, Gabriel, Fernandes, 24, Goiás, Goalkepper, 8427, 37, 34, 62, 73, 4, 12, Yes, No, 0
+116, Pietro, Barbosa, 22, São Paulo, Midfielder, 8541, 46, 59, 6, 44, 64, 57, No, Yes, 8
+117, Henrique, Fernandes, 25, América-MG, Sweeper, 5862, 47, 22, 2, 67, 83, 61, No, Yes, 11
+118, Eduardo, Vieira, 24, Flamengo, Goalkepper, 9017, 58, 60, 76, 88, 4, 62, Yes, Yes, 2
+119, Gustavo, Marques, 30, Santos, Defender, 5188, 62, 72, 95, 42, 6, 95, No, Yes, 5
+120, Davi, Fernandes, 38, Botafogo, Midfielder, 5555, 44, 43, 54, 2, 81, 40, No, No, 0
+121, Lorenzo, Cardoso, 36, Palmeiras, Midfielder, 4061, 46, 19, 80, 92, 37, 2, No, Yes, 10
+122, Lorenzo, Lima, 37, Internacional, Striker, 9381, 51, 73, 1, 54, 91, 40, No, Yes, 7
+123, Vitor, Lima, 21, Palmeiras, Defender, 6475, 43, 70, 64, 5, 70, 6, No, No, 0
+124, Bernardo, Gomes, 20, Bragantino, Striker, 4518, 53, 79, 33, 78, 73, 6, No, Yes, 1
+125, Cauã, Gomes, 24, Cruzeiro, Midfielder, 1066, 45, 17, 37, 76, 64, 35, No, Yes, 6
+126, Diego, Teixeira, 35, Corinthians, Sweeper, 1473, 65, 87, 14, 90, 64, 74, No, Yes, 9
+127, Isaac, Pereira, 28, Fluminense, Striker, 3032, 40, 24, 83, 33, 36, 28, Yes, No, 0
+128, Caio, Gomes, 33, São Paulo, Goalkepper, 5904, 47, 6, 81, 90, 14, 47, Yes, Yes, 4
+129, Caio, Santana, 32, Internacional, Defender, 5110, 50, 29, 47, 38, 73, 67, Yes, Yes, 11
+130, Guilherme, Ferreira, 28, Botafogo, Midfielder, 4361, 40, 1, 21, 44, 80, 57, No, Yes, 5
+131, Heitor, Carvalho, 39, Flamengo, Sweeper, 5855, 37, 76, 47, 1, 10, 51, No, No, 0
+132, Arthur, Soares, 20, Fortaleza, Goalkepper, 4261, 35, 24, 97, 11, 36, 8, No, No, 0
+133, Caio, Lima, 29, Botafogo, Midfielder, 6258, 46, 65, 57, 40, 3, 68, Yes, Yes, 10
+134, Caio, Rodrigues, 37, Bahia, Sweeper, 3257, 80, 94, 93, 71, 97, 45, No, No, 0
+135, Matheus, Ferreira, 23, Palmeiras, Midfielder, 5060, 70, 26, 83, 96, 68, 81, Yes, No, 0
+136, Pedro, Silva, 31, Botafogo, Goalkepper, 4957, 47, 67, 46, 59, 49, 14, No, No, 0
+137, Lorenzo, Marques, 20, Vasco, Striker, 2233, 42, 75, 49, 6, 26, 54, Yes, Yes, 10
+138, Matheus, Teixeira, 34, Goiás, Defender, 9602, 33, 11, 23, 64, 18, 49, No, Yes, 11
+139, Felipe, Ferreira, 16, Vasco, Defender, 6975, 51, 78, 17, 18, 74, 71, No, No, 0
+140, Caio, Ferreira, 39, Fortaleza, Goalkepper, 7815, 59, 80, 6, 42, 84, 86, Yes, Yes, 6
+141, Enzo, Rocha, 29, Bragantino, Striker, 7694, 53, 41, 41, 93, 10, 80, Yes, Yes, 2
+142, Lucca, Mendes, 31, Corinthians, Defender, 6379, 65, 97, 84, 21, 53, 72, Yes, Yes, 2
+143, Gustavo, Nunes, 23, Atlético-MG, Sweeper, 4291, 39, 59, 9, 23, 59, 45, No, Yes, 3
+144, Pietro, Carvalho, 19, Vasco, Sweeper, 8302, 66, 27, 83, 91, 45, 88, No, No, 0
+145, João, Carvalho, 28, Corinthians, Defender, 5786, 57, 89, 92, 3, 83, 21, No, Yes, 7
+146, Samuel, Almeida, 35, São Paulo, Goalkepper, 4572, 52, 73, 71, 43, 53, 21, Yes, Yes, 4
+147, Henrique, Mendes, 33, São Paulo, Goalkepper, 8260, 52, 48, 60, 10, 63, 79, No, Yes, 9
+148, Diego, Nunes, 35, Athletico-PR, Defender, 6023, 78, 90, 87, 82, 93, 40, Yes, Yes, 3
+149, Murilo, Andrade, 24, Goiás, Striker, 5654, 74, 84, 55, 59, 96, 77, Yes, No, 0
+150, Gabriel, Almeida, 29, Botafogo, Striker, 4481, 46, 17, 37, 72, 43, 64, Yes, Yes, 3
+151, Leonardo, Andrade, 25, Botafogo, Sweeper, 5130, 39, 31, 22, 70, 6, 70, No, No, 0
+152, Miguel, Gomes, 24, Botafogo, Defender, 2789, 51, 19, 41, 89, 53, 55, No, No, 0
+153, Miguel, Almeida, 37, Grêmio, Midfielder, 6942, 49, 24, 5, 69, 56, 95, No, Yes, 6
+154, Davi, Alves, 25, Flamengo, Striker, 1438, 51, 81, 88, 8, 5, 74, Yes, No, 0
+155, Miguel, Oliveira, 19, Coritiba, Striker, 1542, 59, 11, 56, 83, 57, 89, No, No, 0
+156, Pietro, Nunes, 21, Palmeiras, Defender, 7873, 63, 49, 69, 7, 96, 96, No, Yes, 2
+157, Lorenzo, Ribeiro, 38, Cuiabá, Sweeper, 5763, 64, 16, 91, 65, 92, 58, Yes, Yes, 11
+158, João Pedro, Ramos, 33, Coritiba, Goalkepper, 6017, 75, 86, 65, 74, 99, 54, No, No, 0
+159, Lorenzo, Nascimento, 32, São Paulo, Striker, 6666, 35, 10, 5, 16, 57, 88, Yes, No, 0
+160, Samuel, Teixeira, 37, Vasco, Goalkepper, 6183, 64, 99, 56, 92, 42, 35, No, Yes, 5
+161, Pedro, Marques, 21, Bahia, Goalkepper, 4882, 48, 54, 51, 21, 31, 86, No, No, 0
+162, Gustavo, Ribeiro, 31, Internacional, Goalkepper, 9272, 42, 9, 20, 54, 42, 86, No, Yes, 1
+163, Daniel, Almeida, 27, Santos, Sweeper, 6814, 19, 20, 41, 4, 29, 2, No, No, 0
+164, Gustavo, Ferreira, 19, Atlético-MG, Striker, 3181, 39, 82, 36, 17, 15, 46, No, Yes, 4
+165, Isaac, Rocha, 27, Bahia, Midfielder, 6036, 62, 91, 85, 44, 75, 19, Yes, No, 0
+166, Isaac, Mendes, 25, São Paulo, Defender, 8667, 46, 63, 73, 92, 2, 1, No, Yes, 3
+167, Gabriel, Souza, 27, Cruzeiro, Goalkepper, 1178, 42, 18, 10, 85, 11, 89, Yes, No, 0
+168, Davi, Silva, 17, Corinthians, Defender, 6986, 41, 78, 16, 10, 40, 63, Yes, No, 0
+169, João Gabriel, Gonçalves, 30, Santos, Striker, 4791, 51, 80, 44, 22, 59, 52, No, No, 0
+170, Lucas, Alves, 33, América-MG, Sweeper, 4621, 60, 68, 58, 92, 21, 63, Yes, Yes, 9
+171, Davi, Moreira, 27, Internacional, Defender, 1297, 56, 83, 99, 65, 15, 22, Yes, Yes, 2
+172, Vinicius, Souza, 24, Cuiabá, Sweeper, 1991, 66, 86, 70, 57, 34, 85, No, No, 0
+173, Daniel, Rodrigues, 30, Bahia, Defender, 8089, 48, 80, 16, 21, 44, 83, Yes, Yes, 5
+174, Rafael, Nascimento, 17, Santos, Goalkepper, 8792, 39, 9, 29, 54, 17, 89, Yes, No, 0
+175, Arthur, Dias, 17, Atlético-MG, Defender, 2246, 61, 70, 81, 84, 9, 61, No, Yes, 2
+176, Bernardo, Soares, 36, Bragantino, Defender, 5861, 66, 75, 38, 92, 95, 31, No, Yes, 1
+177, Daniel, Costa, 25, Vasco, Sweeper, 8276, 45, 97, 49, 6, 44, 33, No, Yes, 2
+178, Pedro, Santana, 26, Goiás, Sweeper, 3499, 64, 40, 98, 73, 31, 78, Yes, Yes, 4
+179, Samuel, Cardoso, 21, Atlético-MG, Goalkepper, 3225, 48, 76, 10, 4, 84, 66, Yes, Yes, 9
+180, Arthur, Lima, 30, Bahia, Striker, 5442, 38, 42, 10, 59, 19, 64, No, No, 0
+181, Miguel, Lopes, 19, Fluminense, Striker, 8122, 26, 4, 11, 17, 75, 27, Yes, Yes, 10
+182, Rafael, Gonçalves, 28, Santos, Goalkepper, 4688, 43, 17, 43, 88, 18, 52, Yes, Yes, 7
+183, Lorenzo, Nunes, 18, Fortaleza, Sweeper, 6556, 27, 10, 56, 45, 11, 17, No, No, 0
+184, Thiago, Soares, 19, Cruzeiro, Striker, 6010, 61, 23, 52, 85, 56, 91, No, Yes, 7
+185, João, Rodrigues, 19, São Paulo, Sweeper, 5128, 58, 34, 25, 87, 63, 82, Yes, Yes, 5
+186, Heitor, Santana, 24, Bahia, Sweeper, 3439, 41, 67, 12, 75, 39, 16, Yes, Yes, 6
+187, João Gabriel, Nascimento, 20, Flamengo, Midfielder, 9935, 59, 54, 23, 72, 63, 83, No, No, 0
+188, Heitor, Rocha, 33, Coritiba, Defender, 2731, 61, 37, 84, 83, 91, 13, Yes, No, 0
+189, Pedro, Marques, 24, América-MG, Striker, 3768, 62, 81, 14, 89, 73, 56, No, No, 0
+190, João, Santana, 36, Fluminense, Goalkepper, 6727, 42, 65, 54, 43, 25, 26, No, No, 0
+191, Lorenzo, Oliveira, 21, Bahia, Goalkepper, 6640, 64, 43, 97, 52, 66, 65, No, Yes, 11
+192, Felipe, Fernandes, 36, Goiás, Goalkepper, 4240, 50, 80, 51, 21, 36, 64, Yes, Yes, 7
+193, Bernardo, Mendes, 16, Fortaleza, Goalkepper, 5476, 26, 67, 4, 15, 36, 10, No, Yes, 9
+194, Lucca, Rodrigues, 22, Internacional, Midfielder, 3453, 50, 59, 88, 41, 8, 57, No, No, 0
+195, Arthur, Soares, 33, Fluminense, Defender, 4166, 36, 98, 35, 31, 7, 10, No, No, 0
+196, Rafael, Moreira, 27, Corinthians, Midfielder, 2494, 56, 45, 56, 52, 72, 57, No, Yes, 1
+197, Diego, Costa, 39, Cuiabá, Goalkepper, 5274, 44, 66, 32, 73, 39, 11, Yes, Yes, 10
+198, João Pedro, Nunes, 23, Palmeiras, Sweeper, 2615, 44, 50, 5, 67, 71, 27, Yes, No, 0
+199, Bernardo, Carvalho, 33, Bahia, Striker, 6624, 68, 47, 95, 55, 52, 95, No, No, 0
+200, Leonardo, Santana, 26, América-MG, Sweeper, 1302, 60, 85, 14, 59, 50, 92, Yes, Yes, 2
+201, Eduardo, Souza, 32, Internacional, Defender, 5624, 61, 67, 31, 80, 85, 44, No, No, 0
+202, Caio, Teixeira, 33, Internacional, Goalkepper, 5684, 57, 91, 42, 83, 50, 19, No, Yes, 11
+203, Thiago, Lopes, 38, Palmeiras, Defender, 5209, 43, 39, 60, 19, 78, 23, Yes, No, 0
+204, Vinicius, Marques, 29, Bahia, Midfielder, 2075, 68, 99, 41, 46, 64, 90, Yes, Yes, 9
+205, Davi, Oliveira, 21, Athletico-PR, Striker, 3272, 65, 99, 95, 22, 90, 22, Yes, No, 0
+206, Vitor, Lima, 40, Cuiabá, Defender, 1350, 23, 3, 5, 6, 45, 60, No, Yes, 1
+207, Isaac, Alves, 39, Botafogo, Midfielder, 8421, 61, 85, 45, 66, 75, 38, Yes, Yes, 8
+208, Vitor, Rocha, 31, Internacional, Goalkepper, 7207, 39, 75, 36, 31, 23, 33, No, Yes, 11
+209, Rafael, Carvalho, 37, Flamengo, Sweeper, 8627, 58, 67, 10, 82, 89, 44, No, No, 0
+210, João Gabriel, Costa, 36, Bragantino, Sweeper, 1241, 37, 34, 16, 62, 28, 45, No, No, 0
+211, Caio, Moreira, 29, América-MG, Striker, 1959, 60, 94, 38, 27, 95, 47, No, No, 0
+212, Cauã, Pereira, 19, Goiás, Goalkepper, 3525, 40, 47, 16, 56, 61, 23, No, Yes, 4
+213, Thiago, Martins, 26, São Paulo, Goalkepper, 7861, 27, 29, 44, 20, 18, 28, Yes, No, 0
+214, Vinicius, Santos, 27, Goiás, Striker, 6433, 44, 92, 8, 43, 30, 50, No, No, 0
+215, Daniel, Mendes, 34, Fortaleza, Defender, 3020, 23, 29, 20, 47, 11, 12, Yes, No, 0
+216, Pedro, Ramos, 39, Cruzeiro, Striker, 2525, 52, 13, 74, 77, 71, 29, No, Yes, 9
+217, Pietro, Souza, 19, Flamengo, Striker, 9744, 58, 93, 12, 68, 72, 47, Yes, No, 0
+218, Eduardo, Moreira, 23, Botafogo, Goalkepper, 6289, 43, 52, 30, 33, 77, 26, Yes, Yes, 4
+219, Leonardo, Dias, 19, Bahia, Goalkepper, 3016, 30, 6, 62, 23, 19, 42, Yes, No, 0
+220, Vitor, Gonçalves, 16, Bahia, Striker, 5955, 48, 56, 41, 16, 53, 77, Yes, No, 0
+221, João Vitor, Pereira, 38, Vasco, Goalkepper, 8854, 56, 41, 49, 40, 70, 84, Yes, No, 0
+222, Vitor, Santana, 39, Bahia, Defender, 4031, 59, 64, 96, 23, 80, 32, No, Yes, 4
+223, Felipe, Soares, 16, Santos, Sweeper, 1764, 38, 72, 34, 34, 8, 43, No, Yes, 8
+224, Lucca, Mendes, 34, Fortaleza, Defender, 1380, 47, 45, 45, 29, 59, 57, No, Yes, 3
+225, Henrique, Andrade, 33, Vasco, Defender, 6159, 65, 60, 55, 80, 83, 50, Yes, No, 0
+226, João, Andrade, 35, Athletico-PR, Striker, 8425, 88, 91, 84, 90, 85, 93, Yes, Yes, 11
+227, Heitor, Vieira, 37, Athletico-PR, Striker, 8429, 43, 43, 24, 58, 51, 39, Yes, No, 0
+228, João Vitor, Santos, 30, Atlético-MG, Sweeper, 6474, 56, 88, 62, 61, 23, 46, No, Yes, 9
+229, Eduardo, Santana, 21, Corinthians, Goalkepper, 3361, 46, 36, 69, 96, 8, 24, No, Yes, 1
+230, Leonardo, Marques, 30, Botafogo, Midfielder, 5380, 24, 2, 2, 67, 19, 34, Yes, Yes, 8
+231, Enzo, Carvalho, 34, Internacional, Defender, 2898, 39, 15, 74, 43, 4, 59, Yes, No, 0
+232, Lucca, Andrade, 24, América-MG, Defender, 5174, 41, 7, 62, 49, 63, 28, Yes, Yes, 4
+233, Eduardo, Nunes, 28, São Paulo, Midfielder, 1361, 50, 84, 25, 78, 7, 57, No, No, 0
+234, Vinicius, Oliveira, 35, Flamengo, Sweeper, 4468, 50, 26, 55, 94, 68, 7, No, No, 0
+235, Lorenzo, Cardoso, 21, Coritiba, Midfielder, 3212, 53, 33, 54, 11, 82, 86, Yes, No, 0
+236, Pedro, Lopes, 29, São Paulo, Defender, 6996, 55, 83, 24, 65, 20, 86, No, Yes, 7
+237, Felipe, Rocha, 29, Atlético-MG, Goalkepper, 9132, 34, 45, 9, 69, 22, 27, Yes, No, 0
+238, Davi, Almeida, 26, Corinthians, Midfielder, 2746, 23, 9, 50, 6, 19, 34, No, Yes, 9
+239, Eduardo, Gomes, 35, Atlético-MG, Striker, 5132, 47, 99, 30, 72, 14, 22, Yes, No, 0
+240, Lucca, Rocha, 21, Vasco, Sweeper, 2344, 64, 67, 89, 91, 51, 24, No, Yes, 6
+241, Heitor, Lima, 19, Cruzeiro, Defender, 9975, 72, 90, 84, 81, 60, 49, Yes, Yes, 6
+242, Thiago, Gonçalves, 25, Corinthians, Defender, 4054, 55, 93, 10, 86, 59, 29, Yes, Yes, 6
+243, Felipe, Rodrigues, 35, Bahia, Defender, 3529, 41, 97, 26, 27, 51, 7, Yes, No, 0
+244, Gabriel, Marques, 24, Atlético-MG, Defender, 7434, 42, 42, 33, 25, 18, 95, Yes, No, 0
+245, João Pedro, Carvalho, 21, Cuiabá, Striker, 4193, 47, 23, 57, 27, 80, 48, Yes, Yes, 9
+246, Isaac, Ramos, 38, Bahia, Goalkepper, 5919, 55, 46, 92, 23, 41, 75, No, Yes, 6
+247, Vitor, Machado, 19, Bragantino, Sweeper, 7941, 25, 13, 1, 1, 36, 75, Yes, No, 0
+248, Davi, Almeida, 27, Fluminense, Goalkepper, 8120, 73, 94, 93, 38, 52, 91, No, Yes, 5
+249, Lucas, Fernandes, 40, Botafogo, Midfielder, 1950, 41, 50, 43, 73, 18, 25, Yes, No, 0
+250, Pedro, Freitas, 38, Santos, Defender, 9163, 51, 89, 7, 69, 88, 3, No, No, 0
+251, Davi, Alves, 23, Fluminense, Defender, 4343, 51, 30, 31, 66, 33, 95, Yes, Yes, 10
+252, Lucca, Fernandes, 23, Cuiabá, Midfielder, 1701, 54, 4, 67, 86, 69, 44, No, No, 0
+253, Caio, Teixeira, 21, América-MG, Defender, 5056, 45, 59, 17, 10, 62, 79, No, Yes, 10
+254, Vinicius, Gonçalves, 17, Santos, Sweeper, 3563, 49, 52, 29, 90, 22, 53, No, No, 0
+255, Miguel, Teixeira, 19, Internacional, Sweeper, 2285, 47, 25, 81, 46, 74, 13, Yes, No, 0
+256, Pietro, Nunes, 40, Santos, Midfielder, 1107, 50, 81, 62, 22, 79, 8, Yes, No, 0
+257, Arthur, Fernandes, 29, Santos, Defender, 8733, 37, 32, 65, 44, 39, 5, No, No, 0
+258, Lorenzo, Alves, 17, Goiás, Defender, 5260, 73, 65, 82, 61, 77, 82, No, No, 0
+259, Davi, Cardoso, 19, Fluminense, Sweeper, 8951, 51, 70, 37, 27, 36, 86, Yes, No, 0
+260, João Gabriel, Carvalho, 17, Flamengo, Midfielder, 2501, 53, 97, 73, 31, 10, 55, No, No, 0
+261, Samuel, Nascimento, 30, Botafogo, Defender, 5772, 47, 16, 64, 64, 5, 90, No, No, 0
+262, Thiago, Ramos, 21, Fluminense, Striker, 4052, 66, 93, 76, 49, 23, 90, No, Yes, 7
+263, Pedro, Lima, 20, Corinthians, Striker, 1376, 39, 38, 45, 62, 3, 51, Yes, No, 0
+264, João, Santos, 35, América-MG, Goalkepper, 1240, 75, 45, 62, 98, 87, 83, No, No, 0
+265, Caio, Santos, 40, Goiás, Goalkepper, 8180, 44, 78, 35, 22, 54, 33, Yes, No, 0
+266, Caio, Silva, 33, Vasco, Goalkepper, 6429, 73, 85, 97, 50, 59, 76, No, Yes, 1
+267, Samuel, Moreira, 19, Internacional, Goalkepper, 8938, 50, 55, 33, 46, 70, 47, No, No, 0
+268, Miguel, Mendes, 21, Cuiabá, Midfielder, 3548, 38, 31, 11, 22, 70, 57, Yes, Yes, 1
+269, Isaac, Almeida, 40, América-MG, Sweeper, 9725, 62, 92, 72, 83, 39, 24, No, Yes, 11
+270, Nicolas, Carvalho, 25, Goiás, Sweeper, 8373, 51, 57, 89, 37, 36, 36, Yes, No, 0
+271, Cauã, Ferreira, 17, América-MG, Goalkepper, 2647, 59, 97, 97, 10, 89, 4, Yes, No, 0
+272, Henrique, Freitas, 39, América-MG, Goalkepper, 4505, 51, 94, 61, 67, 24, 10, Yes, Yes, 4
+273, Pedro, Alves, 18, Palmeiras, Sweeper, 6121, 49, 61, 7, 67, 57, 56, No, Yes, 7
+274, Murilo, Ramos, 31, Santos, Midfielder, 7556, 25, 45, 20, 2, 54, 5, No, No, 0
+275, Bernardo, Vieira, 21, Corinthians, Goalkepper, 7315, 36, 26, 60, 46, 24, 27, Yes, Yes, 2
+276, Henrique, Lopes, 39, Flamengo, Striker, 7930, 54, 38, 53, 13, 95, 75, Yes, Yes, 3
+277, Thiago, Gonçalves, 40, Bragantino, Sweeper, 4965, 54, 81, 64, 25, 98, 6, No, No, 0
+278, Matheus, Vieira, 22, Coritiba, Midfielder, 7257, 56, 19, 41, 42, 89, 90, Yes, Yes, 7
+279, Diego, Nascimento, 18, Coritiba, Sweeper, 4903, 54, 51, 57, 31, 93, 38, Yes, Yes, 4
+280, Lucca, Vieira, 36, Botafogo, Midfielder, 7850, 48, 45, 34, 57, 86, 19, No, Yes, 8
+281, Samuel, Ferreira, 17, Cuiabá, Goalkepper, 1018, 60, 64, 31, 95, 91, 22, No, No, 0
+282, Arthur, Andrade, 28, Cuiabá, Defender, 1266, 54, 28, 82, 75, 23, 64, Yes, No, 0
+283, João Pedro, Santana, 40, Flamengo, Goalkepper, 5087, 39, 26, 71, 65, 7, 26, No, Yes, 7
+284, Thiago, Gonçalves, 17, Botafogo, Midfielder, 1785, 59, 57, 59, 68, 48, 65, Yes, Yes, 10
+285, Leonardo, Vieira, 27, Grêmio, Goalkepper, 1466, 43, 44, 91, 39, 2, 42, Yes, No, 0
+286, João Gabriel, Nascimento, 36, São Paulo, Defender, 3681, 67, 96, 80, 64, 90, 5, No, Yes, 1
+287, Diego, Almeida, 40, Corinthians, Goalkepper, 1338, 53, 67, 80, 47, 52, 20, No, Yes, 2
+288, Gabriel, Nascimento, 26, Palmeiras, Defender, 2641, 23, 12, 10, 67, 3, 25, Yes, Yes, 5
+289, Diego, Gonçalves, 24, Santos, Defender, 5919, 63, 63, 67, 15, 92, 80, No, Yes, 7
+290, Cauã, Nascimento, 18, Palmeiras, Sweeper, 2997, 45, 22, 77, 35, 60, 32, Yes, Yes, 4
+291, Isaac, Oliveira, 19, Cuiabá, Goalkepper, 3356, 60, 43, 90, 19, 87, 61, Yes, No, 0
+292, Matheus, Mendes, 40, Bahia, Sweeper, 8223, 50, 56, 48, 14, 82, 54, Yes, No, 0
+293, Lucca, Mendes, 32, Fortaleza, Sweeper, 3980, 54, 47, 22, 85, 54, 62, Yes, No, 0
+294, Enzo, Teixeira, 23, Fluminense, Sweeper, 8215, 44, 63, 45, 52, 25, 39, Yes, Yes, 4
+295, Arthur, Mendes, 34, Cruzeiro, Striker, 4164, 45, 28, 39, 88, 29, 45, Yes, Yes, 3
+296, Rafael, Soares, 21, Atlético-MG, Goalkepper, 3837, 56, 29, 91, 69, 28, 66, No, Yes, 8
+297, Matheus, Soares, 17, Fluminense, Striker, 4786, 44, 42, 16, 46, 49, 67, No, Yes, 4
+298, Davi, Mendes, 25, Athletico-PR, Midfielder, 4934, 48, 22, 20, 88, 90, 21, Yes, No, 0
+299, Caio, Fernandes, 21, Atlético-MG, Goalkepper, 7389, 64, 37, 81, 54, 58, 93, No, No, 0
+300, Caio, Teixeira, 24, Bragantino, Defender, 3980, 59, 98, 68, 23, 99, 10, Yes, No, 0
+301, Vinicius, Fernandes, 40, Goiás, Striker, 3309, 57, 95, 35, 39, 75, 41, No, No, 0
+302, Eduardo, Alves, 18, São Paulo, Midfielder, 1565, 54, 44, 64, 59, 38, 69, No, Yes, 7
+303, Bernardo, Rodrigues, 28, Flamengo, Goalkepper, 7160, 33, 42, 45, 13, 41, 25, Yes, Yes, 8
+304, Leonardo, Nascimento, 38, Bragantino, Goalkepper, 8124, 58, 86, 99, 1, 69, 38, Yes, Yes, 10
+305, Enzo, Rodrigues, 29, Palmeiras, Striker, 9216, 28, 65, 16, 3, 3, 53, No, Yes, 2
+306, Enzo, Nunes, 18, Cuiabá, Goalkepper, 8404, 41, 59, 89, 34, 5, 19, Yes, Yes, 1
+307, Murilo, Ferreira, 32, Coritiba, Defender, 3451, 53, 85, 49, 44, 58, 33, No, No, 0
+308, João Pedro, Almeida, 19, Botafogo, Sweeper, 5579, 44, 20, 57, 73, 3, 68, No, Yes, 2
+309, Cauã, Costa, 27, Athletico-PR, Striker, 3808, 49, 50, 64, 8, 79, 48, No, Yes, 1
+310, Pietro, Dias, 38, Bahia, Midfielder, 8364, 57, 56, 95, 12, 58, 67, No, Yes, 3
+311, João Vitor, Barbosa, 18, Flamengo, Midfielder, 2117, 29, 81, 31, 1, 30, 5, No, No, 0
+312, Henrique, Nunes, 33, Corinthians, Sweeper, 4537, 20, 18, 18, 35, 24, 8, Yes, Yes, 10
+313, João, Gomes, 19, Botafogo, Striker, 4056, 28, 64, 30, 5, 38, 3, Yes, Yes, 4
+314, João, Fernandes, 37, Athletico-PR, Sweeper, 8682, 60, 11, 76, 51, 81, 85, Yes, Yes, 12
+315, Eduardo, Marques, 24, América-MG, Goalkepper, 6991, 59, 88, 95, 19, 74, 22, Yes, No, 0
+316, Daniel, Ribeiro, 20, América-MG, Striker, 1002, 34, 26, 34, 94, 3, 16, Yes, Yes, 10
+317, Daniel, Teixeira, 33, Corinthians, Striker, 2005, 69, 77, 63, 77, 76, 54, Yes, Yes, 7
+318, Cauã, Rodrigues, 36, Bragantino, Midfielder, 5022, 18, 49, 2, 21, 9, 10, No, No, 0
+319, Leonardo, Lima, 17, Athletico-PR, Midfielder, 6190, 35, 52, 58, 12, 38, 15, Yes, Yes, 3
+320, Daniel, Rocha, 30, Vasco, Goalkepper, 3249, 55, 76, 9, 74, 40, 77, Yes, No, 0
+321, Enzo, Costa, 31, Goiás, Sweeper, 7978, 39, 25, 54, 33, 22, 63, Yes, Yes, 3
+322, Bernardo, Gomes, 19, Cruzeiro, Striker, 2234, 43, 24, 49, 73, 42, 27, Yes, Yes, 1
+323, João Pedro, Vieira, 19, Fortaleza, Goalkepper, 9752, 58, 38, 46, 91, 84, 34, No, Yes, 5
+324, Eduardo, Santana, 39, Vasco, Defender, 1634, 56, 88, 7, 80, 69, 38, Yes, Yes, 7
+325, Guilherme, Santos, 30, Fluminense, Goalkepper, 6408, 33, 8, 20, 42, 68, 29, Yes, No, 0
+326, Davi, Barbosa, 26, Flamengo, Striker, 2627, 59, 65, 63, 80, 25, 65, No, No, 0
+327, Matheus, Ramos, 19, Internacional, Striker, 8418, 29, 21, 34, 43, 8, 43, No, Yes, 6
+328, Lucca, Nunes, 16, Athletico-PR, Goalkepper, 4727, 54, 34, 30, 96, 43, 70, No, No, 0
+329, Daniel, Ramos, 39, Cuiabá, Midfielder, 5714, 36, 17, 20, 16, 97, 30, Yes, No, 0
+330, Daniel, Santana, 36, Coritiba, Goalkepper, 4686, 39, 27, 62, 9, 60, 40, No, No, 0
+331, Enzo, Santos, 22, Fortaleza, Sweeper, 5982, 46, 87, 25, 26, 62, 30, Yes, Yes, 8
+332, Samuel, Alves, 22, América-MG, Midfielder, 1316, 35, 26, 34, 9, 84, 24, Yes, Yes, 9
+333, Diego, Carvalho, 31, Botafogo, Striker, 6526, 27, 41, 1, 44, 4, 49, No, Yes, 9
+334, João Pedro, Barbosa, 27, Bahia, Sweeper, 6122, 51, 65, 27, 79, 29, 55, Yes, Yes, 7
+335, Isaac, Lima, 35, Fortaleza, Defender, 4852, 46, 6, 78, 89, 46, 12, Yes, No, 0
+336, Pietro, Ramos, 23, América-MG, Sweeper, 7191, 54, 95, 2, 69, 27, 79, No, Yes, 1
+337, Gustavo, Ferreira, 27, São Paulo, Defender, 1110, 45, 61, 86, 31, 26, 25, No, No, 0
+338, Eduardo, Soares, 36, Flamengo, Sweeper, 9068, 53, 70, 44, 36, 70, 45, No, Yes, 1
+339, João Gabriel, Gomes, 22, Corinthians, Midfielder, 7729, 68, 93, 61, 68, 33, 86, Yes, Yes, 7
+340, Nicolas, Ribeiro, 35, Palmeiras, Defender, 2761, 74, 45, 84, 55, 99, 88, Yes, No, 0
+341, Miguel, Fernandes, 32, Grêmio, Defender, 9551, 44, 32, 18, 82, 64, 27, Yes, Yes, 8
+342, Samuel, Teixeira, 39, Internacional, Sweeper, 7161, 52, 34, 88, 71, 16, 53, No, No, 0
+343, Pedro, Cardoso, 26, Athletico-PR, Defender, 4086, 37, 38, 7, 18, 46, 78, Yes, No, 0
+344, Bernardo, Ribeiro, 39, Santos, Midfielder, 7634, 47, 55, 73, 17, 23, 69, Yes, No, 0
+345, Bernardo, Lopes, 31, São Paulo, Striker, 3382, 59, 62, 85, 57, 5, 86, No, No, 0
+346, Enzo, Moreira, 34, Flamengo, Midfielder, 4954, 44, 35, 55, 16, 74, 40, No, Yes, 3
+347, Cauã, Fernandes, 31, Athletico-PR, Sweeper, 6935, 61, 77, 88, 2, 77, 64, No, Yes, 5
+348, João, Moreira, 22, Palmeiras, Sweeper, 6293, 62, 65, 74, 74, 24, 74, Yes, Yes, 5
+349, Gustavo, Gonçalves, 17, Cruzeiro, Sweeper, 6334, 35, 40, 40, 20, 28, 48, Yes, No, 0
+350, Rafael, Lima, 33, Fluminense, Striker, 5729, 31, 2, 48, 30, 12, 67, Yes, No, 0
+351, Isaac, Cardoso, 38, Bahia, Defender, 2601, 42, 64, 4, 89, 29, 28, Yes, No, 0
+352, Eduardo, Lima, 23, Athletico-PR, Goalkepper, 9158, 34, 13, 16, 2, 61, 78, No, Yes, 11
+353, Lucas, Dias, 26, Santos, Sweeper, 6439, 39, 44, 18, 4, 91, 41, No, No, 0
+354, Isaac, Pereira, 31, América-MG, Striker, 8007, 53, 1, 15, 61, 98, 91, No, No, 0
+355, Gustavo, Nunes, 33, América-MG, Goalkepper, 5505, 52, 58, 66, 58, 28, 52, No, Yes, 7
+356, Enzo, Teixeira, 26, Palmeiras, Sweeper, 7574, 54, 21, 99, 53, 19, 81, No, No, 0
+357, Miguel, Gonçalves, 29, Botafogo, Sweeper, 4098, 53, 85, 88, 10, 71, 12, Yes, No, 0
+358, Arthur, Barbosa, 40, América-MG, Goalkepper, 1534, 41, 54, 81, 14, 17, 43, No, Yes, 9
+359, Thiago, Santos, 26, Atlético-MG, Midfielder, 2120, 41, 25, 39, 20, 90, 35, No, No, 0
+360, Caio, Carvalho, 16, Atlético-MG, Goalkepper, 5354, 57, 77, 47, 74, 33, 55, No, No, 0
+361, Gabriel, Carvalho, 33, Fortaleza, Midfielder, 9097, 70, 59, 69, 94, 87, 43, No, Yes, 6
+362, Matheus, Dias, 22, Fortaleza, Goalkepper, 7195, 63, 97, 95, 19, 24, 81, No, Yes, 2
+363, Felipe, Cardoso, 18, São Paulo, Striker, 1837, 50, 20, 98, 31, 17, 87, Yes, No, 0
+364, Henrique, Ferreira, 37, Fortaleza, Midfielder, 1094, 49, 5, 13, 85, 87, 57, Yes, No, 0
+365, Samuel, Dias, 18, Atlético-MG, Striker, 8739, 54, 14, 52, 61, 72, 73, Yes, No, 0
+366, Daniel, Oliveira, 35, Cruzeiro, Goalkepper, 2557, 33, 16, 58, 13, 52, 29, No, Yes, 1
+367, Vitor, Santana, 28, Flamengo, Goalkepper, 3573, 59, 67, 64, 40, 32, 96, Yes, Yes, 3
+368, Davi, Marques, 32, Bahia, Sweeper, 1319, 34, 36, 24, 37, 10, 64, No, No, 0
+369, Davi, Ramos, 38, Atlético-MG, Midfielder, 4930, 64, 72, 94, 21, 39, 97, No, No, 0
+370, Lorenzo, Carvalho, 28, Coritiba, Striker, 4315, 51, 55, 63, 63, 74, 3, Yes, No, 0
+371, Leonardo, Cardoso, 34, Cruzeiro, Goalkepper, 6227, 49, 72, 13, 52, 64, 44, Yes, Yes, 8
+372, Murilo, Moreira, 40, Vasco, Striker, 6574, 51, 19, 24, 43, 88, 82, No, Yes, 6
+373, João Gabriel, Andrade, 35, Botafogo, Defender, 8237, 17, 14, 33, 17, 2, 19, Yes, No, 0
+374, Gabriel, Souza, 22, Internacional, Sweeper, 6340, 58, 81, 85, 27, 33, 67, No, No, 0
+375, Lorenzo, Santana, 22, América-MG, Midfielder, 5436, 60, 22, 22, 85, 74, 98, Yes, No, 0
+376, Isaac, Soares, 37, Palmeiras, Midfielder, 3210, 53, 68, 26, 50, 54, 69, No, No, 0
+377, Bernardo, Vieira, 25, América-MG, Goalkepper, 3725, 55, 69, 36, 51, 98, 22, Yes, No, 0
+378, Matheus, Cardoso, 34, Fortaleza, Defender, 3271, 59, 3, 24, 81, 93, 98, Yes, No, 0
+379, Vitor, Mendes, 39, América-MG, Goalkepper, 3924, 36, 79, 28, 55, 11, 11, Yes, No, 0
+380, Gabriel, Carvalho, 22, Grêmio, Striker, 5489, 35, 12, 44, 41, 66, 12, No, Yes, 8
+381, João Gabriel, Moreira, 26, Athletico-PR, Striker, 4493, 61, 88, 89, 81, 43, 6, No, No, 0
+382, João Pedro, Machado, 25, Coritiba, Striker, 6443, 40, 26, 37, 98, 33, 8, No, Yes, 8
+383, Gustavo, Alves, 29, Fortaleza, Midfielder, 6758, 41, 36, 75, 88, 3, 6, No, Yes, 12
+384, Caio, Teixeira, 21, Corinthians, Goalkepper, 5355, 39, 29, 86, 35, 7, 38, No, Yes, 2
+385, Lucas, Gonçalves, 36, Cuiabá, Goalkepper, 9920, 34, 8, 4, 71, 81, 8, No, Yes, 10
+386, Gabriel, Cardoso, 19, Goiás, Midfielder, 4340, 49, 17, 45, 30, 82, 72, Yes, No, 0
+387, João, Barbosa, 23, Botafogo, Goalkepper, 9586, 43, 40, 19, 91, 29, 37, Yes, No, 0
+388, Felipe, Marques, 27, Internacional, Sweeper, 9811, 64, 54, 81, 79, 39, 71, Yes, No, 0
+389, Henrique, Rocha, 20, Flamengo, Goalkepper, 6141, 63, 19, 99, 77, 53, 71, Yes, Yes, 3
+390, Daniel, Barbosa, 35, Fortaleza, Striker, 8704, 54, 42, 70, 30, 45, 84, No, Yes, 11
+391, Cauã, Soares, 40, Cruzeiro, Goalkepper, 5385, 49, 13, 42, 69, 50, 73, No, Yes, 11
+392, Guilherme, Andrade, 35, Vasco, Defender, 8836, 59, 3, 59, 98, 99, 38, No, No, 0
+393, Vinicius, Pereira, 19, São Paulo, Defender, 8438, 36, 84, 54, 17, 15, 14, No, No, 0
+394, João, Silva, 36, Vasco, Midfielder, 4168, 43, 25, 21, 73, 73, 23, No, No, 0
+395, Felipe, Pereira, 39, Flamengo, Goalkepper, 8407, 60, 62, 93, 25, 66, 55, No, No, 0
+396, Lucca, Dias, 18, Bragantino, Defender, 1779, 47, 50, 23, 40, 37, 87, No, Yes, 1
+397, Arthur, Nascimento, 20, Cruzeiro, Striker, 8192, 72, 99, 88, 60, 35, 78, Yes, No, 0
+398, Murilo, Santana, 36, Bragantino, Sweeper, 3306, 47, 4, 71, 65, 95, 2, Yes, Yes, 2
+399, Cauã, Fernandes, 24, Vasco, Striker, 4934, 64, 93, 62, 83, 57, 27, No, No, 0
+400, Eduardo, Marques, 39, Atlético-MG, Striker, 7252, 51, 50, 22, 63, 50, 71, No, Yes, 5
+401, Cauã, Santana, 19, Santos, Midfielder, 4206, 49, 79, 16, 81, 50, 19, No, No, 0
+402, Guilherme, Ferreira, 31, Grêmio, Midfielder, 3178, 44, 65, 51, 63, 19, 26, No, Yes, 11
+403, Nicolas, Lima, 33, Cuiabá, Goalkepper, 3956, 45, 37, 38, 41, 39, 73, Yes, No, 0
+404, Henrique, Carvalho, 39, Palmeiras, Midfielder, 1318, 28, 40, 62, 13, 8, 19, Yes, Yes, 11
+405, Lucas, Alves, 25, Atlético-MG, Goalkepper, 3596, 22, 23, 4, 48, 7, 30, Yes, No, 0
+406, Caio, Carvalho, 24, Fortaleza, Sweeper, 3580, 56, 53, 58, 74, 34, 65, Yes, No, 0
+407, Felipe, Silva, 32, Bragantino, Sweeper, 5190, 49, 1, 94, 95, 15, 40, No, No, 0
+408, Pedro, Teixeira, 20, Athletico-PR, Defender, 8949, 48, 60, 10, 80, 18, 73, Yes, No, 0
+409, Vinicius, Teixeira, 30, Palmeiras, Goalkepper, 2573, 43, 65, 10, 90, 22, 28, Yes, No, 0
+410, Matheus, Almeida, 19, Cuiabá, Sweeper, 1688, 45, 50, 74, 10, 59, 33, No, Yes, 5
+411, Pedro, Mendes, 32, Bragantino, Defender, 2703, 49, 5, 70, 77, 3, 92, Yes, Yes, 12
+412, Pietro, Rodrigues, 28, Corinthians, Defender, 1075, 51, 1, 59, 66, 93, 38, No, Yes, 8
+413, Leonardo, Gonçalves, 20, Fortaleza, Goalkepper, 2539, 49, 44, 48, 68, 18, 68, Yes, Yes, 1
+414, Daniel, Almeida, 30, Santos, Striker, 2286, 66, 89, 87, 8, 70, 77, Yes, No, 0
+415, Lucca, Ferreira, 35, Bahia, Sweeper, 6921, 61, 3, 43, 80, 99, 83, No, Yes, 2
+416, Arthur, Ferreira, 32, Vasco, Midfielder, 9757, 31, 6, 17, 82, 36, 16, No, Yes, 1
+417, Gabriel, Freitas, 30, Bragantino, Striker, 1681, 55, 41, 88, 73, 7, 67, Yes, No, 0
+418, Pedro, Vieira, 39, Bahia, Striker, 5783, 39, 24, 78, 2, 39, 56, Yes, Yes, 1
+419, Gustavo, Ferreira, 23, Botafogo, Defender, 4622, 31, 73, 24, 5, 28, 26, Yes, No, 0
+420, Cauã, Marques, 21, Fluminense, Sweeper, 8910, 45, 90, 19, 11, 38, 71, No, No, 0
+421, Isaac, Almeida, 22, Palmeiras, Midfielder, 4408, 68, 26, 68, 97, 92, 61, No, Yes, 10
+422, Gustavo, Ferreira, 33, Internacional, Midfielder, 4044, 62, 55, 93, 24, 82, 57, No, No, 0
+423, Cauã, Dias, 40, São Paulo, Midfielder, 2242, 58, 81, 11, 81, 54, 63, No, Yes, 5
+424, Samuel, Silva, 39, Vasco, Midfielder, 5328, 44, 55, 50, 15, 81, 20, No, Yes, 1
+425, João Gabriel, Souza, 29, Flamengo, Goalkepper, 8506, 75, 92, 68, 98, 22, 95, Yes, Yes, 12
+426, Guilherme, Martins, 20, Santos, Sweeper, 3053, 34, 34, 64, 34, 15, 25, No, No, 0
+427, Pedro, Pereira, 35, Bragantino, Goalkepper, 5964, 32, 54, 14, 12, 60, 21, No, Yes, 1
+428, Gabriel, Nunes, 33, Internacional, Sweeper, 5928, 52, 13, 46, 50, 88, 67, No, No, 0
+429, Pedro, Freitas, 34, Fluminense, Defender, 3881, 65, 81, 81, 91, 35, 38, No, Yes, 5
+430, Bernardo, Rocha, 26, São Paulo, Striker, 9024, 47, 40, 1, 90, 57, 49, Yes, Yes, 3
+431, Guilherme, Nunes, 29, Bahia, Goalkepper, 4010, 39, 35, 39, 22, 45, 55, No, No, 0
+432, Lucca, Nunes, 27, Grêmio, Midfielder, 7142, 73, 50, 93, 60, 93, 73, Yes, No, 0
+433, Vitor, Pereira, 27, Cuiabá, Goalkepper, 5670, 50, 86, 60, 1, 12, 94, No, No, 0
+434, Isaac, Carvalho, 21, Goiás, Sweeper, 3927, 43, 18, 95, 27, 25, 54, Yes, Yes, 6
+435, Lucca, Pereira, 34, Grêmio, Defender, 8380, 77, 97, 84, 84, 49, 75, Yes, No, 0
+436, Leonardo, Silva, 33, Corinthians, Midfielder, 1759, 38, 70, 17, 79, 13, 15, No, No, 0
+437, Vitor, Souza, 20, Fortaleza, Sweeper, 6061, 40, 23, 28, 6, 99, 44, No, No, 0
+438, Lorenzo, Ramos, 17, América-MG, Striker, 5728, 45, 81, 32, 3, 95, 14, No, No, 0
+439, Vinicius, Santos, 23, Santos, Defender, 1501, 47, 22, 5, 94, 59, 55, No, Yes, 6
+440, Davi, Marques, 28, São Paulo, Midfielder, 5544, 42, 6, 65, 79, 61, 1, No, No, 0
+441, Matheus, Almeida, 29, Flamengo, Striker, 2506, 67, 26, 72, 91, 67, 79, Yes, Yes, 5
+442, João Vitor, Santana, 20, Fortaleza, Midfielder, 1774, 58, 60, 39, 46, 98, 51, Yes, Yes, 12
+443, Matheus, Andrade, 28, Fortaleza, Sweeper, 5309, 51, 2, 42, 82, 42, 91, No, No, 0
+444, Murilo, Gonçalves, 20, Corinthians, Goalkepper, 5606, 60, 23, 81, 88, 23, 85, Yes, Yes, 1
+445, João Pedro, Ferreira, 40, Fluminense, Striker, 3183, 54, 77, 34, 15, 60, 84, Yes, Yes, 9
+446, Bernardo, Cardoso, 30, Corinthians, Midfielder, 5789, 32, 10, 5, 57, 18, 71, Yes, Yes, 1
+447, Lorenzo, Costa, 22, Bahia, Goalkepper, 2373, 33, 31, 20, 36, 48, 30, No, Yes, 1
+448, Matheus, Rocha, 22, São Paulo, Sweeper, 2024, 78, 73, 42, 88, 93, 94, No, Yes, 9
+449, Murilo, Freitas, 34, Santos, Sweeper, 5827, 69, 72, 89, 8, 97, 81, No, No, 0
+450, Lucas, Lima, 34, Coritiba, Goalkepper, 6022, 41, 18, 6, 16, 70, 97, No, No, 0
+451, Murilo, Nunes, 27, Atlético-MG, Sweeper, 3087, 44, 56, 37, 36, 90, 5, Yes, No, 0
+452, Samuel, Santana, 38, Vasco, Midfielder, 4947, 49, 29, 70, 92, 42, 12, No, No, 0
+453, Davi, Fernandes, 24, Botafogo, Goalkepper, 2274, 40, 34, 23, 5, 50, 91, Yes, No, 0
+454, Murilo, Gonçalves, 18, Coritiba, Striker, 1202, 38, 87, 19, 3, 67, 16, No, No, 0
+455, Arthur, Almeida, 39, Bahia, Defender, 2216, 48, 52, 98, 34, 51, 9, Yes, No, 0
+456, Guilherme, Santos, 20, Corinthians, Striker, 4765, 68, 62, 75, 49, 86, 72, No, Yes, 12
+457, Lucas, Freitas, 35, América-MG, Goalkepper, 6400, 44, 24, 85, 36, 11, 68, No, Yes, 4
+458, Felipe, Barbosa, 19, Fluminense, Sweeper, 4432, 58, 62, 30, 64, 92, 46, No, No, 0
+459, Leonardo, Lopes, 40, Goiás, Sweeper, 4917, 72, 92, 80, 96, 62, 31, No, No, 0
+460, João Gabriel, Cardoso, 22, Fortaleza, Striker, 2901, 70, 85, 76, 68, 61, 62, No, No, 0
+461, Caio, Costa, 34, Grêmio, Midfielder, 5036, 31, 39, 11, 34, 45, 28, Yes, Yes, 12
+462, Eduardo, Lima, 28, Internacional, Defender, 1505, 62, 82, 1, 66, 87, 75, Yes, No, 0
+463, Vitor, Moreira, 30, Fortaleza, Sweeper, 5233, 44, 6, 87, 60, 22, 45, Yes, No, 0
+464, Lorenzo, Ribeiro, 25, Athletico-PR, Sweeper, 3366, 64, 65, 76, 93, 34, 56, Yes, Yes, 7
+465, Caio, Barbosa, 26, Athletico-PR, Striker, 6555, 36, 10, 19, 34, 27, 93, No, Yes, 9
+466, Pedro, Ribeiro, 32, Botafogo, Defender, 1198, 68, 85, 80, 62, 87, 27, Yes, Yes, 2
+467, Samuel, Pereira, 38, Goiás, Defender, 1557, 32, 22, 8, 96, 37, 1, No, No, 0
+468, Cauã, Dias, 37, Fluminense, Sweeper, 1736, 68, 84, 13, 77, 94, 73, Yes, No, 0
+469, Vinicius, Marques, 17, Internacional, Striker, 1111, 52, 63, 65, 28, 79, 25, Yes, No, 0
+470, Lucca, Andrade, 29, Santos, Defender, 7901, 66, 71, 34, 72, 72, 85, No, Yes, 11
+471, Caio, Nascimento, 24, Bahia, Defender, 2424, 66, 80, 84, 52, 27, 87, No, Yes, 8
+472, Heitor, Alves, 38, Cruzeiro, Midfielder, 2998, 74, 77, 79, 99, 22, 94, No, Yes, 7
+473, Matheus, Soares, 34, Atlético-MG, Defender, 2509, 61, 40, 67, 76, 72, 53, Yes, Yes, 12
+474, Vitor, Lima, 36, Grêmio, Sweeper, 7798, 51, 64, 30, 26, 81, 54, Yes, Yes, 11
+475, João Pedro, Marques, 38, Flamengo, Defender, 1788, 62, 78, 27, 96, 44, 67, No, No, 0
+476, Guilherme, Lima, 27, Cuiabá, Defender, 2099, 33, 20, 61, 36, 26, 22, Yes, Yes, 12
+477, Lorenzo, Marques, 32, Corinthians, Striker, 2782, 43, 14, 63, 34, 44, 62, No, Yes, 12
+478, Vinicius, Santana, 40, Grêmio, Midfielder, 2238, 30, 36, 33, 39, 10, 36, No, Yes, 7
+479, Henrique, Lima, 32, Bragantino, Defender, 1267, 78, 91, 73, 63, 87, 79, Yes, No, 0
+480, Daniel, Barbosa, 38, Vasco, Sweeper, 6256, 30, 15, 30, 10, 40, 57, No, Yes, 4
+481, Lucas, Santana, 21, São Paulo, Striker, 3014, 35, 68, 70, 23, 9, 9, Yes, Yes, 9
+482, Guilherme, Pereira, 36, Flamengo, Defender, 2159, 59, 3, 85, 93, 47, 67, Yes, No, 0
+483, Murilo, Mendes, 37, Goiás, Goalkepper, 8098, 52, 74, 56, 53, 17, 60, Yes, Yes, 10
+484, Henrique, Silva, 23, América-MG, Striker, 6074, 24, 12, 41, 4, 63, 3, Yes, Yes, 1
+485, Lorenzo, Vieira, 32, Bragantino, Midfielder, 4178, 33, 11, 67, 15, 72, 1, Yes, Yes, 4
+486, Diego, Ferreira, 18, Fluminense, Sweeper, 3807, 41, 56, 36, 4, 97, 14, No, No, 0
+487, Pedro, Nascimento, 26, Atlético-MG, Sweeper, 2455, 65, 80, 86, 70, 15, 74, Yes, Yes, 9
+488, Vinicius, Pereira, 33, Fluminense, Defender, 7040, 41, 73, 74, 28, 16, 14, No, No, 0
+489, Felipe, Mendes, 34, Athletico-PR, Defender, 9689, 76, 86, 93, 99, 57, 47, Yes, Yes, 11
+490, Heitor, Martins, 26, Vasco, Defender, 2307, 42, 44, 29, 68, 20, 50, Yes, No, 0
+491, Daniel, Cardoso, 34, Goiás, Sweeper, 6327, 63, 97, 32, 18, 72, 96, Yes, No, 0
+492, Caio, Mendes, 25, Flamengo, Midfielder, 1166, 58, 87, 97, 12, 74, 21, Yes, Yes, 1
+493, Diego, Ribeiro, 31, Bragantino, Sweeper, 8871, 46, 18, 22, 18, 76, 96, Yes, Yes, 9
+494, Bernardo, Soares, 19, Vasco, Sweeper, 7544, 48, 33, 57, 4, 71, 78, No, Yes, 1
+495, Matheus, Cardoso, 31, Fluminense, Striker, 3129, 43, 93, 49, 58, 16, 1, Yes, No, 0
+496, João Vitor, Gomes, 21, América-MG, Defender, 3163, 84, 98, 97, 86, 86, 56, Yes, No, 0
+497, Cauã, Silva, 16, Cruzeiro, Striker, 6866, 39, 13, 2, 3, 83, 98, Yes, No, 0
+498, Lorenzo, Lopes, 28, Cruzeiro, Midfielder, 7093, 52, 47, 9, 86, 65, 53, No, No, 0
+499, Lucas, Santos, 19, Bahia, Goalkepper, 3188, 75, 93, 55, 89, 88, 51, Yes, No, 0
+500, Gabriel, Freitas, 40, Palmeiras, Midfielder, 3836, 47, 62, 13, 59, 94, 7, No, No, 0
+501, Caio, Andrade, 22, Cruzeiro, Striker, 3328, 61, 77, 32, 96, 98, 6, Yes, No, 0
+502, Diego, Costa, 20, São Paulo, Midfielder, 3094, 33, 80, 57, 1, 30, 1, Yes, Yes, 9
+503, Lucca, Machado, 26, Santos, Goalkepper, 7481, 68, 16, 97, 83, 58, 87, Yes, Yes, 12
+504, Miguel, Carvalho, 32, Grêmio, Sweeper, 6777, 31, 55, 75, 3, 11, 12, Yes, Yes, 7
+505, Pedro, Santos, 23, Internacional, Goalkepper, 5458, 52, 6, 45, 98, 16, 99, No, No, 0
+506, Thiago, Costa, 25, Corinthians, Sweeper, 4987, 64, 40, 50, 89, 68, 75, No, Yes, 6
+507, Diego, Lopes, 33, Grêmio, Goalkepper, 3879, 47, 75, 12, 30, 89, 30, No, Yes, 3
+508, Henrique, Souza, 28, Palmeiras, Goalkepper, 8976, 45, 37, 74, 37, 31, 46, Yes, Yes, 1
+509, Bernardo, Silva, 18, Botafogo, Defender, 7379, 53, 92, 6, 67, 73, 28, Yes, Yes, 10
+510, Pietro, Oliveira, 22, Fluminense, Goalkepper, 8239, 48, 11, 98, 69, 18, 48, No, No, 0
+511, Gustavo, Santana, 24, São Paulo, Sweeper, 9629, 48, 89, 42, 14, 4, 94, Yes, No, 0
+512, Davi, Nunes, 35, Grêmio, Midfielder, 1038, 35, 6, 72, 6, 32, 63, Yes, No, 0
+513, Pedro, Silva, 38, Bahia, Striker, 1251, 34, 50, 28, 58, 16, 22, Yes, Yes, 9
+514, Leonardo, Ferreira, 22, Internacional, Sweeper, 4944, 37, 7, 14, 47, 82, 36, No, Yes, 11
+515, Miguel, Nascimento, 24, Flamengo, Goalkepper, 9417, 42, 48, 37, 42, 85, 1, Yes, Yes, 10
+516, Samuel, Pereira, 31, Fortaleza, Defender, 2328, 42, 70, 26, 60, 18, 37, No, Yes, 7
+517, Cauã, Vieira, 39, Goiás, Defender, 6194, 68, 69, 85, 23, 78, 89, Yes, Yes, 10
+518, Henrique, Vieira, 36, São Paulo, Sweeper, 4037, 46, 43, 23, 57, 66, 41, No, Yes, 9
+519, Felipe, Alves, 35, Grêmio, Striker, 9300, 43, 51, 34, 60, 40, 31, No, No, 0
+520, Nicolas, Santana, 17, Athletico-PR, Goalkepper, 5636, 47, 55, 11, 27, 74, 71, No, No, 0
+521, Gustavo, Oliveira, 22, Cruzeiro, Sweeper, 1071, 60, 91, 34, 33, 96, 46, Yes, Yes, 12
+522, Vinicius, Gonçalves, 31, Atlético-MG, Striker, 1805, 67, 19, 64, 91, 95, 67, No, Yes, 12
+523, Davi, Alves, 23, Bahia, Midfielder, 2776, 39, 29, 19, 12, 58, 81, Yes, No, 0
+524, Guilherme, Ramos, 35, Santos, Striker, 5121, 56, 81, 76, 20, 83, 22, No, Yes, 1
+525, Cauã, Cardoso, 34, Corinthians, Defender, 6195, 48, 50, 43, 64, 22, 65, Yes, Yes, 10
+526, Guilherme, Mendes, 18, Fluminense, Striker, 3928, 58, 86, 3, 67, 91, 43, No, No, 0
+527, Arthur, Carvalho, 17, Santos, Striker, 1366, 23, 9, 18, 44, 36, 12, No, Yes, 5
+528, João Gabriel, Ribeiro, 19, Botafogo, Sweeper, 3641, 52, 60, 95, 10, 84, 14, Yes, Yes, 1
+529, Pedro, Rodrigues, 19, Flamengo, Defender, 1450, 54, 63, 43, 75, 29, 64, No, No, 0
+530, Enzo, Marques, 31, Grêmio, Sweeper, 1295, 39, 3, 74, 87, 31, 2, No, No, 0
+531, Lucca, Barbosa, 20, Coritiba, Midfielder, 8956, 56, 41, 54, 30, 97, 60, Yes, No, 0
+532, Bernardo, Costa, 31, Flamengo, Striker, 8244, 49, 67, 93, 52, 14, 20, Yes, No, 0
+533, Leonardo, Rodrigues, 30, América-MG, Sweeper, 2776, 52, 72, 8, 90, 82, 12, No, Yes, 8
+534, Eduardo, Gonçalves, 20, Corinthians, Defender, 2156, 73, 60, 82, 87, 96, 42, No, Yes, 5
+535, Bernardo, Freitas, 40, Palmeiras, Sweeper, 6064, 65, 45, 95, 29, 73, 86, No, Yes, 2
+536, Lorenzo, Barbosa, 21, Internacional, Striker, 1544, 35, 66, 34, 3, 30, 45, No, No, 0
+537, Lucca, Rodrigues, 28, Flamengo, Goalkepper, 2838, 38, 5, 82, 71, 22, 11, No, Yes, 9
+538, Leonardo, Lima, 30, Cuiabá, Goalkepper, 9006, 57, 46, 67, 70, 18, 84, No, Yes, 8
+539, Felipe, Teixeira, 19, Bahia, Sweeper, 6674, 51, 23, 87, 18, 74, 55, No, No, 0
+540, João Pedro, Pereira, 33, Fortaleza, Sweeper, 6117, 74, 95, 55, 67, 71, 84, No, Yes, 1
+541, Eduardo, Pereira, 31, Bahia, Sweeper, 5289, 53, 58, 30, 91, 55, 34, No, Yes, 7
+542, João Pedro, Gomes, 17, Cruzeiro, Midfielder, 6543, 29, 5, 36, 15, 46, 45, Yes, Yes, 11
+543, Heitor, Lima, 24, Botafogo, Defender, 2815, 56, 93, 37, 81, 20, 49, No, Yes, 3
+544, Samuel, Soares, 30, Athletico-PR, Midfielder, 5026, 43, 8, 86, 32, 24, 66, No, No, 0
+545, Gustavo, Costa, 22, Grêmio, Defender, 6320, 64, 92, 50, 52, 97, 33, No, No, 0
+546, Felipe, Gomes, 26, Bahia, Goalkepper, 5720, 59, 97, 94, 13, 51, 41, Yes, Yes, 10
+547, Gustavo, Santana, 28, Goiás, Goalkepper, 8183, 60, 75, 80, 82, 18, 49, Yes, Yes, 8
+548, Lucas, Teixeira, 34, Grêmio, Sweeper, 7394, 73, 63, 85, 77, 43, 99, Yes, Yes, 10
+549, Gustavo, Marques, 18, Bahia, Defender, 6175, 29, 49, 26, 27, 5, 40, Yes, Yes, 1
+550, João Vitor, Oliveira, 17, Athletico-PR, Defender, 1135, 47, 36, 65, 65, 39, 31, Yes, No, 0
+551, Bernardo, Andrade, 19, Flamengo, Goalkepper, 2919, 30, 56, 34, 21, 18, 25, Yes, No, 0
+552, Gabriel, Rodrigues, 19, Cruzeiro, Midfielder, 5067, 54, 65, 58, 21, 31, 97, Yes, Yes, 11
+553, João Pedro, Ramos, 37, Santos, Goalkepper, 3610, 52, 63, 80, 1, 89, 30, Yes, Yes, 7
+554, Samuel, Marques, 22, Bragantino, Striker, 9426, 31, 44, 4, 6, 48, 54, Yes, No, 0
+555, Arthur, Andrade, 28, Santos, Striker, 5445, 55, 5, 51, 47, 78, 94, No, No, 0
+556, Rafael, Gonçalves, 40, Fortaleza, Striker, 7557, 47, 21, 4, 96, 38, 76, No, Yes, 7
+557, Vitor, Marques, 31, Corinthians, Sweeper, 6352, 74, 93, 97, 42, 99, 42, Yes, No, 0
+558, Caio, Martins, 16, Palmeiras, Sweeper, 7869, 43, 81, 6, 82, 18, 30, Yes, Yes, 1
+559, Vitor, Dias, 17, Bragantino, Striker, 4376, 44, 34, 56, 75, 9, 48, No, Yes, 5
+560, Matheus, Ribeiro, 21, Santos, Goalkepper, 8757, 23, 5, 68, 38, 1, 3, No, No, 0
+561, Vinicius, Soares, 33, Goiás, Midfielder, 8245, 42, 69, 58, 10, 28, 47, No, No, 0
+562, Leonardo, Gonçalves, 34, Athletico-PR, Midfielder, 6468, 35, 1, 32, 27, 95, 22, Yes, No, 0
+563, João Gabriel, Nunes, 26, Goiás, Midfielder, 6663, 74, 30, 80, 97, 80, 87, No, No, 0
+564, Matheus, Dias, 19, Botafogo, Striker, 4852, 43, 48, 55, 13, 31, 69, No, No, 0
+565, Heitor, Marques, 28, Santos, Striker, 1538, 33, 41, 70, 2, 27, 28, No, Yes, 12
+566, Pietro, Machado, 38, Fortaleza, Goalkepper, 7688, 60, 84, 32, 26, 88, 74, No, No, 0
+567, Arthur, Ferreira, 37, Vasco, Defender, 9683, 43, 38, 5, 67, 51, 54, Yes, Yes, 3
+568, Vitor, Soares, 25, Cuiabá, Defender, 6174, 34, 87, 42, 13, 10, 19, No, Yes, 4
+569, Isaac, Souza, 30, Bragantino, Goalkepper, 7522, 61, 51, 26, 82, 83, 63, Yes, Yes, 7
+570, Diego, Gomes, 38, Athletico-PR, Striker, 8835, 34, 27, 27, 2, 35, 81, Yes, Yes, 2
+571, Murilo, Alves, 16, Fluminense, Striker, 1388, 44, 74, 32, 4, 96, 14, No, Yes, 9
+572, Arthur, Oliveira, 20, Internacional, Midfielder, 5291, 29, 6, 17, 54, 37, 35, Yes, No, 0
+573, Murilo, Almeida, 32, Cruzeiro, Defender, 9540, 49, 84, 7, 55, 6, 93, No, Yes, 7
+574, Isaac, Teixeira, 32, Atlético-MG, Sweeper, 7466, 52, 38, 78, 57, 35, 53, No, No, 0
+575, Gabriel, Souza, 29, Santos, Goalkepper, 4740, 52, 13, 70, 99, 70, 10, Yes, Yes, 11
+576, Arthur, Teixeira, 40, Fortaleza, Defender, 3587, 58, 18, 26, 93, 58, 98, No, Yes, 4
+577, Vinicius, Fernandes, 29, América-MG, Defender, 9782, 40, 17, 26, 60, 17, 84, No, Yes, 9
+578, Vinicius, Marques, 37, Grêmio, Defender, 1649, 33, 18, 31, 22, 19, 75, No, Yes, 12
+579, Vitor, Rodrigues, 24, Bragantino, Striker, 6463, 67, 79, 43, 59, 69, 86, No, No, 0
+580, Guilherme, Ramos, 27, Goiás, Defender, 4441, 56, 96, 38, 37, 95, 14, No, No, 0
+581, Guilherme, Ramos, 19, Palmeiras, Striker, 4182, 59, 45, 48, 35, 81, 90, No, Yes, 9
+582, Heitor, Andrade, 25, Fluminense, Goalkepper, 1020, 44, 49, 11, 13, 82, 67, No, Yes, 6
+583, Heitor, Silva, 25, Goiás, Midfielder, 2389, 64, 47, 36, 95, 92, 54, No, No, 0
+584, Lorenzo, Gonçalves, 37, Bahia, Defender, 1112, 41, 18, 13, 81, 22, 71, Yes, Yes, 12
+585, Heitor, Martins, 34, Corinthians, Goalkepper, 1629, 76, 76, 69, 98, 43, 95, Yes, No, 0
+586, Rafael, Ramos, 18, Botafogo, Defender, 3990, 65, 63, 75, 36, 79, 74, Yes, No, 0
+587, Caio, Vieira, 22, Vasco, Sweeper, 6600, 51, 79, 58, 22, 42, 55, No, No, 0
+588, Gustavo, Santos, 28, Corinthians, Goalkepper, 8988, 48, 33, 41, 55, 33, 78, Yes, No, 0
+589, Guilherme, Almeida, 23, Goiás, Defender, 8761, 52, 84, 75, 12, 43, 48, No, Yes, 5
+590, Murilo, Silva, 18, Botafogo, Striker, 8845, 27, 3, 87, 1, 23, 24, Yes, No, 0
+591, Davi, Silva, 37, Athletico-PR, Midfielder, 8889, 42, 80, 22, 37, 24, 48, No, Yes, 8
+592, Matheus, Rodrigues, 29, Athletico-PR, Sweeper, 5112, 59, 34, 68, 62, 76, 55, Yes, No, 0
+593, Leonardo, Santana, 17, Cuiabá, Goalkepper, 9222, 50, 41, 42, 71, 56, 41, No, Yes, 12
+594, Nicolas, Lopes, 33, Flamengo, Midfielder, 3697, 55, 72, 70, 79, 17, 40, No, Yes, 4
+595, Miguel, Silva, 21, Goiás, Goalkepper, 3417, 52, 64, 15, 28, 74, 81, No, No, 0
+596, Eduardo, Lima, 27, Bragantino, Goalkepper, 9606, 42, 46, 87, 16, 61, 3, No, No, 0
+597, Rafael, Rodrigues, 31, Corinthians, Defender, 8115, 69, 76, 94, 87, 77, 12, No, No, 0
+598, Rafael, Alves, 35, Grêmio, Striker, 9252, 37, 37, 53, 16, 38, 42, No, Yes, 4
+599, Arthur, Fernandes, 32, Bragantino, Defender, 2402, 62, 85, 42, 58, 40, 88, No, No, 0
+600, João Vitor, Rocha, 26, Palmeiras, Sweeper, 5385, 39, 46, 60, 46, 1, 42, No, Yes, 11
+601, Vitor, Fernandes, 20, Coritiba, Striker, 4903, 36, 39, 15, 75, 13, 39, No, No, 0
+602, Lucas, Ramos, 26, América-MG, Goalkepper, 4436, 47, 44, 82, 52, 21, 37, No, No, 0
+603, Enzo, Ribeiro, 34, Santos, Goalkepper, 5391, 61, 93, 97, 48, 50, 19, Yes, No, 0
+604, Pedro, Dias, 22, Botafogo, Goalkepper, 2283, 74, 47, 84, 76, 94, 70, No, No, 0
+605, Murilo, Pereira, 18, Atlético-MG, Defender, 6522, 51, 98, 60, 24, 56, 17, No, No, 0
+606, Pietro, Mendes, 22, Vasco, Defender, 9571, 26, 21, 2, 23, 74, 11, No, Yes, 3
+607, Thiago, Oliveira, 31, Botafogo, Goalkepper, 9728, 46, 52, 99, 4, 75, 3, Yes, No, 0
+608, Murilo, Santana, 38, Goiás, Sweeper, 2901, 45, 36, 33, 44, 29, 87, No, No, 0
+609, Gabriel, Santos, 22, Corinthians, Midfielder, 5658, 66, 48, 73, 73, 68, 70, No, No, 0
+610, Cauã, Lima, 19, Fluminense, Sweeper, 4884, 53, 25, 69, 29, 91, 54, Yes, Yes, 8
+611, Arthur, Machado, 24, Bragantino, Defender, 2065, 63, 38, 54, 67, 75, 82, Yes, Yes, 6
+612, Leonardo, Martins, 23, Fortaleza, Goalkepper, 2979, 50, 72, 91, 1, 29, 57, No, No, 0
+613, Vitor, Souza, 16, Fluminense, Midfielder, 1967, 34, 58, 13, 28, 37, 36, No, Yes, 9
+614, Rafael, Freitas, 28, Bahia, Midfielder, 5312, 60, 93, 34, 32, 92, 52, Yes, No, 0
+615, Arthur, Teixeira, 25, Athletico-PR, Sweeper, 7925, 40, 49, 44, 11, 56, 41, No, No, 0
+616, Matheus, Nascimento, 38, Cruzeiro, Midfielder, 5539, 67, 78, 49, 20, 99, 91, Yes, No, 0
+617, Pedro, Vieira, 16, Cuiabá, Midfielder, 1523, 63, 73, 4, 66, 93, 79, Yes, No, 0
+618, Arthur, Cardoso, 29, Santos, Sweeper, 1428, 53, 10, 61, 68, 51, 75, Yes, No, 0
+619, Gabriel, Freitas, 40, Flamengo, Goalkepper, 7436, 64, 72, 63, 33, 68, 84, Yes, Yes, 9
+620, Miguel, Teixeira, 24, Coritiba, Striker, 2668, 60, 56, 78, 7, 69, 92, No, Yes, 7
+621, Vitor, Lopes, 19, Santos, Striker, 4926, 64, 71, 75, 11, 88, 76, No, No, 0
+622, João Vitor, Cardoso, 22, Internacional, Sweeper, 2966, 70, 54, 90, 70, 71, 69, Yes, Yes, 10
+623, Eduardo, Andrade, 17, Atlético-MG, Defender, 3377, 63, 36, 55, 85, 74, 69, No, Yes, 10
+624, Nicolas, Cardoso, 26, Internacional, Striker, 7193, 51, 66, 27, 45, 99, 22, Yes, Yes, 11
+625, Henrique, Nunes, 16, América-MG, Striker, 8321, 46, 69, 45, 23, 31, 63, Yes, Yes, 9
+626, Felipe, Moreira, 36, Athletico-PR, Goalkepper, 6265, 54, 15, 57, 81, 25, 94, Yes, Yes, 1
+627, Rafael, Machado, 31, Bahia, Goalkepper, 3356, 54, 39, 45, 50, 97, 39, No, Yes, 1
+628, João Pedro, Mendes, 33, Coritiba, Sweeper, 4142, 44, 31, 69, 38, 73, 9, Yes, No, 0
+629, Diego, Ramos, 38, Palmeiras, Defender, 4427, 44, 43, 27, 52, 12, 88, Yes, Yes, 5
+630, Vitor, Andrade, 20, Goiás, Striker, 4833, 33, 82, 15, 34, 20, 16, Yes, No, 0
+631, Guilherme, Rocha, 40, Internacional, Defender, 8364, 44, 1, 52, 24, 56, 87, No, No, 0
+632, Heitor, Dias, 19, Coritiba, Defender, 1347, 50, 66, 10, 4, 84, 86, No, No, 0
+633, Guilherme, Gonçalves, 22, Coritiba, Midfielder, 2092, 59, 13, 43, 99, 49, 92, No, No, 0
+634, Murilo, Barbosa, 37, Cruzeiro, Striker, 7968, 47, 55, 46, 74, 36, 24, No, Yes, 10
+635, Daniel, Almeida, 16, Fortaleza, Defender, 8212, 60, 56, 40, 51, 98, 58, Yes, Yes, 8
+636, Vinicius, Nascimento, 20, América-MG, Striker, 2353, 34, 66, 28, 12, 25, 40, Yes, Yes, 6
+637, João Vitor, Oliveira, 27, Botafogo, Goalkepper, 5614, 56, 75, 33, 65, 69, 40, Yes, No, 0
+638, Pedro, Martins, 17, Bragantino, Defender, 6128, 34, 7, 63, 33, 24, 46, Yes, Yes, 3
+639, Thiago, Nascimento, 31, Coritiba, Sweeper, 3830, 55, 28, 16, 95, 76, 61, Yes, Yes, 1
+640, Nicolas, Pereira, 35, Botafogo, Striker, 8806, 54, 37, 98, 94, 2, 40, No, Yes, 2
+641, Isaac, Alves, 16, Santos, Goalkepper, 6942, 51, 15, 81, 69, 73, 21, Yes, No, 0
+642, Arthur, Freitas, 17, América-MG, Striker, 3626, 48, 88, 78, 25, 47, 4, No, No, 0
+643, Lorenzo, Ribeiro, 32, Corinthians, Defender, 6913, 63, 7, 84, 48, 99, 78, Yes, Yes, 9
+644, Vinicius, Costa, 26, Fortaleza, Defender, 4493, 49, 34, 87, 4, 82, 38, No, No, 0
+645, Rafael, Santos, 23, Fluminense, Midfielder, 1908, 37, 80, 54, 27, 15, 13, Yes, Yes, 10
+646, Vitor, Santana, 16, Athletico-PR, Striker, 4917, 40, 23, 25, 80, 47, 25, No, Yes, 10
+647, Cauã, Almeida, 26, Cuiabá, Defender, 6445, 51, 41, 79, 17, 60, 58, Yes, No, 0
+648, Pietro, Almeida, 26, Vasco, Defender, 9272, 57, 75, 50, 77, 41, 46, Yes, Yes, 6
+649, Daniel, Nunes, 34, Internacional, Goalkepper, 5403, 64, 43, 60, 96, 47, 77, Yes, No, 0
+650, Enzo, Santos, 39, Internacional, Midfielder, 4294, 37, 35, 16, 2, 75, 57, No, Yes, 6
+651, Heitor, Soares, 18, Grêmio, Sweeper, 7988, 48, 10, 3, 62, 85, 83, No, Yes, 1
+652, Daniel, Nunes, 36, Atlético-MG, Sweeper, 3514, 48, 71, 22, 34, 34, 80, Yes, Yes, 8
+653, João Vitor, Nascimento, 17, Grêmio, Midfielder, 3564, 40, 73, 10, 41, 45, 31, Yes, Yes, 6
+654, Gustavo, Nunes, 25, Corinthians, Defender, 9722, 25, 47, 4, 26, 44, 8, Yes, Yes, 3
+655, Enzo, Andrade, 27, Cuiabá, Goalkepper, 9187, 55, 22, 31, 88, 83, 52, Yes, Yes, 12
+656, Rafael, Marques, 20, Cruzeiro, Goalkepper, 1935, 20, 14, 6, 15, 23, 46, Yes, Yes, 5
+657, Enzo, Andrade, 38, Grêmio, Midfielder, 9423, 59, 47, 50, 79, 24, 99, Yes, No, 0
+658, Davi, Andrade, 35, América-MG, Goalkepper, 2389, 61, 82, 28, 14, 93, 90, No, No, 0
+659, Nicolas, Santana, 32, Grêmio, Sweeper, 7937, 54, 75, 75, 23, 8, 92, No, No, 0
+660, João, Alves, 40, Palmeiras, Midfielder, 2841, 38, 27, 64, 46, 27, 28, Yes, No, 0
+661, Murilo, Martins, 21, Cuiabá, Goalkepper, 5056, 52, 14, 98, 38, 87, 23, Yes, Yes, 4
+662, Thiago, Lopes, 20, Vasco, Midfielder, 4906, 37, 15, 14, 98, 4, 56, Yes, No, 0
+663, Vitor, Machado, 18, Fluminense, Striker, 7227, 45, 20, 74, 27, 30, 74, No, No, 0
+664, Leonardo, Dias, 22, Fortaleza, Sweeper, 1504, 36, 18, 54, 88, 4, 18, Yes, No, 0
+665, Pedro, Santos, 35, Internacional, Midfielder, 4305, 41, 43, 74, 12, 34, 42, No, Yes, 9
+666, Vinicius, Vieira, 21, Goiás, Goalkepper, 5294, 45, 81, 16, 36, 57, 37, No, No, 0
+667, Thiago, Nunes, 36, Atlético-MG, Striker, 3397, 34, 88, 13, 24, 25, 23, No, No, 0
+668, Bernardo, Marques, 34, Internacional, Striker, 3740, 46, 45, 1, 22, 71, 91, Yes, No, 0
+669, Diego, Nunes, 34, Internacional, Sweeper, 6062, 61, 84, 90, 34, 92, 6, No, No, 0
+670, Pietro, Nunes, 39, Vasco, Striker, 8562, 56, 60, 91, 78, 2, 50, Yes, Yes, 9
+671, Vitor, Fernandes, 20, Fluminense, Goalkepper, 3897, 80, 93, 97, 31, 94, 87, No, Yes, 7
+672, João Pedro, Moreira, 33, Internacional, Sweeper, 1465, 36, 56, 27, 42, 9, 46, Yes, Yes, 7
+673, Felipe, Pereira, 36, Santos, Sweeper, 1293, 63, 89, 21, 58, 69, 81, No, No, 0
+674, Miguel, Martins, 17, Corinthians, Striker, 3772, 54, 44, 60, 6, 96, 66, No, Yes, 7
+675, João Gabriel, Souza, 25, Goiás, Defender, 9133, 60, 77, 62, 50, 50, 61, No, No, 0
+676, Lorenzo, Moreira, 22, Cruzeiro, Sweeper, 3466, 44, 47, 31, 59, 81, 5, Yes, Yes, 5
+677, Leonardo, Ferreira, 20, Palmeiras, Defender, 6693, 50, 22, 89, 21, 22, 96, No, Yes, 2
+678, Lorenzo, Rodrigues, 37, Bahia, Sweeper, 4846, 50, 96, 52, 84, 6, 12, No, No, 0
+679, Lorenzo, Fernandes, 28, Cuiabá, Striker, 2272, 52, 29, 97, 50, 78, 6, No, No, 0
+680, Davi, Machado, 35, Atlético-MG, Midfielder, 1334, 48, 92, 67, 42, 34, 8, Yes, Yes, 6
+681, Leonardo, Gomes, 28, América-MG, Defender, 9461, 43, 31, 62, 40, 53, 30, No, No, 0
+682, Pedro, Andrade, 17, Palmeiras, Striker, 6200, 47, 52, 98, 16, 54, 19, No, Yes, 7
+683, Eduardo, Moreira, 24, Coritiba, Goalkepper, 7073, 61, 37, 99, 86, 3, 81, No, Yes, 5
+684, Rafael, Soares, 32, São Paulo, Midfielder, 6147, 48, 15, 21, 47, 62, 95, Yes, Yes, 4
+685, Arthur, Ribeiro, 36, Fluminense, Goalkepper, 7573, 29, 7, 23, 63, 20, 34, Yes, No, 0
+686, Henrique, Freitas, 21, Bahia, Sweeper, 2389, 45, 5, 73, 87, 34, 29, No, No, 0
+687, Caio, Teixeira, 19, Vasco, Midfielder, 9836, 47, 91, 83, 25, 7, 33, No, Yes, 1
+688, Daniel, Rodrigues, 19, Fortaleza, Striker, 8371, 63, 88, 26, 39, 87, 75, No, No, 0
+689, Daniel, Moreira, 36, América-MG, Goalkepper, 5145, 51, 1, 43, 97, 70, 46, No, No, 0
+690, Gustavo, Teixeira, 36, Cruzeiro, Midfielder, 3379, 47, 62, 4, 96, 6, 68, No, Yes, 11
+691, Lucca, Alves, 39, Coritiba, Sweeper, 7222, 34, 23, 36, 25, 87, 1, Yes, Yes, 5
+692, Cauã, Santana, 20, Corinthians, Midfielder, 2755, 55, 19, 33, 93, 63, 68, Yes, Yes, 12
+693, Nicolas, Carvalho, 31, Bahia, Goalkepper, 3382, 47, 31, 28, 87, 90, 2, Yes, Yes, 2
+694, Caio, Machado, 39, Fluminense, Sweeper, 5791, 62, 88, 74, 1, 66, 84, Yes, No, 0
+695, Diego, Fernandes, 16, São Paulo, Midfielder, 3594, 50, 9, 78, 59, 18, 88, Yes, No, 0
+696, Lucas, Santos, 38, América-MG, Defender, 1994, 43, 19, 62, 44, 82, 11, Yes, No, 0
+697, Isaac, Santos, 29, Bahia, Goalkepper, 6674, 52, 53, 72, 54, 45, 38, Yes, Yes, 6
+698, Miguel, Vieira, 38, Cruzeiro, Sweeper, 8756, 38, 72, 65, 7, 35, 12, No, No, 0
+699, Cauã, Mendes, 25, Cruzeiro, Midfielder, 1377, 43, 23, 64, 30, 18, 84, Yes, Yes, 9
+700, Nicolas, Teixeira, 25, São Paulo, Striker, 5729, 43, 80, 43, 13, 27, 54, Yes, Yes, 12
+701, Enzo, Martins, 39, Athletico-PR, Goalkepper, 8269, 53, 44, 12, 63, 83, 63, Yes, Yes, 8
+702, Arthur, Almeida, 22, São Paulo, Defender, 4006, 40, 42, 14, 48, 5, 94, Yes, Yes, 3
+703, Enzo, Gomes, 27, Grêmio, Striker, 6818, 42, 5, 45, 33, 48, 83, No, No, 0
+704, Henrique, Pereira, 35, Atlético-MG, Defender, 8863, 53, 6, 13, 59, 90, 98, No, Yes, 3
+705, Vinicius, Ferreira, 32, Santos, Defender, 6594, 41, 23, 67, 4, 71, 43, No, Yes, 5
+706, Cauã, Moreira, 31, Grêmio, Sweeper, 4913, 41, 8, 80, 25, 2, 94, Yes, Yes, 3
+707, Daniel, Ribeiro, 29, São Paulo, Striker, 8927, 47, 87, 19, 19, 54, 56, No, No, 0
+708, Matheus, Barbosa, 38, Vasco, Midfielder, 2699, 73, 82, 94, 98, 89, 2, Yes, Yes, 7
+709, Arthur, Costa, 38, Cruzeiro, Sweeper, 5330, 35, 71, 54, 20, 25, 8, No, Yes, 5
+710, Leonardo, Dias, 31, Fluminense, Striker, 8990, 56, 1, 99, 84, 93, 4, No, Yes, 11
+711, Gabriel, Soares, 30, Santos, Striker, 3274, 55, 47, 52, 62, 30, 85, No, Yes, 3
+712, Leonardo, Oliveira, 36, Grêmio, Midfielder, 6466, 52, 71, 12, 4, 89, 84, No, No, 0
+713, Daniel, Ferreira, 16, Atlético-MG, Sweeper, 7010, 76, 87, 64, 96, 36, 99, No, No, 0
+714, Arthur, Freitas, 23, Atlético-MG, Sweeper, 6058, 42, 28, 30, 40, 52, 62, No, No, 0
+715, Caio, Souza, 21, Coritiba, Sweeper, 8471, 45, 61, 97, 16, 23, 28, No, No, 0
+716, João, Barbosa, 28, Palmeiras, Midfielder, 5039, 61, 77, 70, 36, 40, 84, No, Yes, 11
+717, Miguel, Vieira, 37, Cruzeiro, Sweeper, 6066, 63, 53, 93, 90, 10, 69, No, No, 0
+718, Pedro, Costa, 24, Palmeiras, Goalkepper, 4451, 37, 5, 9, 63, 89, 21, No, Yes, 11
+719, Daniel, Dias, 40, Cruzeiro, Striker, 3506, 70, 84, 22, 47, 99, 98, No, Yes, 12
+720, Enzo, Lima, 22, América-MG, Defender, 3298, 63, 15, 94, 51, 70, 87, Yes, No, 0
+721, Guilherme, Ferreira, 24, Palmeiras, Sweeper, 8845, 51, 52, 69, 6, 37, 91, No, Yes, 7
+722, Matheus, Machado, 37, Atlético-MG, Midfielder, 9893, 60, 64, 79, 57, 87, 14, Yes, Yes, 5
+723, Nicolas, Moreira, 28, Fortaleza, Sweeper, 8581, 56, 55, 56, 72, 90, 10, Yes, Yes, 1
+724, João Pedro, Mendes, 36, América-MG, Sweeper, 7146, 67, 66, 48, 73, 96, 54, Yes, No, 0
+725, Gustavo, Marques, 29, Botafogo, Goalkepper, 2832, 64, 57, 89, 62, 95, 20, No, Yes, 1
+726, Leonardo, Lopes, 21, Flamengo, Sweeper, 1175, 25, 5, 27, 36, 41, 19, Yes, No, 0
+727, Pietro, Lopes, 40, Athletico-PR, Defender, 3425, 55, 71, 14, 32, 76, 85, Yes, Yes, 2
+728, Murilo, Dias, 37, Bragantino, Defender, 6085, 54, 84, 54, 88, 41, 7, Yes, Yes, 3
+729, Diego, Rocha, 23, São Paulo, Sweeper, 6047, 26, 18, 1, 7, 15, 92, No, No, 0
+730, Caio, Moreira, 31, Corinthians, Sweeper, 6059, 61, 97, 63, 96, 13, 38, No, No, 0
+731, João Vitor, Lopes, 19, Vasco, Striker, 5530, 60, 87, 17, 66, 55, 75, Yes, No, 0
+732, Thiago, Silva, 27, Palmeiras, Sweeper, 9729, 60, 90, 33, 39, 96, 43, Yes, Yes, 9
+733, Thiago, Pereira, 24, Botafogo, Goalkepper, 3638, 37, 25, 12, 43, 8, 97, No, Yes, 1
+734, Vinicius, Lima, 39, São Paulo, Midfielder, 5761, 46, 68, 41, 26, 20, 76, Yes, No, 0
+735, Lorenzo, Mendes, 30, Flamengo, Sweeper, 5075, 64, 31, 85, 87, 29, 89, No, Yes, 7
+736, Murilo, Ramos, 28, Atlético-MG, Defender, 9506, 58, 85, 4, 89, 60, 56, No, No, 0
+737, Samuel, Vieira, 33, Bahia, Sweeper, 9606, 61, 78, 9, 54, 77, 88, No, Yes, 7
+738, Rafael, Andrade, 27, Flamengo, Sweeper, 9902, 56, 11, 88, 82, 96, 7, Yes, No, 0
+739, Diego, Silva, 37, Atlético-MG, Striker, 4323, 40, 60, 47, 50, 28, 19, Yes, No, 0
+740, João Vitor, Carvalho, 38, Fluminense, Defender, 1750, 69, 90, 78, 85, 83, 12, No, No, 0
+741, Arthur, Lopes, 29, Atlético-MG, Goalkepper, 6692, 24, 23, 10, 74, 4, 9, No, Yes, 11
+742, Vitor, Cardoso, 18, Atlético-MG, Defender, 4345, 57, 64, 68, 61, 41, 52, Yes, Yes, 5
+743, Eduardo, Santana, 21, Cruzeiro, Striker, 8814, 52, 89, 59, 38, 3, 73, No, Yes, 8
+744, Isaac, Nunes, 38, Internacional, Striker, 9454, 45, 13, 12, 22, 86, 94, No, Yes, 12
+745, João Gabriel, Machado, 38, Bragantino, Sweeper, 6696, 68, 72, 84, 72, 68, 46, Yes, No, 0
+746, Guilherme, Rocha, 22, Palmeiras, Defender, 5898, 43, 85, 59, 55, 7, 13, Yes, Yes, 5
+747, Thiago, Moreira, 38, Corinthians, Sweeper, 5047, 46, 24, 82, 33, 44, 51, No, Yes, 1
+748, Caio, Alves, 21, Flamengo, Goalkepper, 3703, 49, 26, 89, 74, 22, 38, Yes, No, 0
+749, Cauã, Fernandes, 25, Fortaleza, Goalkepper, 2355, 45, 24, 74, 41, 50, 40, No, Yes, 9
+750, Leonardo, Machado, 18, Cruzeiro, Goalkepper, 8688, 37, 57, 21, 1, 53, 57, No, No, 0
+751, Matheus, Gomes, 17, Athletico-PR, Goalkepper, 4617, 56, 84, 81, 5, 80, 34, No, Yes, 8
+752, Miguel, Martins, 38, Fortaleza, Sweeper, 9901, 39, 98, 1, 35, 29, 35, No, No, 0
+753, Nicolas, Martins, 31, Santos, Sweeper, 8431, 48, 91, 15, 71, 54, 12, No, No, 0
+754, Arthur, Ramos, 33, Cruzeiro, Sweeper, 1333, 60, 59, 44, 15, 99, 83, Yes, No, 0
+755, Felipe, Martins, 29, Palmeiras, Striker, 6715, 53, 27, 47, 94, 26, 72, Yes, Yes, 6
+756, Eduardo, Machado, 32, Cruzeiro, Defender, 9561, 28, 50, 7, 19, 42, 26, No, Yes, 7
+757, Isaac, Santos, 21, Fortaleza, Goalkepper, 5327, 56, 48, 35, 67, 88, 44, No, Yes, 4
+758, Pietro, Andrade, 28, Cruzeiro, Sweeper, 8255, 54, 36, 43, 98, 36, 60, No, No, 0
+759, Felipe, Lima, 33, Cruzeiro, Sweeper, 4713, 52, 22, 47, 82, 93, 17, Yes, Yes, 7
+760, Heitor, Vieira, 16, Internacional, Defender, 1366, 67, 70, 87, 84, 77, 17, No, No, 0
+761, Gabriel, Pereira, 28, Fortaleza, Midfielder, 2210, 48, 62, 39, 87, 43, 13, Yes, No, 0
+762, Samuel, Martins, 25, Cruzeiro, Defender, 6126, 45, 62, 61, 19, 1, 82, No, Yes, 3
+763, Caio, Gomes, 31, Goiás, Defender, 8638, 55, 35, 72, 70, 72, 30, No, No, 0
+764, Bernardo, Martins, 34, Athletico-PR, Sweeper, 8849, 48, 27, 93, 65, 20, 37, Yes, Yes, 7
+765, Vinicius, Moreira, 23, Grêmio, Sweeper, 5546, 22, 20, 20, 9, 11, 50, Yes, No, 0
+766, Vitor, Moreira, 32, Palmeiras, Defender, 4486, 38, 23, 28, 59, 17, 65, No, No, 0
+767, Davi, Santana, 40, Santos, Goalkepper, 4773, 78, 90, 57, 92, 67, 86, No, Yes, 9
+768, Bernardo, Carvalho, 20, São Paulo, Goalkepper, 6598, 50, 79, 52, 10, 29, 80, Yes, No, 0
+769, João, Oliveira, 18, Internacional, Midfielder, 4076, 54, 24, 15, 74, 99, 62, Yes, No, 0
+770, Guilherme, Costa, 22, Cruzeiro, Sweeper, 1604, 45, 92, 24, 27, 69, 16, No, Yes, 11
+771, Isaac, Ribeiro, 20, Bragantino, Goalkepper, 5414, 30, 17, 3, 80, 2, 51, No, Yes, 11
+772, Lorenzo, Dias, 17, Athletico-PR, Midfielder, 4053, 44, 11, 84, 20, 24, 84, Yes, Yes, 11
+773, Pietro, Freitas, 30, Internacional, Defender, 1550, 28, 92, 13, 13, 16, 7, Yes, No, 0
+774, Miguel, Machado, 39, Internacional, Sweeper, 6593, 25, 31, 18, 18, 45, 14, Yes, Yes, 1
+775, Guilherme, Teixeira, 38, Corinthians, Midfielder, 8772, 49, 70, 70, 52, 35, 20, No, No, 0
+776, Lorenzo, Freitas, 31, Fortaleza, Sweeper, 1014, 32, 20, 45, 8, 52, 37, No, No, 0
+777, Henrique, Teixeira, 35, Fortaleza, Goalkepper, 3336, 43, 59, 62, 21, 28, 45, Yes, Yes, 4
+778, Lucca, Santos, 19, Flamengo, Midfielder, 8698, 44, 34, 22, 11, 89, 66, No, No, 0
+779, Caio, Nunes, 25, Goiás, Defender, 7764, 53, 80, 76, 86, 22, 2, No, No, 0
+780, Arthur, Moreira, 28, Grêmio, Defender, 3836, 35, 5, 15, 71, 53, 35, No, Yes, 1
+781, Henrique, Ferreira, 39, São Paulo, Sweeper, 9894, 47, 46, 82, 32, 75, 4, Yes, No, 0
+782, Arthur, Ribeiro, 28, Palmeiras, Defender, 4383, 49, 13, 15, 84, 58, 75, Yes, Yes, 10
+783, Vitor, Ferreira, 24, Bragantino, Midfielder, 1659, 58, 29, 48, 58, 60, 96, Yes, No, 0
+784, João Pedro, Marques, 20, São Paulo, Goalkepper, 4106, 40, 20, 53, 57, 29, 42, Yes, Yes, 5
+785, João, Lima, 36, Fluminense, Midfielder, 5979, 43, 38, 61, 6, 63, 47, No, No, 0
+786, Lucas, Ramos, 17, Fortaleza, Defender, 1632, 47, 5, 82, 49, 81, 22, Yes, No, 0
+787, Felipe, Andrade, 40, Santos, Midfielder, 4161, 49, 42, 69, 16, 55, 65, Yes, Yes, 6
+788, João Gabriel, Cardoso, 27, Santos, Midfielder, 9219, 23, 1, 76, 4, 11, 27, No, No, 0
+789, Murilo, Nunes, 26, São Paulo, Goalkepper, 5829, 42, 57, 42, 71, 27, 14, No, Yes, 10
+790, João, Santana, 38, Cuiabá, Defender, 2028, 59, 26, 45, 83, 84, 60, Yes, Yes, 6
+791, Miguel, Rocha, 39, Athletico-PR, Goalkepper, 4767, 37, 36, 21, 5, 76, 50, Yes, Yes, 11
+792, Henrique, Costa, 34, Bahia, Midfielder, 5691, 46, 70, 10, 65, 15, 74, No, No, 0
+793, Caio, Alves, 34, Bragantino, Defender, 6637, 43, 41, 98, 24, 12, 44, No, No, 0
+794, Gustavo, Carvalho, 30, Corinthians, Striker, 1310, 40, 49, 30, 70, 8, 47, No, Yes, 2
+795, Bernardo, Santos, 24, Bragantino, Striker, 1204, 66, 39, 98, 52, 87, 55, Yes, Yes, 2
+796, Lucas, Lima, 34, Botafogo, Midfielder, 2749, 60, 68, 49, 45, 76, 66, No, No, 0
+797, Pedro, Moreira, 38, Bahia, Defender, 5209, 45, 11, 43, 85, 86, 4, Yes, Yes, 10
+798, Vitor, Lima, 31, Athletico-PR, Striker, 7183, 38, 10, 45, 70, 25, 40, No, No, 0
+799, Lucca, Gonçalves, 37, Corinthians, Midfielder, 1917, 36, 55, 29, 88, 7, 4, Yes, Yes, 1
+800, Pietro, Dias, 40, Grêmio, Sweeper, 6343, 38, 37, 29, 35, 60, 30, No, Yes, 4
+801, Eduardo, Pereira, 40, Bahia, Goalkepper, 3228, 69, 94, 39, 41, 87, 88, Yes, No, 0
+802, Caio, Machado, 17, Coritiba, Sweeper, 4579, 58, 36, 87, 77, 63, 27, No, No, 0
+803, Diego, Almeida, 20, Bragantino, Striker, 4347, 63, 94, 55, 5, 93, 71, Yes, Yes, 5
+804, Isaac, Ramos, 40, Fortaleza, Midfielder, 2937, 38, 23, 62, 22, 81, 6, Yes, No, 0
+805, Caio, Silva, 34, Grêmio, Sweeper, 3980, 57, 90, 98, 7, 68, 26, No, Yes, 9
+806, Pietro, Oliveira, 34, Corinthians, Striker, 8256, 33, 54, 16, 43, 11, 43, Yes, Yes, 7
+807, Davi, Costa, 32, Athletico-PR, Defender, 9112, 59, 95, 68, 33, 75, 26, No, No, 0
+808, Guilherme, Cardoso, 33, Atlético-MG, Midfielder, 9640, 56, 52, 62, 13, 80, 73, No, Yes, 9
+809, Gustavo, Machado, 34, Atlético-MG, Goalkepper, 2399, 62, 49, 70, 96, 75, 23, Yes, No, 0
+810, Guilherme, Moreira, 17, Bahia, Striker, 4784, 53, 13, 62, 95, 50, 46, No, Yes, 4
+811, Gabriel, Oliveira, 18, Coritiba, Midfielder, 4580, 71, 92, 95, 67, 19, 85, Yes, No, 0
+812, Isaac, Rocha, 16, Coritiba, Sweeper, 4850, 52, 75, 32, 10, 66, 77, No, No, 0
+813, Diego, Ramos, 39, América-MG, Striker, 7127, 68, 72, 54, 94, 99, 24, No, No, 0
+814, Guilherme, Carvalho, 30, Bragantino, Midfielder, 2608, 56, 43, 82, 41, 82, 36, Yes, No, 0
+815, João, Ferreira, 32, Bahia, Striker, 9613, 59, 82, 91, 14, 88, 22, No, Yes, 10
+816, Caio, Barbosa, 20, Goiás, Striker, 4109, 43, 37, 50, 93, 20, 16, Yes, No, 0
+817, João Pedro, Alves, 25, Atlético-MG, Midfielder, 9003, 51, 3, 55, 98, 19, 84, No, No, 0
+818, Eduardo, Santana, 21, Botafogo, Goalkepper, 8822, 39, 6, 21, 95, 29, 48, Yes, No, 0
+819, Pedro, Ramos, 26, Bragantino, Goalkepper, 3524, 37, 7, 3, 64, 98, 16, Yes, No, 0
+820, Arthur, Santana, 31, Vasco, Midfielder, 1189, 65, 83, 99, 5, 41, 97, Yes, Yes, 1
+821, Isaac, Rodrigues, 35, Bahia, Midfielder, 8158, 45, 9, 24, 46, 91, 59, Yes, Yes, 8
+822, Pedro, Carvalho, 22, Fluminense, Defender, 9602, 60, 93, 82, 1, 73, 52, No, Yes, 4
+823, Davi, Santos, 31, Coritiba, Defender, 7037, 42, 66, 46, 15, 29, 58, Yes, No, 0
+824, Pedro, Carvalho, 17, Corinthians, Defender, 6677, 61, 75, 66, 77, 27, 62, Yes, Yes, 7
+825, Eduardo, Ribeiro, 27, Fluminense, Sweeper, 9797, 62, 98, 55, 30, 53, 74, No, No, 0
+826, Henrique, Soares, 40, Cruzeiro, Goalkepper, 1179, 44, 38, 61, 39, 14, 69, Yes, No, 0
+827, Lucas, Ribeiro, 33, Internacional, Midfielder, 6154, 46, 45, 68, 6, 65, 48, No, No, 0
+828, Samuel, Ribeiro, 27, América-MG, Goalkepper, 3005, 40, 4, 42, 94, 12, 48, Yes, No, 0
+829, Diego, Pereira, 21, Bahia, Defender, 4506, 44, 74, 14, 59, 45, 31, Yes, Yes, 11
+830, Pietro, Ferreira, 34, Goiás, Defender, 4922, 58, 58, 79, 65, 50, 42, No, No, 0
+831, João Gabriel, Carvalho, 25, Internacional, Midfielder, 4092, 69, 52, 91, 91, 84, 29, No, Yes, 5
+832, Lorenzo, Rocha, 21, América-MG, Goalkepper, 4790, 63, 82, 85, 88, 62, 2, No, No, 0
+833, Heitor, Andrade, 24, Grêmio, Sweeper, 2877, 43, 45, 5, 70, 87, 10, Yes, No, 0
+834, João Pedro, Cardoso, 34, Fortaleza, Midfielder, 4187, 40, 6, 81, 43, 68, 5, No, Yes, 7
+835, Lucas, Alves, 19, Grêmio, Sweeper, 2985, 46, 43, 86, 4, 77, 23, No, No, 0
+836, Murilo, Dias, 31, Fortaleza, Sweeper, 2659, 51, 78, 6, 86, 4, 84, Yes, Yes, 5
+837, Caio, Vieira, 40, Corinthians, Goalkepper, 8690, 62, 87, 99, 51, 60, 14, No, No, 0
+838, Nicolas, Freitas, 19, Botafogo, Goalkepper, 8228, 54, 64, 30, 52, 99, 28, No, Yes, 10
+839, Vitor, Moreira, 18, Vasco, Midfielder, 1310, 52, 34, 57, 86, 61, 25, Yes, No, 0
+840, Gustavo, Soares, 34, Santos, Defender, 3070, 41, 9, 38, 91, 63, 7, Yes, No, 0
+841, Samuel, Oliveira, 30, Athletico-PR, Striker, 3626, 48, 88, 6, 12, 54, 82, Yes, Yes, 4
+842, João Vitor, Soares, 37, Athletico-PR, Sweeper, 4401, 55, 91, 10, 55, 72, 50, Yes, Yes, 12
+843, Pedro, Carvalho, 33, Fluminense, Striker, 2225, 45, 62, 8, 99, 25, 33, Yes, Yes, 10
+844, Davi, Mendes, 25, Vasco, Goalkepper, 9455, 43, 86, 14, 4, 32, 81, Yes, No, 0
+845, João Gabriel, Oliveira, 18, Coritiba, Striker, 5692, 57, 54, 72, 59, 19, 81, No, No, 0
+846, Lucas, Costa, 31, Fluminense, Midfielder, 3468, 45, 42, 42, 50, 70, 22, No, No, 0
+847, Caio, Martins, 25, Bragantino, Midfielder, 1217, 56, 97, 71, 26, 76, 12, Yes, Yes, 6
+848, João Vitor, Souza, 23, Bahia, Defender, 6055, 47, 63, 91, 30, 9, 46, Yes, No, 0
+849, Nicolas, Martins, 18, Palmeiras, Goalkepper, 2935, 52, 98, 36, 4, 57, 69, Yes, No, 0
+850, Felipe, Oliveira, 16, Bahia, Striker, 4259, 27, 3, 40, 23, 7, 65, Yes, No, 0
+851, Matheus, Barbosa, 29, Santos, Defender, 2669, 51, 3, 50, 42, 99, 62, Yes, Yes, 5
+852, Isaac, Rodrigues, 36, América-MG, Goalkepper, 5133, 49, 15, 69, 10, 58, 97, No, No, 0
+853, Cauã, Alves, 18, Bragantino, Goalkepper, 3353, 42, 42, 87, 29, 17, 37, No, No, 0
+854, Vinicius, Silva, 17, Goiás, Striker, 9427, 45, 36, 24, 52, 21, 94, Yes, No, 0
+855, João Pedro, Gomes, 38, Vasco, Goalkepper, 6492, 55, 73, 95, 4, 66, 38, No, Yes, 11
+856, Henrique, Mendes, 40, Fortaleza, Striker, 8529, 75, 86, 89, 50, 72, 81, No, No, 0
+857, Enzo, Gonçalves, 20, Bragantino, Sweeper, 4903, 21, 22, 33, 14, 7, 32, Yes, No, 0
+858, Pietro, Soares, 38, São Paulo, Goalkepper, 8423, 38, 10, 56, 5, 44, 75, No, No, 0
+859, Isaac, Rodrigues, 27, Flamengo, Midfielder, 9440, 40, 79, 3, 17, 55, 47, No, Yes, 4
+860, Samuel, Oliveira, 37, América-MG, Defender, 4944, 22, 4, 5, 74, 28, 3, No, Yes, 9
+861, Pedro, Martins, 40, Fluminense, Midfielder, 9687, 48, 52, 53, 55, 70, 10, No, Yes, 12
+862, Thiago, Souza, 29, América-MG, Goalkepper, 4861, 47, 77, 30, 33, 21, 76, Yes, Yes, 8
+863, Daniel, Teixeira, 40, Santos, Goalkepper, 7117, 49, 72, 18, 54, 14, 89, No, No, 0
+864, Pietro, Nascimento, 19, Palmeiras, Goalkepper, 9963, 44, 48, 48, 44, 69, 12, No, No, 0
+865, Miguel, Gonçalves, 30, Goiás, Striker, 8646, 73, 98, 45, 72, 92, 62, No, No, 0
+866, Daniel, Freitas, 26, Palmeiras, Striker, 8359, 30, 41, 17, 43, 7, 43, No, Yes, 11
+867, João Gabriel, Alves, 33, Athletico-PR, Midfielder, 3897, 55, 89, 53, 17, 62, 58, No, No, 0
+868, Thiago, Rodrigues, 36, Internacional, Sweeper, 7179, 57, 50, 80, 50, 25, 80, Yes, Yes, 6
+869, Lucas, Souza, 26, Bragantino, Sweeper, 3448, 68, 94, 76, 50, 22, 98, Yes, No, 0
+870, Miguel, Costa, 25, Vasco, Sweeper, 8812, 63, 57, 50, 89, 64, 59, No, Yes, 3
+871, Gabriel, Lima, 27, América-MG, Defender, 9031, 38, 69, 1, 51, 29, 44, Yes, Yes, 4
+872, Murilo, Cardoso, 19, Flamengo, Goalkepper, 3093, 67, 55, 82, 69, 95, 34, Yes, No, 0
+873, João, Rocha, 31, São Paulo, Midfielder, 5941, 78, 92, 89, 34, 78, 99, No, No, 0
+874, Lucas, Oliveira, 35, Flamengo, Midfielder, 5847, 62, 96, 64, 21, 37, 92, No, No, 0
+875, Caio, Silva, 39, Cruzeiro, Striker, 4617, 44, 99, 18, 70, 21, 12, No, No, 0
+876, Thiago, Lima, 18, Coritiba, Goalkepper, 6055, 51, 30, 48, 30, 80, 71, No, No, 0
+877, Bernardo, Pereira, 19, Goiás, Goalkepper, 8646, 31, 32, 18, 80, 25, 1, No, Yes, 9
+878, Gustavo, Pereira, 38, Bahia, Sweeper, 8401, 27, 5, 38, 60, 9, 24, No, No, 0
+879, João, Vieira, 34, Cuiabá, Defender, 3933, 71, 79, 95, 35, 56, 92, No, Yes, 9
+880, Enzo, Lima, 36, Corinthians, Defender, 7525, 21, 38, 16, 9, 38, 8, No, Yes, 2
+881, Murilo, Machado, 30, América-MG, Striker, 6820, 32, 48, 27, 25, 9, 53, Yes, Yes, 10
+882, Guilherme, Santana, 30, Palmeiras, Defender, 4516, 69, 65, 96, 93, 60, 34, Yes, No, 0
+883, Matheus, Oliveira, 37, Internacional, Goalkepper, 1107, 59, 35, 72, 95, 79, 14, Yes, Yes, 8
+884, Nicolas, Gomes, 19, Goiás, Defender, 4715, 67, 49, 80, 85, 33, 91, Yes, Yes, 2
+885, Vinicius, Soares, 34, América-MG, Goalkepper, 6468, 80, 90, 98, 97, 30, 89, No, No, 0
+886, Thiago, Dias, 31, Athletico-PR, Sweeper, 2299, 61, 54, 86, 72, 15, 80, No, No, 0
+887, Rafael, Martins, 29, Coritiba, Sweeper, 1641, 67, 39, 37, 99, 63, 97, Yes, No, 0
+888, Pedro, Moreira, 35, Vasco, Striker, 6433, 65, 57, 90, 78, 72, 30, No, No, 0
+889, Gustavo, Gomes, 18, Bahia, Defender, 2577, 37, 4, 10, 63, 72, 37, Yes, No, 0
+890, Felipe, Marques, 29, Internacional, Midfielder, 1858, 49, 55, 86, 42, 34, 29, No, Yes, 7
+891, Lorenzo, Vieira, 23, Fortaleza, Defender, 4325, 64, 36, 63, 97, 80, 44, No, Yes, 6
+892, Lucas, Ferreira, 37, Cuiabá, Midfielder, 6645, 62, 71, 37, 31, 74, 99, No, Yes, 9
+893, Diego, Souza, 17, Goiás, Goalkepper, 1371, 53, 37, 68, 67, 8, 89, No, No, 0
+894, Bernardo, Silva, 32, Grêmio, Striker, 8452, 52, 74, 67, 81, 36, 5, Yes, No, 0
+895, Matheus, Rocha, 35, Santos, Defender, 2390, 51, 96, 22, 22, 51, 64, Yes, Yes, 4
+896, Guilherme, Mendes, 38, Santos, Goalkepper, 3167, 72, 68, 65, 96, 92, 39, Yes, Yes, 8
+897, Diego, Pereira, 33, Fortaleza, Sweeper, 2594, 32, 71, 2, 5, 55, 31, No, Yes, 7
+898, Bernardo, Santana, 23, Cuiabá, Goalkepper, 7466, 45, 65, 26, 37, 52, 49, Yes, No, 0
+899, Nicolas, Gomes, 32, Coritiba, Defender, 7207, 37, 5, 24, 29, 62, 69, Yes, No, 0
+900, João Pedro, Ferreira, 16, Cruzeiro, Defender, 4518, 65, 82, 77, 50, 77, 42, No, Yes, 11
+901, Vinicius, Oliveira, 39, Goiás, Sweeper, 7540, 56, 60, 28, 89, 93, 13, No, No, 0
+902, Enzo, Ribeiro, 34, Coritiba, Goalkepper, 3838, 71, 49, 52, 61, 99, 95, No, No, 0
+903, Arthur, Fernandes, 40, Atlético-MG, Goalkepper, 1997, 42, 73, 45, 22, 68, 2, No, Yes, 1
+904, Eduardo, Moreira, 31, Fluminense, Striker, 1154, 33, 80, 27, 4, 32, 25, No, Yes, 3
+905, Henrique, Souza, 37, Santos, Striker, 9865, 56, 59, 85, 68, 36, 34, No, Yes, 2
+906, Isaac, Soares, 19, Cruzeiro, Midfielder, 1347, 56, 61, 32, 88, 42, 59, Yes, Yes, 12
+907, Gabriel, Moreira, 35, São Paulo, Striker, 9870, 74, 42, 89, 83, 61, 99, Yes, Yes, 11
+908, Gustavo, Fernandes, 20, Coritiba, Midfielder, 5109, 48, 38, 50, 72, 16, 67, No, No, 0
+909, Bernardo, Alves, 30, Fortaleza, Sweeper, 9264, 40, 3, 40, 57, 58, 42, Yes, No, 0
+910, João, Martins, 31, Cruzeiro, Midfielder, 4589, 47, 6, 67, 87, 9, 67, No, Yes, 7
+911, Daniel, Lopes, 40, Fluminense, Midfielder, 6903, 65, 87, 60, 20, 98, 63, No, Yes, 8
+912, Rafael, Lima, 23, São Paulo, Sweeper, 3181, 56, 81, 65, 63, 59, 15, No, Yes, 9
+913, Nicolas, Vieira, 31, Coritiba, Striker, 5170, 41, 32, 39, 51, 49, 37, Yes, No, 0
+914, Felipe, Souza, 40, Bragantino, Striker, 7579, 46, 12, 22, 26, 87, 86, Yes, No, 0
+915, Heitor, Lopes, 26, Coritiba, Midfielder, 8136, 45, 55, 5, 60, 79, 26, Yes, Yes, 8
+916, Vitor, Alves, 20, Coritiba, Goalkepper, 8262, 47, 83, 30, 13, 69, 40, No, No, 0
+917, Miguel, Dias, 28, Cuiabá, Midfielder, 5002, 59, 68, 98, 84, 32, 15, Yes, No, 0
+918, Heitor, Costa, 18, Santos, Goalkepper, 1601, 41, 38, 15, 68, 48, 36, Yes, No, 0
+919, Bernardo, Ramos, 21, Grêmio, Sweeper, 9140, 33, 19, 45, 30, 24, 47, Yes, Yes, 7
+920, Gustavo, Rocha, 21, América-MG, Midfielder, 4863, 53, 52, 43, 40, 87, 44, No, No, 0
+921, Caio, Almeida, 24, Fluminense, Defender, 2579, 33, 27, 32, 40, 1, 68, No, No, 0
+922, Lucca, Marques, 24, Botafogo, Sweeper, 1069, 34, 71, 7, 9, 35, 50, Yes, Yes, 4
+923, Felipe, Dias, 18, Internacional, Striker, 2550, 64, 14, 92, 96, 65, 56, No, No, 0
+924, Pietro, Mendes, 37, Athletico-PR, Midfielder, 5307, 38, 42, 39, 41, 12, 56, No, Yes, 6
+925, Lucas, Ramos, 38, Bahia, Sweeper, 6533, 52, 91, 36, 39, 3, 93, Yes, Yes, 2
+926, Davi, Silva, 36, Atlético-MG, Midfielder, 7188, 32, 7, 92, 19, 8, 34, No, No, 0
+927, Gabriel, Rocha, 27, Corinthians, Striker, 9024, 49, 31, 26, 88, 98, 2, Yes, No, 0
+928, Nicolas, Dias, 32, Bahia, Defender, 2963, 58, 77, 93, 21, 40, 62, No, Yes, 6
+929, Rafael, Nunes, 35, Athletico-PR, Striker, 3007, 37, 18, 31, 39, 20, 77, Yes, Yes, 3
+930, Pedro, Gomes, 24, América-MG, Striker, 6496, 76, 94, 79, 76, 68, 66, Yes, No, 0
+931, Miguel, Pereira, 30, Palmeiras, Sweeper, 7074, 61, 34, 98, 95, 54, 26, No, Yes, 2
+932, Leonardo, Alves, 31, Bahia, Goalkepper, 2681, 35, 48, 49, 4, 58, 16, No, Yes, 9
+933, João Gabriel, Dias, 36, Goiás, Defender, 3719, 38, 50, 81, 2, 33, 26, Yes, No, 0
+934, João Pedro, Machado, 37, Atlético-MG, Defender, 8306, 63, 42, 27, 91, 81, 76, Yes, Yes, 9
+935, Leonardo, Lopes, 40, Internacional, Striker, 2832, 55, 82, 34, 41, 42, 77, No, Yes, 10
+936, Guilherme, Lopes, 17, Athletico-PR, Midfielder, 4939, 54, 16, 39, 86, 87, 46, Yes, No, 0
+937, Vinicius, Freitas, 25, Goiás, Goalkepper, 4351, 53, 82, 65, 43, 30, 48, No, Yes, 2
+938, Davi, Almeida, 36, Bragantino, Midfielder, 6208, 67, 49, 37, 75, 91, 84, No, No, 0
+939, Vinicius, Soares, 20, Coritiba, Midfielder, 9875, 65, 92, 87, 95, 51, 4, No, No, 0
+940, Nicolas, Vieira, 38, Fluminense, Striker, 3904, 43, 95, 40, 16, 11, 55, No, No, 0
+941, Matheus, Souza, 19, Vasco, Midfielder, 2113, 73, 72, 93, 70, 55, 75, No, No, 0
+942, Rafael, Santos, 32, Corinthians, Striker, 5638, 53, 40, 6, 79, 90, 52, No, No, 0
+943, Henrique, Ramos, 38, Bragantino, Goalkepper, 5870, 44, 41, 32, 28, 33, 86, Yes, No, 0
+944, Lucas, Nunes, 16, Fortaleza, Goalkepper, 3920, 73, 94, 63, 98, 49, 65, Yes, No, 0
+945, Isaac, Moreira, 29, Cruzeiro, Defender, 8082, 49, 20, 75, 11, 67, 75, No, Yes, 2
+946, Nicolas, Rocha, 22, Cruzeiro, Sweeper, 5057, 56, 91, 60, 70, 40, 23, No, No, 0
+947, João Gabriel, Vieira, 20, Grêmio, Goalkepper, 7887, 51, 49, 17, 93, 11, 87, Yes, No, 0
+948, Arthur, Rocha, 26, Santos, Midfielder, 9526, 42, 49, 2, 70, 57, 35, Yes, Yes, 6
+949, Samuel, Lopes, 37, Fortaleza, Goalkepper, 7948, 48, 57, 66, 89, 20, 9, Yes, Yes, 12
+950, Pietro, Andrade, 18, Flamengo, Striker, 7332, 70, 38, 71, 58, 87, 99, No, No, 0
+951, Bernardo, Lima, 22, Botafogo, Striker, 4664, 40, 12, 7, 77, 22, 84, Yes, No, 0
+952, João Pedro, Gonçalves, 31, Athletico-PR, Striker, 8969, 47, 52, 6, 40, 56, 81, No, No, 0
+953, Vinicius, Vieira, 28, Bahia, Defender, 4425, 56, 33, 45, 69, 90, 47, Yes, Yes, 10
+954, Lucas, Nunes, 19, Corinthians, Midfielder, 3482, 57, 84, 23, 86, 37, 57, Yes, No, 0
+955, Samuel, Costa, 20, Cruzeiro, Defender, 8788, 48, 63, 92, 37, 23, 27, Yes, Yes, 5
+956, João Gabriel, Barbosa, 31, Bahia, Goalkepper, 5069, 36, 63, 3, 6, 20, 90, No, Yes, 1
+957, Bernardo, Martins, 33, Santos, Goalkepper, 8269, 36, 29, 20, 89, 26, 19, No, No, 0
+958, João Vitor, Costa, 38, Palmeiras, Midfielder, 9704, 46, 23, 83, 30, 74, 24, Yes, No, 0
+959, Davi, Barbosa, 27, Palmeiras, Goalkepper, 4761, 42, 95, 32, 9, 40, 36, No, Yes, 11
+960, Caio, Barbosa, 40, Fluminense, Striker, 3452, 45, 44, 69, 56, 12, 47, Yes, No, 0
+961, Gustavo, Cardoso, 18, Bahia, Striker, 8844, 70, 43, 76, 90, 78, 67, Yes, Yes, 4
+962, Leonardo, Santana, 36, Santos, Striker, 3290, 72, 68, 92, 54, 67, 83, No, Yes, 11
+963, Matheus, Alves, 22, Athletico-PR, Striker, 1707, 20, 2, 17, 6, 59, 19, Yes, Yes, 4
+964, Henrique, Freitas, 32, Internacional, Sweeper, 4962, 55, 29, 89, 3, 89, 68, Yes, No, 0
+965, Eduardo, Moreira, 18, Bahia, Sweeper, 5588, 41, 18, 4, 11, 92, 80, No, No, 0
+966, Guilherme, Fernandes, 28, Fluminense, Sweeper, 3649, 65, 24, 85, 91, 45, 84, Yes, Yes, 6
+967, Davi, Mendes, 16, América-MG, Midfielder, 5191, 35, 37, 3, 36, 14, 87, Yes, No, 0
+968, Gustavo, Andrade, 28, Fluminense, Goalkepper, 6475, 47, 69, 34, 13, 69, 53, No, No, 0
+969, Pietro, Ferreira, 35, Cruzeiro, Midfielder, 8285, 62, 69, 22, 94, 98, 28, Yes, Yes, 6
+970, Daniel, Ferreira, 27, Corinthians, Midfielder, 2349, 61, 53, 8, 88, 90, 68, No, No, 0
+971, Eduardo, Machado, 18, Internacional, Midfielder, 2591, 43, 14, 45, 86, 14, 59, No, Yes, 1
+972, Pedro, Soares, 32, Bragantino, Goalkepper, 7584, 47, 38, 78, 42, 49, 32, Yes, No, 0
+973, João Vitor, Vieira, 28, Palmeiras, Striker, 6159, 73, 86, 17, 94, 85, 83, Yes, Yes, 8
+974, Matheus, Ferreira, 26, Bragantino, Goalkepper, 6570, 54, 85, 45, 10, 67, 63, No, Yes, 7
+975, João, Souza, 16, Fluminense, Striker, 5951, 47, 70, 37, 15, 81, 32, Yes, No, 0
+976, Pedro, Vieira, 30, Athletico-PR, Striker, 2486, 41, 85, 55, 15, 46, 7, Yes, No, 0
+977, Nicolas, Lopes, 17, Cuiabá, Defender, 2624, 45, 76, 29, 59, 27, 37, No, Yes, 10
+978, João Vitor, Andrade, 16, Corinthians, Defender, 9260, 53, 31, 90, 51, 65, 32, Yes, Yes, 12
+979, João Vitor, Barbosa, 27, Botafogo, Defender, 1333, 43, 15, 95, 49, 1, 55, No, No, 0
+980, Pietro, Machado, 34, Santos, Defender, 7907, 40, 8, 54, 51, 50, 38, Yes, No, 0
+981, Guilherme, Santana, 32, Corinthians, Midfielder, 4506, 66, 57, 35, 92, 96, 54, Yes, Yes, 2
+982, Diego, Gomes, 22, Bragantino, Sweeper, 2727, 54, 81, 87, 48, 6, 48, No, Yes, 2
+983, Henrique, Marques, 26, Santos, Goalkepper, 5646, 82, 90, 82, 85, 98, 57, No, No, 0
+984, Samuel, Ribeiro, 28, Atlético-MG, Goalkepper, 6575, 36, 6, 49, 85, 33, 11, Yes, Yes, 11
+985, Vinicius, Ferreira, 17, Grêmio, Goalkepper, 2779, 38, 21, 74, 64, 20, 11, Yes, No, 0
+986, Nicolas, Souza, 22, Atlético-MG, Midfielder, 6717, 30, 13, 50, 55, 12, 20, No, No, 0
+987, Rafael, Machado, 21, Cuiabá, Goalkepper, 1755, 37, 4, 25, 98, 13, 47, Yes, No, 0
+988, Bernardo, Ramos, 16, São Paulo, Defender, 6912, 49, 86, 11, 91, 55, 5, No, Yes, 2
+989, Bernardo, Marques, 40, Cruzeiro, Striker, 5676, 44, 5, 15, 67, 90, 44, No, No, 0
+990, Isaac, Souza, 28, Botafogo, Defender, 3069, 37, 42, 69, 14, 13, 51, No, No, 0
+991, Felipe, Lopes, 37, Vasco, Midfielder, 4866, 55, 73, 59, 87, 30, 26, Yes, Yes, 1
+992, Samuel, Ferreira, 23, Goiás, Sweeper, 8759, 41, 6, 94, 38, 65, 3, Yes, No, 0
+993, Nicolas, Ramos, 37, Santos, Defender, 6271, 58, 90, 64, 42, 21, 74, No, Yes, 11
+994, Henrique, Silva, 20, Atlético-MG, Midfielder, 2263, 39, 50, 2, 15, 55, 74, Yes, Yes, 10
+995, Thiago, Ferreira, 25, Athletico-PR, Defender, 3368, 62, 89, 30, 58, 97, 39, No, No, 0
+996, Bernardo, Machado, 27, Flamengo, Midfielder, 3967, 47, 49, 56, 32, 87, 14, Yes, Yes, 2
+997, Vinicius, Fernandes, 31, São Paulo, Midfielder, 2715, 40, 93, 16, 19, 66, 7, No, No, 0
+998, Daniel, Nascimento, 39, Grêmio, Midfielder, 8030, 63, 85, 41, 29, 94, 69, Yes, Yes, 12
+999, Leonardo, Ferreira, 20, Coritiba, Goalkepper, 7620, 25, 1, 19, 58, 13, 37, No, No, 0
+1000, Lucca, Vieira, 32, Coritiba, Striker, 5970, 34, 49, 6, 34, 53, 30, Yes, Yes, 12
