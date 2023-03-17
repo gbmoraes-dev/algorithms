@@ -18,10 +18,10 @@
 
 typedef enum {
   Goalkepper,
+  Sweeper,
   Defender,
   Midfielder,
-  Striker,
-  Sweeper
+  Striker
 } position_t;
 
 typedef struct {
