@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 #include "include/funtions.h"
-=======
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
