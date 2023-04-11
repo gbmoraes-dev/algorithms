@@ -97,7 +97,6 @@ void saveTableInCSV(athlete_t *athlete, int size, const char *arquiveName) {
     fclose(arquive);
   }
 }
->>>>>>> d4768b74402b35aed0135c2307a3bde2eaaab9dd
 
 int main() {
   athlete_t *athlete = malloc(MAX_DECK * sizeof(athlete_t));
